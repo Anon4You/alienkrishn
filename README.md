@@ -1,5 +1,5 @@
 # alien.repo
-A customer termux apt repository maintained by me 
+A custom termux apt repository maintained by me 
 
 
 ## Author
