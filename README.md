@@ -1,4 +1,4 @@
-# alien.repo
+# alienkrishn
 A custom termux apt repository maintained by me 
 
 ## add key 
