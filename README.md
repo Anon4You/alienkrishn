@@ -5,7 +5,7 @@ A custom termux apt repository maintained by me
 ## add key 
 
 ```
-apt install gnupg -y && curl -sSL https://github.com/Anon4You/alienkrishn/raw/main/alienkrishn.key | apt-key add
+curl -sSL https://github.com/Anon4You/alienkrishn/raw/main/alienkrishn.key | apt-key add
 ```
 
 ## add source list
