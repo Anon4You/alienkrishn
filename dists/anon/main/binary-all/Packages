@@ -1,0 +1,14 @@
+Package: wserver
+Architecture: all
+Version: 1.0
+Installed-Size: 4.0
+Maintainer: Alienkrishn [Anon4You]
+Description: a simple webserver for termux
+Depends: php, figlet, cloudflared
+Filename: dists/anon/main/binary-all/wserver.deb
+Size: 1228
+MD5Sum: c331fe11a6464f57a442198936782b4a
+SHA1: 7862b84dba9343c56f88c8dfe70536a39d7957e3
+SHA256: 934544c3abb3e0359a22484cf2a529b2d2a853ad31fc43ee7cce6f0b79424023
+SHA512: ad405615a3be9e9805fc2cee77dfb7ae28c5a15ece2163e499d24690176eb1d06db24f94fd754e9b96718fdad14a0cde419be11c9d8d96ae8d5432d3ec81ec4d
+
