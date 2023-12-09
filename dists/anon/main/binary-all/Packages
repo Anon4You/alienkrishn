@@ -12,6 +12,20 @@ SHA1: 3378f1e3a56e594264c63e015ab8ea6b049bc608
 SHA256: 5e8ca8ffc226857f23c896a25814c8effe06af4b0dc2519b06ad2a2761f2927f
 SHA512: 453a42cb90d852b34492ac1cc40786ea804dba6d97c3bbe3982a19bd170827ff662e346d4c920a9284be150aa54be5405cea274d30134e9617a195f78861cc51
 
+Package: webinfo
+Version: 1.0.1
+Maintainer: Alienkrishn [Anon4You]
+Depends: curl,figlet,toilet,dnsutils,nmap,traceroute,whois
+Architecture: all
+Installed-Size: 32
+Description: Website infirmation gathering tool for termux by alienkrishn
+Filename: dists/anon/main/binary-all/webinfo.deb
+Size: 1708
+MD5Sum: ce8bfcc7ebbe577eb2927574a0e8a384
+SHA1: 6b471367c0f4a0b8847ac9b1204a06fa2d05c1b4
+SHA256: 865cdc599afcb3cadf8b0ae898e466ec20b29f488053e14a0ca3d7cbb2a80727
+SHA512: 7580e3278e9d0f95bb06e8c583c20c6876ad67d3522369813972030003fe2499b8a2624b963ac3b345341cdcec84e64ee5f5f94a7db2b50a9fa7e12c09325c74
+
 Package: wserver
 Architecture: all
 Version: 1.0
