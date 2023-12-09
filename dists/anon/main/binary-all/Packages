@@ -1,3 +1,17 @@
+Package: enctool
+Version: 1.0
+Architecture: all
+Installed-Size: 64
+Maintainer: Alienkrishn [Anon4You]
+Depends: python,nodejs
+Description: encrypt or decrypt bash file and encrypt python in Marshal format
+Filename: dists/anon/main/binary-all/enctool.deb
+Size: 2304
+MD5Sum: 727d61c8a49776fa32e581a3ea147b01
+SHA1: 28b23cb3bfcf9a175f4ab59dff524cf2165f8360
+SHA256: cac30254a7b18970f814285d155c411cd382a16db0d2781299c9955c699abcb6
+SHA512: 5d6b827f10bd6f0d64edac7662a7d2c44abe8a487fe7feeb764e7414bdf253e710d5c090afede4cd92d2449bf8535f4333d6e311b1f55f4b8a93fa1a3d89225b
+
 Package: iginfobot
 Architecture: all
 Version: 1.0
