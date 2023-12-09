@@ -1,3 +1,17 @@
+Package: iginfobot
+Architecture: all
+Version: 1.0
+Maintainer: Alienkrishn [Anon4You]
+Description: Instagram user information gethering tool
+Depends: python, python-pip
+Installed-Size: 32
+Filename: dists/anon/main/binary-all/iginfobot.deb
+Size: 2224
+MD5Sum: ab758f22b926de98779bdaf4904d37c2
+SHA1: 3378f1e3a56e594264c63e015ab8ea6b049bc608
+SHA256: 5e8ca8ffc226857f23c896a25814c8effe06af4b0dc2519b06ad2a2761f2927f
+SHA512: 453a42cb90d852b34492ac1cc40786ea804dba6d97c3bbe3982a19bd170827ff662e346d4c920a9284be150aa54be5405cea274d30134e9617a195f78861cc51
+
 Package: wserver
 Architecture: all
 Version: 1.0
