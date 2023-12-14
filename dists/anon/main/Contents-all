@@ -1,4 +1,7 @@
+data/data/com.termux/files/usr/bin/cctvip                                        cctvip
+data/data/com.termux/files/usr/share/cctvip.py                                   cctvip
 data/data/com.termux/files/usr/bin/enctool                                       enctool
 data/data/com.termux/files/usr/bin/iginfobot                                     iginfobot
+data/data/com.termux/files/usr/bin/termux-desktop                                termux-desktop
 data/data/com.termux/files/usr/bin/webinfo                                       webinfo
 data/data/com.termux/files/usr/bin/wserver                                       wserver
