@@ -1,3 +1,17 @@
+Package: cctvip
+Version: 1.0.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: python,python-pip,figlet
+Installed-Size: 56
+Description: A collection of open cctv camera ip
+Filename: dists/anon/main/binary-all/cctvip.deb
+Size: 3116
+MD5Sum: 6b3fd1020013950379568882de514059
+SHA1: f25274c73bbc38a8d582519f66a9aa83865f3188
+SHA256: 786a39ff3c64bab6f648d9472f57a6b3a279862532b0ef592656ff0706ed7523
+SHA512: d4a51d7ba0c7d913d64d06d070ef0d2ca79aa5fba86efcfc5cb62623ff3c8af2cafebaa072aaed669efbea90fb6ebcf57a6eec20e7c303a456f434881fc78784
+
 Package: enctool
 Version: 1.0
 Architecture: all
@@ -20,11 +34,25 @@ Description: Instagram user information gethering tool
 Depends: python, python-pip
 Installed-Size: 32
 Filename: dists/anon/main/binary-all/iginfobot.deb
-Size: 2224
-MD5Sum: ab758f22b926de98779bdaf4904d37c2
-SHA1: 3378f1e3a56e594264c63e015ab8ea6b049bc608
-SHA256: 5e8ca8ffc226857f23c896a25814c8effe06af4b0dc2519b06ad2a2761f2927f
-SHA512: 453a42cb90d852b34492ac1cc40786ea804dba6d97c3bbe3982a19bd170827ff662e346d4c920a9284be150aa54be5405cea274d30134e9617a195f78861cc51
+Size: 2240
+MD5Sum: 3c985535b5b424511e04dc536ade780b
+SHA1: 1c0ca0dd7fc2629a0bb4d0e431670d85b3ee4411
+SHA256: d639a733d62e2736072cef433f0aba212ec1c8c702065a2cacb4a3b6cf4b904a
+SHA512: bf0740091b3d85fcdbe1b240a0dc374f1cebf383be77e44367dc27c5dd73f6c9022d2802e7ec75cbc0640ea79725b06f7085a66f07547ccd1a919f0b77e94df2
+
+Package: termux-desktop
+Version: 1.0.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: xfce4,xfce4-terminal,xfce4-goodies,xwayland,xfce4-whiskermenu-plugin,firefox,neovim,termux-x11-nightly,dbus
+Installed-Size: 36
+Description: Install x11-repo first, termux xfce4 desktop for termux-x11 app
+Filename: dists/anon/main/binary-all/termux-desktop.deb
+Size: 1208
+MD5Sum: 8c5494f0c604f55b4c3df9fd335a33b8
+SHA1: 0f82ddc72af475a52887682c521db9ed83885d46
+SHA256: 8b72c7a68cb614bc97cedc32557d73d5bbec32b639aa7d4439d9f8d2a86cc306
+SHA512: 0b1b2db7eb6e719f0dde81f9659ba8bcdc3c4155afbb8ae2e1c881ecc873140ceee9e864dfc34ca93cf8c6a9602a3fcf26f129191715bec5cbe4f874bd9ae98f
 
 Package: webinfo
 Version: 1.0.1
