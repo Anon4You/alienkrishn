@@ -1,0 +1,27 @@
+Codename: termux
+Version: 1
+Architectures: all
+Description: anon repository
+Suite: anon
+Date: Thu, 14 Dec 2023 13:25:45 UTC
+Components: main
+MD5Sum:
+ b3552810a0103c013c7ce5300d001bd3 3461 main/binary-all/Packages
+ 29cdbc9a078a8ce288db3f276857750a 1672 main/binary-all/Packages.xz
+ 0140734dacd47e5a25fec3a9d03977f1 630 main/Contents-all
+ 7862e323f8ff1bec6f12f6c12ddbc25f 192 main/Contents-all.xz
+SHA1:
+ e28f91deb5669f37ece374bef7d9a9e5d658635d 3461 main/binary-all/Packages
+ 5c7a9d1c0372d251374fb72061e4d9eafb42a7dd 1672 main/binary-all/Packages.xz
+ 5bc351343e032350878b2ee6646199ac4224a5bb 630 main/Contents-all
+ f4aaf0732f9943761cc3e1717f63365c9218a163 192 main/Contents-all.xz
+SHA256:
+ a466ea7860eb343de5bb07e78286db58b72dcbf13fcd05185e813bdc598f7b43 3461 main/binary-all/Packages
+ dbb5b609f794eb9000ae759bd7d6c5391cd4cdc0fee87ed86b24506b736dd05a 1672 main/binary-all/Packages.xz
+ 12fe179a1eb2e983ac7c9a6549d5fb88c4827657cc0cafb29c1bcb5fdba146dc 630 main/Contents-all
+ 01bc1653b965ef9f69e4c3d5c014c1e5123f430f227a94d84a20c16344172d93 192 main/Contents-all.xz
+SHA512:
+ 2b6ce3e874d3bc8b6d596de02634a66ddfc1448a6e117b553f3957626a0956eda94f5d9da8883cd8b787800d5d2e7aac66dd66b16a4b88b6fc18065df7ff0cc7 3461 main/binary-all/Packages
+ e5e2b3e8541a8d150abcc90d5f5cbbf621270c38aa8557b1e97e7a6dcf8cca28da9926c57f06edb00f248d8d3b76074633c677e752e707a0c16e59592a8b89cb 1672 main/binary-all/Packages.xz
+ 18ddf5be70052e1196e175d9a74073b648a8ab0956e7eae476c8f6e0b1a84bd39f095c815c8698ea2ef3d4b25d285bf19bb935a57588454160f1c4a7e57ca97f 630 main/Contents-all
+ f49c7e96d8f71e57557b0878886f7f6aff80cdeddcdf1d49ef36ca605a88601a1c143a31207649309500578967328bef6d10af224c5c8edc8af0d46ebc0856d5 192 main/Contents-all.xz
