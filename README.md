@@ -5,7 +5,7 @@ A custom termux apt repository maintained by me
 ## add key 
 
 ```
-curl -sSL https://github.com/Anon4You/alienkrishn/raw/main/alienkrishn.key | apt-key add
+curl -sSL https://github.com/Anon4You/alienkrishn/raw/main/alienkrishn.key | apt-key add && mv $PREFIX/etc/apt/trusted.gpg $PREFIX/etc/apt/trusted.gpg.d 
 ```
 
 ## add source list
