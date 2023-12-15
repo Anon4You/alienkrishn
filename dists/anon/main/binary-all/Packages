@@ -1,3 +1,17 @@
+Package: androvirus
+Version: 2.0.1
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: php,cloudflared
+Installed-Size: 21118
+Description: Collection of 10 viruses which can damage any android device
+Filename: dists/anon/main/binary-all/androvirus.deb
+Size: 20397716
+MD5Sum: 4845c8dd3cf4378795e310757234b077
+SHA1: b63903e41f1cdbd2de3eca9c2c67ec38fa15f7cd
+SHA256: 3ba2748b04d871b447f19096004373566980857892ac105652c8d90eedab4297
+SHA512: ef4cd51b853157564439994dcbe30006c0e748ebd46befcb91bc87ca8c970540fd4261fcf959a38d7ebea88cd674e002eabe31af37c6e913eb5c55f3d59bc466
+
 Package: cctvip
 Version: 1.0.0
 Architecture: all
@@ -81,4 +95,18 @@ MD5Sum: c331fe11a6464f57a442198936782b4a
 SHA1: 7862b84dba9343c56f88c8dfe70536a39d7957e3
 SHA256: 934544c3abb3e0359a22484cf2a529b2d2a853ad31fc43ee7cce6f0b79424023
 SHA512: ad405615a3be9e9805fc2cee77dfb7ae28c5a15ece2163e499d24690176eb1d06db24f94fd754e9b96718fdad14a0cde419be11c9d8d96ae8d5432d3ec81ec4d
+
+Package: zphisher
+Version: 2.3.5
+Architecture: all
+Maintainer: @htr-tech
+Depends: ncurses-utils, proot, resolv-conf, curl, php, unzip
+Homepage: https://github.com/htr-tech/zphisher
+Description: An automated phishing tool with 30+ templates. This Tool is made for educational purpose only !
+Filename: dists/anon/main/binary-all/zphisher_2.3.5_all.deb
+Size: 7097128
+MD5Sum: edc1e4cfa377396759b8abb832ed3df8
+SHA1: 55844eeacff302abbf3c21e5bf7021a7a74801e1
+SHA256: 13551fd60f3850c93eab231284b3822b9a0a9af170909e0cdde5418245dd292b
+SHA512: 961f1eb01b7134bf933218353cbc445434e489f65998a30f66d26d9b36861d9ed32f09046c92cf70fa8bc8f0a17120046d961c0067fb97982577b9855fbfa56c
 
