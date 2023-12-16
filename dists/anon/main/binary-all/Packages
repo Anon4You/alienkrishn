@@ -54,6 +54,20 @@ SHA1: 1c0ca0dd7fc2629a0bb4d0e431670d85b3ee4411
 SHA256: d639a733d62e2736072cef433f0aba212ec1c8c702065a2cacb4a3b6cf4b904a
 SHA512: bf0740091b3d85fcdbe1b240a0dc374f1cebf383be77e44367dc27c5dd73f6c9022d2802e7ec75cbc0640ea79725b06f7085a66f07547ccd1a919f0b77e94df2
 
+Package: kalilinux
+Version: 1.0.0
+Architecture: all
+Depends: proot-distro
+Maintainer: Alienkrishn [Anon4You]
+Installed-Size: 40
+Description: Kalilinux on termux debian converted
+Filename: dists/anon/main/binary-all/kalilinux.deb
+Size: 1252
+MD5Sum: 8e13163b95a1100abbb59050fe5b7c63
+SHA1: 1b45c2fd2275cc2d91cec932ca050e757e1d78b4
+SHA256: e9a29b13a23dbd01bda1762ad88bfc3dd2d70186c0dd4c5f682fcb241bfa31ec
+SHA512: f1a4a563f8a12c762843cb0cc134a8fa96651a49d60bc3dfe50b12a723eab5531f4b876bf952a6a0c20ff22005d21ee1262c48977a45438e785bbba72b90bca3
+
 Package: termux-desktop
 Version: 1.0.0
 Architecture: all
