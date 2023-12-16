@@ -15,15 +15,18 @@ curl -sSL https://github.com/Anon4You/alienkrishn/raw/main/alienkrishn.key | apt
 ```
 echo "deb [trusted=yes arch=all] https://anon4you.github.io/alienkrishn anon main" > $PREFIX/etc/apt/sources.list.d/alienkrishn.list
 ```
-## Available Tools
+## Available Packages
 * androvirus
 * cctvip
 * enctool
 * iginfobot
+* kalilinux 
 * termux-desktop
 * webinfo
 * wserver
-* zphisher 
+* zphisher
+## Usage 
+> apt install {package_name}
 
 ## Author
 * [Alienkrishn](https://www.instagram.com/alienkrishn) / [Anon4You](https://github.com/Anon4You)
