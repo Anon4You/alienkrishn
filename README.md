@@ -17,9 +17,11 @@ echo "deb [trusted=yes arch=all] https://anon4you.github.io/alienkrishn anon mai
 ```
 ## Available Packages
 * androvirus
+* apktool
 * cctvip
 * enctool
 * iginfobot
+* instainfo
 * kalilinux
 * sqlmap
 * termux-desktop
