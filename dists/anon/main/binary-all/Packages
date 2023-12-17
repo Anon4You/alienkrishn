@@ -68,6 +68,21 @@ SHA1: 1b45c2fd2275cc2d91cec932ca050e757e1d78b4
 SHA256: e9a29b13a23dbd01bda1762ad88bfc3dd2d70186c0dd4c5f682fcb241bfa31ec
 SHA512: f1a4a563f8a12c762843cb0cc134a8fa96651a49d60bc3dfe50b12a723eab5531f4b876bf952a6a0c20ff22005d21ee1262c48977a45438e785bbba72b90bca3
 
+Package: sqlmap
+Version: 1.7.12.7
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: python
+Homepge: https://sqlmap.org/
+Installed-Size: 12454
+Description: Automatic SQL injection and database takeover tool
+Filename: dists/anon/main/binary-all/sqlmap_1.7.12.deb
+Size: 6904168
+MD5Sum: 4402fe621a52721facbf39a226d0df0c
+SHA1: 7380884a3beaf3cb2de6d3374bea8cc677f9b89a
+SHA256: 4a2caac3b9ce16171578d1e0f0d0a0bddfd252df30f872a7ba4b5d24e19c6a76
+SHA512: 568af2a6e51514b188a399c3b17ecefa696edbd49372c5e21e9596db053cb7c39668352dceab7a7ae0e4f81d1a6ea0e73d620ec0e99e442f226af5293fd6f970
+
 Package: termux-desktop
 Version: 1.0.0
 Architecture: all
