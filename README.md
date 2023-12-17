@@ -20,7 +20,8 @@ echo "deb [trusted=yes arch=all] https://anon4you.github.io/alienkrishn anon mai
 * cctvip
 * enctool
 * iginfobot
-* kalilinux 
+* kalilinux
+* sqlmap
 * termux-desktop
 * webinfo
 * wserver
