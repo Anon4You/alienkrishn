@@ -23,6 +23,7 @@ echo "deb [trusted=yes arch=all] https://anon4you.github.io/alienkrishn anon mai
 * iginfobot
 * instainfo
 * kalilinux
+* shorturl
 * sqlmap
 * termux-desktop
 * webinfo
