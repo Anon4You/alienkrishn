@@ -98,6 +98,20 @@ SHA1: 1b45c2fd2275cc2d91cec932ca050e757e1d78b4
 SHA256: e9a29b13a23dbd01bda1762ad88bfc3dd2d70186c0dd4c5f682fcb241bfa31ec
 SHA512: f1a4a563f8a12c762843cb0cc134a8fa96651a49d60bc3dfe50b12a723eab5531f4b876bf952a6a0c20ff22005d21ee1262c48977a45438e785bbba72b90bca3
 
+Package: shorturl
+Version: 1.0.0
+Architecture: all
+Depends: toilet,curl
+Maintainer: Alienkrishn [Anon4You]
+Description: URL shortner for termux
+Installed-Size: 32
+Filename: dists/anon/main/binary-all/shorturl.deb
+Size: 1328
+MD5Sum: e2da5cc6c9dcd34de2198e79cc594ee1
+SHA1: 0f60081c80449ac535d993ef6e62d1ada15778a4
+SHA256: f6ae1973b6133525cd0518a105c02a0bea43dc4af0cc27cbafadae4f9c52668e
+SHA512: af3f0ef916b5be2ac013af560a0f93e10fef24976f4e520e716dc298a8bc09ea85ac9319d732c5091fbaeb0066bc450e276931d1033e2fdffd4fb9ca021f7664
+
 Package: sqlmap
 Version: 1.7.12.7
 Architecture: all

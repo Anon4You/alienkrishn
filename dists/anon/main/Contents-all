@@ -36,6 +36,7 @@ data/data/com.termux/files/usr/bin/enctool                                      
 data/data/com.termux/files/usr/bin/iginfobot                                     iginfobot
 data/data/com.termux/files/usr/bin/instainfo                                     instainfo
 data/data/com.termux/files/usr/bin/kalilinux                                     kalilinux
+data/data/com.termux/files/usr/bin/shorturl                                      shorturl
 data/data/com.termux/files/usr/bin/.pylintrc                                     sqlmap
 data/data/com.termux/files/usr/bin/data/html/index.html                          sqlmap
 data/data/com.termux/files/usr/bin/data/procs/README.txt                         sqlmap
