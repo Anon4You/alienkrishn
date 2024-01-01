@@ -4,16 +4,9 @@
 A custom termux apt repository maintained by me 
 
 
-## add key 
-
+## add Repo
 ```
-curl -sSL https://github.com/Anon4You/alienkrishn/raw/main/alienkrishn.key | apt-key add && mv $PREFIX/etc/apt/trusted.gpg $PREFIX/etc/apt/trusted.gpg.d 
-```
-
-## add source list
-
-```
-echo "deb [trusted=yes arch=all] https://anon4you.github.io/alienkrishn anon main" > $PREFIX/etc/apt/sources.list.d/alienkrishn.list
+curl -sSL https://github.com/Anon4You/alienkrishn/raw/main/Images/add-repo | bash
 ```
 ## Available Packages
 * androvirus
@@ -29,8 +22,9 @@ echo "deb [trusted=yes arch=all] https://anon4you.github.io/alienkrishn anon mai
 * webinfo
 * wserver
 * zphisher
-## Usage 
-> apt install {package_name}
+
+## Usage
+type alinekrishn in termux to show usage information
 
 ## Author
 * [Alienkrishn](https://www.instagram.com/alienkrishn) / [Anon4You](https://github.com/Anon4You)
