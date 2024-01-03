@@ -1,3 +1,17 @@
+Package: androdos
+Version: 1.0.0
+Architecture: all
+Depends: python
+Maintainer: Alienkrishn [Anon4You]
+Installed-Size: 52
+Description: Denials of service(DoS) attack tool
+Filename: dists/anon/main/binary-all/androdos.deb
+Size: 3196
+MD5Sum: 07193cef197d4b7f812c9a33f2a53c69
+SHA1: e76ae65a498f07069e5b7b534bf0a9a6800ed8b5
+SHA256: 51e84baf09d610ef29ebe83d7f9aca9127b931f5b70562b729d2f12d89081732
+SHA512: 697cdf3bd16345f8177c63fdb08f124328d1af65bee59a50c1f17d5b757b14e9baceca51739f4611e076fde6b6acba59d96ef580dff059aebf5bc05e5bafe337
+
 Package: androvirus
 Version: 2.0.1
 Architecture: all
