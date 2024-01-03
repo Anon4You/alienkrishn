@@ -9,7 +9,7 @@ A custom termux apt repository maintained by me
 curl -sSL https://github.com/Anon4You/alienkrishn/raw/main/Images/add-repo | bash
 ```
 ## Available Packages
-*androdoa
+* androdos
 * androvirus
 * apktool
 * cctvip
