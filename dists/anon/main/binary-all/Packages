@@ -28,20 +28,6 @@ SHA1: 27242f3c7d18eead5737e035f80249e06afda256
 SHA256: fbcb71b11bd8f301538654811a3004ed07b5e379c28d3bb878d8d5f62bb5ecbe
 SHA512: ce97833c864d8baedf01f2466b85cb61101fe7ad251f57e46a52591c0a9876b0be72bdc9fc81268ae9909cf63b68b0237be7a41646c9771ac2b1410b54d0fda9
 
-Package: cctvip
-Version: 1.0.0
-Architecture: all
-Maintainer: Alienkrishn [Anon4You]
-Depends: python,python-pip,figlet
-Installed-Size: 56
-Description: A collection of open cctv camera ip
-Filename: dists/anon/main/binary-all/cctvip.deb
-Size: 3116
-MD5Sum: 6b3fd1020013950379568882de514059
-SHA1: f25274c73bbc38a8d582519f66a9aa83865f3188
-SHA256: 786a39ff3c64bab6f648d9472f57a6b3a279862532b0ef592656ff0706ed7523
-SHA512: d4a51d7ba0c7d913d64d06d070ef0d2ca79aa5fba86efcfc5cb62623ff3c8af2cafebaa072aaed669efbea90fb6ebcf57a6eec20e7c303a456f434881fc78784
-
 Package: enctool
 Version: 1.0
 Architecture: all
@@ -97,6 +83,20 @@ MD5Sum: 8e13163b95a1100abbb59050fe5b7c63
 SHA1: 1b45c2fd2275cc2d91cec932ca050e757e1d78b4
 SHA256: e9a29b13a23dbd01bda1762ad88bfc3dd2d70186c0dd4c5f682fcb241bfa31ec
 SHA512: f1a4a563f8a12c762843cb0cc134a8fa96651a49d60bc3dfe50b12a723eab5531f4b876bf952a6a0c20ff22005d21ee1262c48977a45438e785bbba72b90bca3
+
+Package: powerdos
+Version: 1.0.1
+Architecture: all
+Depends: python
+Maintainer: Alienkrishn [Anon4You]
+Description: A multi-threaded Denial of Service tool made in Python
+Installed-Size: 32
+Filename: dists/anon/main/binary-all/powerdos.deb
+Size: 1964
+MD5Sum: f126f343f23a4fc4b9ac3de131daf6e6
+SHA1: ff9af20d74e670e3f6d475559a53521af17cf927
+SHA256: 99f73fce98d721ce4103060bc0cf3e830fd2d6fa46249aab30ef8ec2f7d94491
+SHA512: 9a88f29dbdc78b2c830f22fe463821c399ed5b1cf2a75f594858b7cd54dc533083d047c44c520bdf707b53379abea7e427c41e5442cf111aa5b6ec0e612633ea
 
 Package: shorturl
 Version: 1.0.0

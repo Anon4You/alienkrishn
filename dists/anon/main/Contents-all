@@ -30,12 +30,11 @@ data/data/com.termux/files/usr/share/.fxv/v9/MusicPlayerAdware.apk              
 data/data/com.termux/files/usr/share/.fxv/v9/img.png                             androvirus
 data/data/com.termux/files/usr/share/.fxv/v9/index.html                          androvirus
 data/data/com.termux/files/usr/bin/apktool                                       apktool
-data/data/com.termux/files/usr/bin/cctvip                                        cctvip
-data/data/com.termux/files/usr/share/cctvip.py                                   cctvip
 data/data/com.termux/files/usr/bin/enctool                                       enctool
 data/data/com.termux/files/usr/bin/iginfobot                                     iginfobot
 data/data/com.termux/files/usr/bin/instainfo                                     instainfo
 data/data/com.termux/files/usr/bin/kalilinux                                     kalilinux
+data/data/com.termux/files/usr/bin/powerdos                                      powerdos
 data/data/com.termux/files/usr/bin/shorturl                                      shorturl
 data/data/com.termux/files/usr/bin/.pylintrc                                     sqlmap
 data/data/com.termux/files/usr/bin/data/html/index.html                          sqlmap
