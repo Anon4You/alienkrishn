@@ -7,10 +7,10 @@ if hash ! gpg > /dev/null 2>&1 ; then
   apt install gnupg -y
 fi
 mkdir -p $PREFIX/etc/apt/sources.list.d
+echo "deb [trusted=yes arch=all] https://anon4you.github.io/alienkrishn anon main" > $PREFIX/etc/apt/sources.list.d/alienkrishn.list
 echo "\e[32;1m--adding gpg-key...."
 curl -sSL https://github.com/Anon4You/alienkrishn/raw/main/alienkrishn.key | apt-key add 
-mv $PREFIX/etc/apt/trusted.gpg $PREFIX/etc/apt/trusted.gpg.d 
-echo "deb [trusted=yes arch=all] https://anon4you.github.io/alienkrishn anon main" > $PREFIX/etc/apt/sources.list.d/alienkrishn.list
+mv $PREFIX/etc/apt/trusted.gpg $PREFIX/etc/apt/trusted.gpg.d
 
 curl -LO https://github.com/Anon4You/alienkrishn/raw/main/Images/alienkrishn
 mv alienkrishn $PATH
