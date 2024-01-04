@@ -98,6 +98,20 @@ SHA1: 1b45c2fd2275cc2d91cec932ca050e757e1d78b4
 SHA256: e9a29b13a23dbd01bda1762ad88bfc3dd2d70186c0dd4c5f682fcb241bfa31ec
 SHA512: f1a4a563f8a12c762843cb0cc134a8fa96651a49d60bc3dfe50b12a723eab5531f4b876bf952a6a0c20ff22005d21ee1262c48977a45438e785bbba72b90bca3
 
+Package: locateme
+Version: 1.0
+Architecture: all
+Installed-Size: 202
+Maintainer: Alienkrishn [Abon4You]
+Depends: php,jq,cloudflared,figlet
+Description: Live location tracker using google maps
+Filename: dists/anon/main/binary-all/locateme.deb
+Size: 39568
+MD5Sum: 6ebedf55759e082504f954293e5c5bf6
+SHA1: 9c7650d40ce92121f42c3dfe620baa56679c2f01
+SHA256: 4ef8c87b0d0e99749afb155e88726c1f47e069e77fe4cf327bfbcabd8c9300f5
+SHA512: 405f2ab885eb312f0d45044f2ac23d5aa9cdb0711dd09ade79b7100b1b44986eead963e9d9d4db7793ce1caf6caf33daf0299bc2970d4697813cb31290a14464
+
 Package: powerdos
 Version: 1.0.1
 Architecture: all
