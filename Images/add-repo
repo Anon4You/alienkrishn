@@ -5,11 +5,8 @@ apt update && apt upgrade -y
 if hash ! gpg > /dev/null 2>&1 ; then
   echo "gpg not foung!, install gnupg..."
   apt install gnupg -y
-fi 
-
-if [[ -d $PREFIX/etc/apt/sources.list.d ]]; then
-  mkdir -p $PREFIX/etc/apt/sources.list.d
 fi
+mkdir -p $PREFIX/etc/apt/sources.list.d
 echo "\e[32;1m--adding gpg-key...."
 curl -sSL https://github.com/Anon4You/alienkrishn/raw/main/alienkrishn.key | apt-key add 
 mv $PREFIX/etc/apt/trusted.gpg $PREFIX/etc/apt/trusted.gpg.d 
