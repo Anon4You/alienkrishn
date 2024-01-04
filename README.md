@@ -17,6 +17,7 @@ curl -sSL https://github.com/Anon4You/alienkrishn/raw/main/Images/add-repo | bas
 * iginfobot
 * instainfo
 * kalilinux
+* locateme
 * powerdos
 * shorturl
 * sqlmap
