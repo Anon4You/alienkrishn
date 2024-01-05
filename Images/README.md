@@ -18,6 +18,11 @@ mv $PREFIX/etc/apt/trusted.gpg $PREFIX/etc/apt/trusted.gpg.d
 ```
 apt update
 ```
-
-> Copy and paste all these commands in your termux
+## Usage
+```
+apt install <package>
+apt search <package>
+apt show <package>
+apt remove <package>
+```
 
