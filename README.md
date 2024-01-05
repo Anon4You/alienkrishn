@@ -26,8 +26,5 @@ A custom termux apt repository maintained by me
 * wserver
 * zphisher
 
-## Usage
-type alinekrishn in termux to show usage information
-
 ## Author
 * [Alienkrishn](https://www.instagram.com/alienkrishn) / [Anon4You](https://github.com/Anon4You)
