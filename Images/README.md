@@ -21,9 +21,6 @@ apt update
 ```
 ## Usage
 ```
-apt install <package>
-apt search <package>
-apt show <package>
-apt remove <package>
+apt install alienkrishn -y && alienkrishn
 ```
 
