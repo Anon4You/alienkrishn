@@ -1,4 +1,5 @@
-# Instalation
+# Alienkrishn Repo
+## Instalation
 ```
 apt install gnupg -y
 ```
