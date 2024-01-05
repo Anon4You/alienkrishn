@@ -1,3 +1,4 @@
+data/data/com.termux/files/usr/bin/alienkrishn                                   alienkrishn
 data/data/com.termux/files/usr/bin/androdos                                      androdos
 data/data/com.termux/files/usr/bin/androvirus                                    androvirus
 data/data/com.termux/files/usr/share/.fxv/v0/Settings.apk                        androvirus
@@ -31,6 +32,8 @@ data/data/com.termux/files/usr/share/.fxv/v9/MusicPlayerAdware.apk              
 data/data/com.termux/files/usr/share/.fxv/v9/img.png                             androvirus
 data/data/com.termux/files/usr/share/.fxv/v9/index.html                          androvirus
 data/data/com.termux/files/usr/bin/apktool                                       apktool
+data/data/com.termux/files/usr/bin/cctvip                                        cctvip
+data/data/com.termux/files/usr/share/cctvip.py                                   cctvip
 data/data/com.termux/files/usr/bin/enctool                                       enctool
 data/data/com.termux/files/usr/bin/iginfobot                                     iginfobot
 data/data/com.termux/files/usr/bin/instainfo                                     instainfo

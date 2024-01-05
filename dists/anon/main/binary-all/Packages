@@ -1,3 +1,16 @@
+Package: alienkrishn
+Architecture: all
+Version: 1
+Installed-Size: 32
+Maintainer: Alienkrishn ~Anon4You
+Description: alienkrishn repo usage helper...
+Filename: dists/anon/main/binary-all/alienkrishn.deb
+Size: 1424
+MD5Sum: d2f60dffa67487db9df0738b3b7aed17
+SHA1: 1a5fcb8f965f49b2e3205a80399725beb7dfedf9
+SHA256: 745e739d3ea88a9fbc5c14f71d9569cbc2d92aa24d5d1f2aa5c1fa7e2aa310b5
+SHA512: 2b564714098c40ce55ea315334b9a4d3eba02cc7e5294a5ed97019aeb4a1443b20c7c86710dd839a3773ac43a207e9479668bf70c70bb10227eb58f2c1b48a89
+
 Package: androdos
 Version: 1.0.0
 Architecture: all
@@ -41,6 +54,20 @@ MD5Sum: d5676fb13c7cb8b8799afc17fe040747
 SHA1: 27242f3c7d18eead5737e035f80249e06afda256
 SHA256: fbcb71b11bd8f301538654811a3004ed07b5e379c28d3bb878d8d5f62bb5ecbe
 SHA512: ce97833c864d8baedf01f2466b85cb61101fe7ad251f57e46a52591c0a9876b0be72bdc9fc81268ae9909cf63b68b0237be7a41646c9771ac2b1410b54d0fda9
+
+Package: cctvip
+Version: 1.0.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: python,python-pip,figlet
+Installed-Size: 56
+Description: A collection of open cctv camera ip
+Filename: dists/anon/main/binary-all/cctvip.deb
+Size: 3116
+MD5Sum: 6b3fd1020013950379568882de514059
+SHA1: f25274c73bbc38a8d582519f66a9aa83865f3188
+SHA256: 786a39ff3c64bab6f648d9472f57a6b3a279862532b0ef592656ff0706ed7523
+SHA512: d4a51d7ba0c7d913d64d06d070ef0d2ca79aa5fba86efcfc5cb62623ff3c8af2cafebaa072aaed669efbea90fb6ebcf57a6eec20e7c303a456f434881fc78784
 
 Package: enctool
 Version: 1.0
@@ -102,15 +129,15 @@ Package: locateme
 Version: 1.0
 Architecture: all
 Installed-Size: 202
-Maintainer: Alienkrishn [Abon4You]
+Maintainer: Alienkrishn [Anon4You]
 Depends: php,jq,cloudflared,figlet
 Description: Live location tracker using google maps
 Filename: dists/anon/main/binary-all/locateme.deb
-Size: 39568
-MD5Sum: 6ebedf55759e082504f954293e5c5bf6
-SHA1: 9c7650d40ce92121f42c3dfe620baa56679c2f01
-SHA256: 4ef8c87b0d0e99749afb155e88726c1f47e069e77fe4cf327bfbcabd8c9300f5
-SHA512: 405f2ab885eb312f0d45044f2ac23d5aa9cdb0711dd09ade79b7100b1b44986eead963e9d9d4db7793ce1caf6caf33daf0299bc2970d4697813cb31290a14464
+Size: 39576
+MD5Sum: 7d1a87d4c4920e2850d8a143f91dd638
+SHA1: 15fbdd0a79dce036d7425580340453067336985f
+SHA256: 36ee7ba5b640d4156436306aecd6a6a894fa280884ebd138ac8124200884c908
+SHA512: 802351add47b92b6277c83b156a3a066d85ed5fea8c5ff118a1be014500e79163fba7e9a514036597badae3a806527cffe02585875ee5ec05a7a550933966c10
 
 Package: powerdos
 Version: 1.0.1
