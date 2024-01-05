@@ -1,11 +1,9 @@
 #!/usr/bin/bash
 echo -e "\e[32;1m--updating system...."
 apt update && apt upgrade -y
+echo "gpg not foung!, install gnupg..."
+apt install gnupg -y
 
-if hash ! gpg > /dev/null 2>&1 ; then
-  echo "gpg not foung!, install gnupg..."
-  apt install gnupg -y
-fi
 mkdir -p $PREFIX/etc/apt/sources.list.d
 echo "deb [trusted=yes arch=all] https://anon4you.github.io/alienkrishn anon main" > $PREFIX/etc/apt/sources.list.d/alienkrishn.list
 echo "\e[32;1m--adding gpg-key...."
