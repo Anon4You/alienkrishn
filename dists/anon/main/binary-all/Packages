@@ -55,6 +55,20 @@ SHA1: 27242f3c7d18eead5737e035f80249e06afda256
 SHA256: fbcb71b11bd8f301538654811a3004ed07b5e379c28d3bb878d8d5f62bb5ecbe
 SHA512: ce97833c864d8baedf01f2466b85cb61101fe7ad251f57e46a52591c0a9876b0be72bdc9fc81268ae9909cf63b68b0237be7a41646c9771ac2b1410b54d0fda9
 
+Package: byakugan
+Version: 1.0.1
+Architecture: all
+Installed-Size: 5449
+Maintainer: Alienkrishn [Anon4You]
+Depends: termux-tools,termux-exec,php,cloudflared,jq,figlet
+Description: A footprinting program to get exact location
+Filename: dists/anon/main/binary-all/byakugan.deb
+Size: 5300524
+MD5Sum: 557c00e9cfd8d5f587bdf73f205b1e24
+SHA1: cd4dc1a933aec03136a64eb3624e41db6eb99fd3
+SHA256: 824becf10b3cb8bc31ce0342a1aff95ef39847ca670e7694ab62d39560a2f34a
+SHA512: 044414c2a5acf82f8ee8395a3778b0ebae0145686f78d905f5bea87100f13f2b1db208727bfe6908ae6335fda136b016fbd610f9c36e8024106c10715d4d7398
+
 Package: cctvip
 Version: 1.0.0
 Architecture: all
