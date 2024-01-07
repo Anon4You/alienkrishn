@@ -12,6 +12,7 @@ A custom termux apt repository maintained by me
 * androdos
 * androvirus
 * apktool
+* byakugan
 * cctvip
 * enctool
 * iginfobot
