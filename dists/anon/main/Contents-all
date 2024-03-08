@@ -18,3 +18,7 @@ data/data/com.termux/files/usr/share/alienx/social/facebook.py                  
 data/data/com.termux/files/usr/share/alienx/social/gmail.py                      alienx-brute
 data/data/com.termux/files/usr/share/alienx/social/instagram.py                  alienx-brute
 data/data/com.termux/files/usr/bin/androdos                                      androdos
+data/data/com.termux/files/usr/bin/cupp                                          cupp
+data/data/com.termux/files/usr/bin/cupp.cfg                                      cupp
+data/data/com.termux/files/usr/bin/enctool                                       enctool
+data/data/com.termux/files/usr/bin/iginfobot                                     iginfobot

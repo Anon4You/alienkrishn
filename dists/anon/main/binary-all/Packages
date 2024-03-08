@@ -40,3 +40,46 @@ SHA1: e76ae65a498f07069e5b7b534bf0a9a6800ed8b5
 SHA256: 51e84baf09d610ef29ebe83d7f9aca9127b931f5b70562b729d2f12d89081732
 SHA512: 697cdf3bd16345f8177c63fdb08f124328d1af65bee59a50c1f17d5b757b14e9baceca51739f4611e076fde6b6acba59d96ef580dff059aebf5bc05e5bafe337
 
+Package: cupp
+Version: 3.3.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: termux-exec,python
+Homepage: https://github.com/Mebus/cupp
+Description: Common User Passwords Profiler (CUPP)
+Installed-Size: 68
+Filename: dists/anon/main/binary-all/cupp.deb
+Size: 9424
+MD5Sum: 16ca98ccd59c1a83efc7c81288b431c0
+SHA1: eeab408bb75afd489933b2da357e5ef04d2f5f58
+SHA256: 5688835625cbd85612d18df0992d6a346b64b0ddb93f196c647c4bd7c2f6ddab
+SHA512: 473948f061bf47d0e82083a5f605afca6b50b575d27eef57ab3ac46d05f73d61d161431c1033687547417d5e2667dea5787ba470145e6c3a5505a75536c00d01
+
+Package: enctool
+Version: 1.0
+Architecture: all
+Installed-Size: 64
+Maintainer: Alienkrishn [Anon4You]
+Depends: python,nodejs
+Description: encrypt or decrypt bash file and encrypt python in Marshal format
+Filename: dists/anon/main/binary-all/enctool.deb
+Size: 2304
+MD5Sum: 727d61c8a49776fa32e581a3ea147b01
+SHA1: 28b23cb3bfcf9a175f4ab59dff524cf2165f8360
+SHA256: cac30254a7b18970f814285d155c411cd382a16db0d2781299c9955c699abcb6
+SHA512: 5d6b827f10bd6f0d64edac7662a7d2c44abe8a487fe7feeb764e7414bdf253e710d5c090afede4cd92d2449bf8535f4333d6e311b1f55f4b8a93fa1a3d89225b
+
+Package: iginfobot
+Architecture: all
+Version: 1.0
+Maintainer: Alienkrishn [Anon4You]
+Description: Instagram user information gethering tool
+Depends: python, python-pip
+Installed-Size: 32
+Filename: dists/anon/main/binary-all/iginfobot.deb
+Size: 2240
+MD5Sum: 3c985535b5b424511e04dc536ade780b
+SHA1: 1c0ca0dd7fc2629a0bb4d0e431670d85b3ee4411
+SHA256: d639a733d62e2736072cef433f0aba212ec1c8c702065a2cacb4a3b6cf4b904a
+SHA512: bf0740091b3d85fcdbe1b240a0dc374f1cebf383be77e44367dc27c5dd73f6c9022d2802e7ec75cbc0640ea79725b06f7085a66f07547ccd1a919f0b77e94df2
+
