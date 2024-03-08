@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Codename: termux
+Version: 1
+Architectures: all
+Description: anon repository
+Suite: anon
+Date: Fri, 08 Mar 2024 03:12:23 UTC
+Components: main
+MD5Sum:
+ 8560e019e06d68cd7b815f787b8e3c63 1640 main/binary-all/Packages
+ ea47a5ce0eb7561c4409932c7bea6f3a 944 main/binary-all/Packages.xz
+ 17bb8a11aa1224622e3971a0a795d21e 1870 main/Contents-all
+ 7ffb777b92cb1204e2bac28cc0fa3569 332 main/Contents-all.xz
+SHA1:
+ fe505c404c8bf785b663114b1b73fc3d5562885d 1640 main/binary-all/Packages
+ 0b994d049afe415376d280d3fd4f1a75cbe9b664 944 main/binary-all/Packages.xz
+ aa34430c5543fd7e8b02aaa06debe6616de79667 1870 main/Contents-all
+ 4c0832fe7675e99af2539af8489d219a135310fb 332 main/Contents-all.xz
+SHA256:
+ cfb2f543110b040f15b288623c16ae3ede700aabdb442fd57568647e78177dde 1640 main/binary-all/Packages
+ e69b479af5e729f24baf5ef4af8427a5e9ebd25f89e9b337842286082da62ed4 944 main/binary-all/Packages.xz
+ 2b2ac0a963226fde5dff36610ff9bf04729243a12b1c94246259fac67d01b76f 1870 main/Contents-all
+ cdeff9e6201d104597952ddfc23bdbbcea4bfd00cc460bc3cdf77b3ffdf85cb9 332 main/Contents-all.xz
+SHA512:
+ 73a2074abfaee5f5356dfe09f0288f408c07b6bcaded99e3b99064b2ead9b23285f2f6008f74195f41094b5b124891b94566c2d86726f3c0e9ec9549b32b684b 1640 main/binary-all/Packages
+ 7ad4a0c2ea2849357cc6984023371a8866823407ab52c98f8958b733ce98b9c81ffcd017676ac9cc121daa0bf70c89888c262136b9f6ca3f17642c04d982fd4e 944 main/binary-all/Packages.xz
+ ae75ad7d1a05defb78545f3e7ee740e7e6e79dd42c0f75b8798346f95a0b7c65f74bc934fd92fed4075c611732a324e630484ed5d849a38ef05cbc591ae9531e 1870 main/Contents-all
+ 4df16a5a172718517c7f7412d5c875643758d26aa0b7869a693a706c3b4e213d0abeec99fbce9679dccf4a943f8f4d995bae6674b79db21291ede6506f05ab45 332 main/Contents-all.xz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEyTtOBI7U74bwQKfXno57H/D61BsFAmXqghgACgkQno57H/D6
+1BsjzA/+NlzRPeRFHvTUXMogDWzgJGYXQDnkHXhZA1Y68TqqPexLgflpP+xZ9UOB
+yP0LWJ+YUYlsilBhDS2MP2PLQ3EC85yygQR6F+9a3eg1gwci/XLkGFqv3m2y443P
+9YFtl9YyQSYDSJPjndtBsbUIDGOYDGME2GsP3Opc3Kmq27KAHGAeCYIJX//8CILz
+EEE+nqTLUkN1/7L3RJ0+d96CZxYHl1ssEGLO7n5SVX3g6+8NQbfjBFPLPXElWhhW
+oCnL4FLqzmNjiPdZA1WxfnvgM7oWJNSGPIpfnJ5lZ2PEPjvKP30yYZA8GjlV8/Ww
+NTqdfYcqNPRHQDq/LdIZ8IQB1/WE6ayHihdXPScGFmY1YNGdgQ91QOF2qZcV4QfL
+MX55vnQLosIYfU7heEFLPDee7yE8HcW3pK6Mj93R73BX4lgXBfKTbpBNA5rn9zIw
+vt26adwUVU4KU/WQK838babwfAz200nGTZY7nvFBdwf3py+sTSWC6Q6uW0MzD+jP
+xBC4NZjhvgDc/o0ootDDkZ2E7B3x02d0glEiRwq3HTBu8okxg6woZGTrAEkWSsMx
+qa+69S1Al0v4+pAqj20k1/jKLwhsC+l+kWCKA3HfC+I6g50zBrE2DOsfhMHyMz4P
+OzLQwbgaGvnC5xW/RWd4//so4A/jIgapfJUFtra1sWqCogLT6Eg=
+=daQG
+-----END PGP SIGNATURE-----

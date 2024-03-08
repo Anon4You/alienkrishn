@@ -1,0 +1,42 @@
+Package: alienkrishn
+Architecture: all
+Version: 1.0.3
+Depends: eza,fish,starship
+Installed-Size: 89
+Maintainer: Alienkrishn ~Anon4You
+Description: alienkrishn repo usage helper...
+Filename: dists/anon/main/binary-all/alienkrishn.deb
+Size: 5876
+MD5Sum: 235d17fd92c19f0c8ccd5e858c41901f
+SHA1: 3477deab1317a251998d1c411083c991bd250987
+SHA256: 6fd68281fabe72efb97a990773e79068f56483fa3a07f8751082c0e314409edb
+SHA512: fad0bcbf9c1c5aa10431838132bfd9ead7515cdab6b53e29e04bd49b2d3357a5875dcbf287101a8d509e06389f9940d0dfa26619bfea4842de05cd5a07f0a0f6
+
+Package: alienx-brute
+Version: 1.1
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: python,python2,python-pip,termux-exec
+Installed-Size: 102
+Description: A multi-bruteforce tool for termux
+Filename: dists/anon/main/binary-all/alienx-brute.deb
+Size: 5472
+MD5Sum: 38352b614d042205d918cd63f3ac96b9
+SHA1: 49172fa16dce1da62f2ce01f832e0fa3ece08903
+SHA256: c7ab38102841978fdb42c2d9438727fadf426b483a4da9c55347288f51e50ff7
+SHA512: 8569176afbc172b3a27c1b7fddd980656ed6ac73e80e530df954c968bd63289458c4bc38466e3d537db91ce7c2ac565277cfd8a9f95614919167c1fea8dc59a7
+
+Package: androdos
+Version: 1.0.0
+Architecture: all
+Depends: python
+Maintainer: Alienkrishn [Anon4You]
+Installed-Size: 52
+Description: Denials of service(DoS) attack tool
+Filename: dists/anon/main/binary-all/androdos.deb
+Size: 3196
+MD5Sum: 07193cef197d4b7f812c9a33f2a53c69
+SHA1: e76ae65a498f07069e5b7b534bf0a9a6800ed8b5
+SHA256: 51e84baf09d610ef29ebe83d7f9aca9127b931f5b70562b729d2f12d89081732
+SHA512: 697cdf3bd16345f8177c63fdb08f124328d1af65bee59a50c1f17d5b757b14e9baceca51739f4611e076fde6b6acba59d96ef580dff059aebf5bc05e5bafe337
+
