@@ -1,6 +1,6 @@
 # alienkrishn
 Custom termux apt repository Maintained by me
-#     screenshots 
+# Screenshots 
 <img src="screenshots/Picsart_24-03-11_01-42-07-115.jpg"/>
 
 ## About
