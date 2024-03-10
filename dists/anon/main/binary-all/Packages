@@ -252,6 +252,20 @@ SHA1: a6d570831ce6a0330f031a4df9a3bb00a20a5b44
 SHA256: bf91a0b96019f454fb031707fe5ffb2d8156345a8c18e94e356b6c7760ffa380
 SHA512: 37a1faa33f6ca3e36a9539234651d371efcbec47e2e9b17d4bb341cfada573d423ea4662ca6d2278bdc36a097e944145168e1476dfd50926e949fb6b2ec15ec7
 
+Package: tempmail
+Version: 1.0.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: python,termux-exec,python-pip
+Installed-Size:
+Description: TempMail telegram bot in termux
+Filename: dists/anon/main/binary-all/tempmail.deb
+Size: 6628
+MD5Sum: c9e7c011cdfd71216887816c661b5a05
+SHA1: b2d3ffd5efd2a03e1c0f8e9eee686156de217804
+SHA256: 63b3e1acd49486865b931e7480bb9e48f98722ce335d4c9c7005151f51b8008b
+SHA512: 7073c1b3c6bed2db8c0d9cf1f20dc178fad583aff4945b37b46e240e59638bccf4a4f8fe01624c00a0fa839932b12767664036f1ca61013b8e96ecc03ea453a5
+
 Package: termux-desktop
 Version: 1.0.1
 Architecture: all
