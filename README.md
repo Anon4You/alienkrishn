@@ -6,7 +6,7 @@ Custom termux apt repository Maintained by me
 ## About
 It's a custom termux repository which contains some tools and packages not available in termux offical repo
 ## Add repo in your termux
-* [click here](https://github.com/Anon4You/alienkrishn/INSTALL.md) 
+* [click here](https://github.com/Anon4You/alienkrishn/blob/main/INSTALL.md) 
 ## Usage 
 * You can install any package from this repo using apt or pkg
 ## Example
