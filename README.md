@@ -7,7 +7,7 @@ Custom termux apt repository Maintained by me
 It's a custom termux repository which contains some tools and packages not available in termux offical repo
 
 ## Usage 
-* You can install any package from this repo using apt or pkg
+You can install any package from this repo using apt or pkg
 ## Example
 ```
 apt install package_name -y
