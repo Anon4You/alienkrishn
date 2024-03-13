@@ -699,8 +699,7 @@ data/data/com.termux/files/usr/bin/thirdparty/termcolor/__init__.py             
 data/data/com.termux/files/usr/bin/thirdparty/termcolor/termcolor.py             sqlmap
 data/data/com.termux/files/usr/bin/thirdparty/wininetpton/__init__.py            sqlmap
 data/data/com.termux/files/usr/bin/thirdparty/wininetpton/win_inet_pton.py       sqlmap
-data/data/com.termux/files/usr/bin/tempmail                                      tempmail
-data/data/com.termux/files/usr/bin/utils.py                                      tempmail
+data/data/com.termux/files/usr/bin/term-helper                                   term-helper
 data/data/com.termux/files/home/.icons/candy-icons-master/.github/FUNDING.yml    termux-desktop
 data/data/com.termux/files/home/.icons/candy-icons-master/.github/ISSUE_TEMPLATE/icon-request.md termux-desktop
 data/data/com.termux/files/home/.icons/candy-icons-master/LICENSE                termux-desktop
