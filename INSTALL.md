@@ -18,7 +18,7 @@ mkdir -p $PREFIX/etc/apt/sources.list.d
 ```
 
 ```
-echo "deb [arch=all] https://Anon4You.github.io/alienkrishn anon main" > $PREFIX/etc/apt/sources.list.d/alienkrishn.list
+echo "deb [arch=all] https://anon4you.github.io/alienkrishn anon main" > $PREFIX/etc/apt/sources.list.d/alienkrishn.list
 ```
 ```
 apt update
