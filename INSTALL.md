@@ -14,11 +14,11 @@ curl -sSL https://raw.githubusercontent.com/Anon4You/alienkrishn/main/alienkrish
 mv $PREFIX/etc/apt/trusted.gpg $PREFIX/etc/apt/trusted.gpg.d
 ```
 ```
-mkdir -p $PREFIX/etc/apt/source.list.d
+mkdir -p $PREFIX/etc/apt/sources.list.d
 ```
 
 ```
-echo "deb [arch=all] https://Anon4You.github.io/alienkrishn anon main" > $PREFIX/etc/apt/source.list.d/alienkrishn.list
+echo "deb [arch=all] https://Anon4You.github.io/alienkrishn anon main" > $PREFIX/etc/apt/sources.list.d/alienkrishn.list
 ```
 ```
 apt update
