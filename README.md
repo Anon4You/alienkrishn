@@ -10,7 +10,7 @@ It's a custom termux repository which contains some tools and packages not avail
 You can install any package from this repo using apt or pkg
 ## Example
 ```
-apt install package_name -y
+apt install alienkrishn -y
 ```
 ## Add repo in your termux
 * [click here](https://github.com/Anon4You/alienkrishn/blob/main/INSTALL.md) 
