@@ -59,7 +59,7 @@ wserver/anon 1.0 all
 zphisher/anon 2.3.5 all
 ```
 ## Add repo in your termux
-* [click here](https://github.com/Anon4You/alienkrishn/blob/main/INSTALL.md) 
-
-
+```shell
+curl -sL https://github.com/Anon4You/alienkrishn/raw/main/addrepo | bash
+```
 
