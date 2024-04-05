@@ -6,8 +6,8 @@ echo adding sources alienkrishn repo
 sleep 2
 if [[ ! -d $PREFIX/etc/apt/sources.list.d ]]; then
   mkdir -p $PREFIX/etc/apt/sources.list.d > /dev/null 2>&1
-  echo "deb [arch=all] https://anon4you.github.io/alienkrishn anon main" > $PREFIX/etc/apt/sources.list.d/alienkrishn.list
-fi
+fi  
+echo "deb [arch=all] https://anon4you.github.io/alienkrishn anon main" > $PREFIX/etc/apt/sources.list.d/alienkrishn.list
 
 echo -e "\e[32mAdding keys for alienkrishn repo\e[0m"
 curl -sL https://raw.githubusercontent.com/Anon4You/alienkrishn/main/alienkrishn.key | apt-key add
