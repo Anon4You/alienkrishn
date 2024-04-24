@@ -1,16 +1,16 @@
 Package: alienkrishn
 Architecture: all
-Version: 1.0.3
+Version: 1.0.4
 Depends: eza,fish,starship
 Installed-Size: 89
 Maintainer: Alienkrishn ~Anon4You
 Description: alienkrishn repo usage helper...
 Filename: dists/anon/main/binary-all/alienkrishn.deb
-Size: 5876
-MD5Sum: 235d17fd92c19f0c8ccd5e858c41901f
-SHA1: 3477deab1317a251998d1c411083c991bd250987
-SHA256: 6fd68281fabe72efb97a990773e79068f56483fa3a07f8751082c0e314409edb
-SHA512: fad0bcbf9c1c5aa10431838132bfd9ead7515cdab6b53e29e04bd49b2d3357a5875dcbf287101a8d509e06389f9940d0dfa26619bfea4842de05cd5a07f0a0f6
+Size: 901196
+MD5Sum: 46436d0a19ee3c42027d607f2f8e0255
+SHA1: fde48f7039af982d6dc9ef2deb4a4760667b0b6d
+SHA256: 9b8c1cd791c208afc3284c7170b3744d995703ae64a00c53a594c12f31c51025
+SHA512: 82d0109011b9e64f93925530b12eda6e311a197eb298b6e30bec43fd09bd5c4434c4c16f75a808bc3952d578b16c5d09c1f6ba2142b24cab2900dd5e0d811557
 
 Package: alienx-brute
 Version: 1.1
@@ -41,32 +41,32 @@ SHA256: 51e84baf09d610ef29ebe83d7f9aca9127b931f5b70562b729d2f12d89081732
 SHA512: 697cdf3bd16345f8177c63fdb08f124328d1af65bee59a50c1f17d5b757b14e9baceca51739f4611e076fde6b6acba59d96ef580dff059aebf5bc05e5bafe337
 
 Package: androvirus
-Version: 2.0.1
+Version: 2.0.2
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
-Depends: php,cloudflared
+Depends: php,openssh
 Installed-Size: 21118
 Description: Collection of 10 viruses which can damage any android device
 Filename: dists/anon/main/binary-all/androvirus.deb
-Size: 20397716
-MD5Sum: 4845c8dd3cf4378795e310757234b077
-SHA1: b63903e41f1cdbd2de3eca9c2c67ec38fa15f7cd
-SHA256: 3ba2748b04d871b447f19096004373566980857892ac105652c8d90eedab4297
-SHA512: ef4cd51b853157564439994dcbe30006c0e748ebd46befcb91bc87ca8c970540fd4261fcf959a38d7ebea88cd674e002eabe31af37c6e913eb5c55f3d59bc466
+Size: 20397648
+MD5Sum: da9e1508a1ba38f2ccfa50f99a2977a2
+SHA1: f4f66485e43ad49ed98794f700b556bb23124a0c
+SHA256: 4a0bc88b07081d900c7cb4059e6fec1361f6538f97bb4e48fd2e3ec9ff9e669b
+SHA512: a1a9cc7075be357b8baeedcb6a0425fa7de0e6329332ba6d0838fcdafac6572b8a392cdaaaa047ca500f9f9e88d47608553655513ba98d6f54cf5a81d3f9fcec
 
 Package: byakugan
-Version: 1.0.1
+Version: 1.0.2
 Architecture: all
 Installed-Size: 5449
 Maintainer: Alienkrishn [Anon4You]
-Depends: termux-tools,termux-exec,php,cloudflared,jq,figlet
+Depends: termux-tools,termux-exec,php,openssh,jq,figlet
 Description: A footprinting program to get exact location
 Filename: dists/anon/main/binary-all/byakugan.deb
-Size: 5300524
-MD5Sum: 557c00e9cfd8d5f587bdf73f205b1e24
-SHA1: cd4dc1a933aec03136a64eb3624e41db6eb99fd3
-SHA256: 824becf10b3cb8bc31ce0342a1aff95ef39847ca670e7694ab62d39560a2f34a
-SHA512: 044414c2a5acf82f8ee8395a3778b0ebae0145686f78d905f5bea87100f13f2b1db208727bfe6908ae6335fda136b016fbd610f9c36e8024106c10715d4d7398
+Size: 5300584
+MD5Sum: fdf4c91ab04bc24868944e0cfbc90975
+SHA1: 67e37246e8e143a677201dcd598e06f6a945290a
+SHA256: ce5affb0e879aac9e2e5e1ef83d5fa1b602c337ac253079c5584e20480c3c6fc
+SHA512: 14224880812aee512cc46903f6ac11ad0b594c29e50997eac10237a4625a359bb962a1e72f1d4604516820a4667e6368c34ae32e5f3e01bea9a8099d3fea867c
 
 Package: cctvip
 Version: 1.0.0
@@ -167,47 +167,46 @@ SHA1: eccf94caf71294df0411e0908a61614caad2f9f5
 SHA256: 91307b64c05bc5d13371cef15bb9aacd947d4c9817efda3bb98df29d13691030
 SHA512: 838808fb368810784fba04d0516ff351de215b424311dbe9b2ba1ee39f7662a7ede983dced89bcbd0c603398473998f7d9725396876e8814059bc5e0fe68e57a
 
-Package: kalilinux
-Version: 1.0.0
-Architecture: all
-Depends: proot-distro
-Maintainer: Alienkrishn [Anon4You]
-Installed-Size: 40
-Description: Kalilinux on termux debian converted
-Filename: dists/anon/main/binary-all/kalilinux.deb
-Size: 1252
-MD5Sum: 8e13163b95a1100abbb59050fe5b7c63
-SHA1: 1b45c2fd2275cc2d91cec932ca050e757e1d78b4
-SHA256: e9a29b13a23dbd01bda1762ad88bfc3dd2d70186c0dd4c5f682fcb241bfa31ec
-SHA512: f1a4a563f8a12c762843cb0cc134a8fa96651a49d60bc3dfe50b12a723eab5531f4b876bf952a6a0c20ff22005d21ee1262c48977a45438e785bbba72b90bca3
-
 Package: locateme
-Version: 1.0
+Version: 1.1
 Architecture: all
 Installed-Size: 202
 Maintainer: Alienkrishn [Anon4You]
-Depends: php,jq,cloudflared,figlet
+Depends: php,jq,openssh,figlet
 Description: Live location tracker using google maps
 Filename: dists/anon/main/binary-all/locateme.deb
-Size: 39576
-MD5Sum: 7d1a87d4c4920e2850d8a143f91dd638
-SHA1: 15fbdd0a79dce036d7425580340453067336985f
-SHA256: 36ee7ba5b640d4156436306aecd6a6a894fa280884ebd138ac8124200884c908
-SHA512: 802351add47b92b6277c83b156a3a066d85ed5fea8c5ff118a1be014500e79163fba7e9a514036597badae3a806527cffe02585875ee5ec05a7a550933966c10
+Size: 39572
+MD5Sum: 56a5954c39b39efe6e51ed3d931ede44
+SHA1: 0df36ab9af865fa6f29bde1965142abcf03e774f
+SHA256: e4d78ed2dec2bfddd4d64a0c5761f1640e7e27173c924d505c31067b9e819dc6
+SHA512: d3a22a529a34ba0004edea2f3b83edae711f48185800e0b7c191d5dd0c986434bc830e17de96012bc8d5dd32c708ca7fadd645a0e94215bf567b4da1d34cfff5
+
+Package: nethunter
+Version: 1.0
+Architecture: all
+Depends: proot-distro,curl
+Maintainer: Alienkrishn [Anon4You]
+Description: Nethunter on termux
+Filename: dists/anon/main/binary-all/nethunter.deb
+Size: 1452
+MD5Sum: 8854ff25c1fa7899d77857453ff18af8
+SHA1: 279131658540da4fcb04aaec3fd3963206882cbf
+SHA256: 2bec0374ee97df3cae84fec41e6992dab88417f96f46f9287fcebb72156cc07d
+SHA512: 209bf447ed702f749469615b5de6d9f511357ba44372008999e4877460146721af072df61dda874f2307b2c1f29b8af39fb2948779609bf8f9c5848a92756a74
 
 Package: phoneinfo
-Version: 1.0.0
+Version: 1.0.1
 Maintainer: Alienkrishn [Anon4You]
 Architecture: all
-Depends: termux-tools,termux-exec,figlet
+Depends: termux-tools,termux-exec,figlet,jq
 Installed-Size: 36
 Description: Phone number lookup tool for termux
 Filename: dists/anon/main/binary-all/phoneinfo.deb
-Size: 1420
-MD5Sum: 248ed406e6296139b53a7682576e56c5
-SHA1: 3d71176d890986ebd9ba3de43d83b96b848c3978
-SHA256: 4dbfcc0c7f89b1a29be320b7e1af3b2fc38f1d28da8cbcb6e470ac68fe645d8e
-SHA512: 1d39baa6729f45e1732eb90e4f56a8fd98d18b989dfe3019869401695cbb3cabe7f618ae297fff71b7b712cb8972fa60af4bfc193846b5a7124378532b9892fe
+Size: 1432
+MD5Sum: 204ae6eea1afe9fdd24cfe20c891703a
+SHA1: ecf04cef14d27e65154e52fb8a2610863551662e
+SHA256: 565d6042126a9d8052c0e52fd7a61e83d6d834a67a3ffcc93efd0eb92aceac9d
+SHA512: fd5cfc35cfaf15a41ec2eedc012d32556db1cefe685d675548079323df3ae491ea573ddcf4873eaf70f183e9e433ead7476d457770887bdfdaa7a91d49acc391
 
 Package: powerdos
 Version: 1.0.1
@@ -294,19 +293,19 @@ SHA1: 6b471367c0f4a0b8847ac9b1204a06fa2d05c1b4
 SHA256: 865cdc599afcb3cadf8b0ae898e466ec20b29f488053e14a0ca3d7cbb2a80727
 SHA512: 7580e3278e9d0f95bb06e8c583c20c6876ad67d3522369813972030003fe2499b8a2624b963ac3b345341cdcec84e64ee5f5f94a7db2b50a9fa7e12c09325c74
 
-Package: wserver
+Package: webserver
 Architecture: all
-Version: 1.0
+Version: 1.1
 Installed-Size: 4.0
 Maintainer: Alienkrishn [Anon4You]
 Description: a simple webserver for termux
-Depends: php, figlet, cloudflared
-Filename: dists/anon/main/binary-all/wserver.deb
-Size: 1228
-MD5Sum: c331fe11a6464f57a442198936782b4a
-SHA1: 7862b84dba9343c56f88c8dfe70536a39d7957e3
-SHA256: 934544c3abb3e0359a22484cf2a529b2d2a853ad31fc43ee7cce6f0b79424023
-SHA512: ad405615a3be9e9805fc2cee77dfb7ae28c5a15ece2163e499d24690176eb1d06db24f94fd754e9b96718fdad14a0cde419be11c9d8d96ae8d5432d3ec81ec4d
+Depends: php, figlet, openssh
+Filename: dists/anon/main/binary-all/webserver.deb
+Size: 1208
+MD5Sum: 1104b85ad954117966a023c3dee5e0e9
+SHA1: cb5d279eeae31fc837e25403c4fd9b04a8c3577e
+SHA256: 4d932a301a97eadbc955862be36271f920bcdef5c7a9cf4ec462d06dea36b697
+SHA512: 84b31e5d8572274be3f3f003080e7ce1e93c5273c789a62469ee38020f24ceb2a199c706088d963aecfce931ffa3bd201081bbcc67a9335733c76014ff3c4aef
 
 Package: zphisher
 Version: 2.3.5
