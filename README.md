@@ -48,6 +48,7 @@ instainfo/anon 1.0.1 all
 ipinfo/anon 1.0 all
 iplookup/anon 1.0.0 all
 locateme/anon 1.1 all
+maskme/anon 1.0.0 all
 nethunter/anon 1.0 all
 phoneinfo/anon 1.0.1 all
 powerdos/anon 1.0.1 all
