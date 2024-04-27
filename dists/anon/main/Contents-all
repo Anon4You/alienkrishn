@@ -82,6 +82,7 @@ data/data/com.termux/files/usr/bin/iginfobot                                    
 data/data/com.termux/files/usr/bin/instainfo                                     instainfo
 data/data/com.termux/files/usr/bin/ipinfo                                        ipinfo
 data/data/com.termux/files/usr/bin/iplookup                                      iplookup
+data/data/com.termux/files/usr/bin/local2onion                                   local2onion
 data/data/com.termux/files/usr/bin/locateme                                      locateme
 data/data/com.termux/files/usr/share/locateme/index.html                         locateme
 data/data/com.termux/files/usr/share/locateme/js/info.js                         locateme
@@ -95,6 +96,7 @@ data/data/com.termux/files/usr/share/locateme/php/info.php                      
 data/data/com.termux/files/usr/share/locateme/php/result.php                     locateme
 data/data/com.termux/files/usr/share/locateme/php/style.css                      locateme
 data/data/com.termux/files/usr/share/locateme/style.css                          locateme
+data/data/com.termux/files/usr/bin/maskme                                        maskme
 data/data/com.termux/files/usr/bin/nethunter                                     nethunter
 data/data/com.termux/files/usr/etc/proot-distro/nhntr.sh                         nethunter
 data/data/com.termux/files/usr/bin/phoneinfo                                     phoneinfo

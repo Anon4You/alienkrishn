@@ -167,6 +167,20 @@ SHA1: eccf94caf71294df0411e0908a61614caad2f9f5
 SHA256: 91307b64c05bc5d13371cef15bb9aacd947d4c9817efda3bb98df29d13691030
 SHA512: 838808fb368810784fba04d0516ff351de215b424311dbe9b2ba1ee39f7662a7ede983dced89bcbd0c603398473998f7d9725396876e8814059bc5e0fe68e57a
 
+Package: local2onion
+Version: 1.0
+Architecture: all
+Maintainer: Alienkrishn ~Anon4You
+Installed-Size: 54
+Depends: tor,php,curl,pv
+Description: Expose your localhost on the DARKWEB using termux
+Filename: dists/anon/main/binary-all/local2onion.deb
+Size: 1668
+MD5Sum: 12cc87e62212be3f1cff1083ec2de611
+SHA1: cdbcae0d125a33956236a3d828221f11c2e484ad
+SHA256: 52f2022487066d0a4710832cfe8b2dadef1f139dd2796f39c8b6f3528e743f90
+SHA512: b60ec07f1f525d44c2abbe08fd5a276b23353ee90950df26acad63856f7e5956c9c74fdbc422c31684a5b03443ea11e787d44aabfe7e8b2358eff912a2f26720
+
 Package: locateme
 Version: 1.1
 Architecture: all
@@ -180,6 +194,19 @@ MD5Sum: 56a5954c39b39efe6e51ed3d931ede44
 SHA1: 0df36ab9af865fa6f29bde1965142abcf03e774f
 SHA256: e4d78ed2dec2bfddd4d64a0c5761f1640e7e27173c924d505c31067b9e819dc6
 SHA512: d3a22a529a34ba0004edea2f3b83edae711f48185800e0b7c191d5dd0c986434bc830e17de96012bc8d5dd32c708ca7fadd645a0e94215bf567b4da1d34cfff5
+
+Package: maskme
+Version: 1.0.0
+Maintainer: Alienkrishn [Anon4You]
+Architecture: all
+Description: Give a Mask to Phishing URL like a PRO
+Installed-Size: 32
+Filename: dists/anon/main/binary-all/maskme.deb
+Size: 1612
+MD5Sum: 27d1de95c60bef8a354ac51fa4394986
+SHA1: 13da390f5e7dff90f8be33f11f9524013bf698d2
+SHA256: 06595bc12e85723596f9c1e027bed7a765211b95dbb5348a583a609a5e7e9c6b
+SHA512: d0f88ed660bade0ce4d614f77b4f27bb73073d69ab13a7a955225acab272a37f1c0eda7299b407faeb84fb66f76e1c3cb922e98c392236e0f80ecd3c05dc81dd
 
 Package: nethunter
 Version: 1.0
