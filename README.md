@@ -34,36 +34,35 @@ You can install any package from this repo using apt or pkg
 apt install alienkrishn -y
 ```
 ## Tools Available 
-```
-alienkrishn/anon 1.0.4 all
-alienx-brute/anon 1.1 all
-androdos/anon 1.0.0 all
-androvirus/anon 2.0.2 all
-apktool/anon 2.8.1 all
-bitb-framework/anon 1.0 all
-byakugan/anon 1.0.2 all
-cctvip/anon 1.0.0 all
-cupp/anon 3.3.0 all
-enctool/anon 1.0 all
-iginfobot/anon 1.0 all
-instainfo/anon 1.0.1 all
-ipinfo/anon 1.0 all
-iplookup/anon 1.0.0 all
-local2onion/anon 1.0 all
-locateme/anon 1.1 all
-maskme/anon 1.0.0 all
-nethunter/anon 1.0 all
-parrot-os/anon 5.3 all
-phoneinfo/anon 1.0.1 all
-powerdos/anon 1.0.1 all
-shorturl/anon 1.0.0 all
-sqlmap/anon 1.7.12.7 all
-term-helper/anon 1.0.0 all
-termux-desktop/anon 1.0.1 all
-webinfo/anon 1.0.1 all
-webserver/anon 1.1 all
-zphisher/anon 2.3.5 all
-```
+* alienkrishn
+* alienx-brute
+* androdos
+* androvirus
+* apktool
+* bitb-framework
+* byakugan
+* cctvip
+* cupp
+* enctool
+* iginfobot
+* instainfo
+* ipinfo
+* iplookup
+* local2onion
+* locateme
+* maskme
+* nethunter
+* parrot-os
+* phoneinfo
+* powerdos
+* shorturl
+* sqlmap
+* term-helper
+* termux-desktop
+* webinfo
+* webserver
+* zphisher
+
 ## Add repo in your termux
 ```shell
 curl -sL https://github.com/Anon4You/alienkrishn/raw/main/addrepo | bash
