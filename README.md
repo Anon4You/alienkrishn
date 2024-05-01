@@ -39,6 +39,8 @@ alienkrishn/anon 1.0.4 all
 alienx-brute/anon 1.1 all
 androdos/anon 1.0.0 all
 androvirus/anon 2.0.2 all
+apktool/anon 2.8.1 all
+bitb-framework/anon 1.0 all
 byakugan/anon 1.0.2 all
 cctvip/anon 1.0.0 all
 cupp/anon 3.3.0 all
@@ -51,6 +53,7 @@ local2onion/anon 1.0 all
 locateme/anon 1.1 all
 maskme/anon 1.0.0 all
 nethunter/anon 1.0 all
+parrot-os/anon 5.3 all
 phoneinfo/anon 1.0.1 all
 powerdos/anon 1.0.1 all
 shorturl/anon 1.0.0 all
