@@ -71,20 +71,20 @@ SHA256: 402bc5470d8ce3e4a20ad8508f2c78b8d5759c6e6aa9afc08c4436fbb0e9aab5
 SHA512: dd563dcd3764f49223d46ad69787179ebbcfbcc67faaeaeeb8479b13535bdb0f57adddcc73c487a3dea86166fe54226a6916946ae88966b2fd7e5e870614d680
 
 Package: bitb-framework
-Version: 1.0
+Version: 1.1
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
 Installed-Size: 2
-Depends: git, python, curl, wget
+Depends: php, git, python, curl, wget
 Suggests: alienkrishn
 Homepage: https://github.com/surya-dev-singh/BITB-framwork
 Description: Phishing technique that simulates a browser window within the browser to spoof a legitimate domain.
 Filename: dists/anon/main/binary-all/bitb-framework.deb
 Size: 1968
-MD5Sum: 1d403a714190411c4ea57856da999111
-SHA1: 098f84c72c6d88b17856bcc9b2a8728e67cd53dd
-SHA256: 86068f5596ced4314e65208f39c3c052249ac5825a5692a717adce1a36c4b496
-SHA512: 6bb32430beb49dd21431985f65c5b8a6a22f39e9f641f1ef2e3873f9268a60abbb7d8fa286ad57795ceaf3777a27ccd99d4857141fe91a9383cc37a779efd444
+MD5Sum: 14a443ecc638892d999f95f476a952ea
+SHA1: ceac6d70cbb42f364d5b3b6dbe2388e65ef05d3f
+SHA256: 701ee1a981657ef5b1cc1b3cd0cd71e40b9ebc74bc249a5c2b6c52c61b0fbaea
+SHA512: 1fc27c60260af966bdeb3b1943d28bded7fb86c40b6b30fc86f4d62a296d364f24da1f8fe7c91d342b80b0bf74802fd84b5bbb668f7f5b00bb0821ea2f979c0a
 
 Package: byakugan
 Version: 1.0.2
