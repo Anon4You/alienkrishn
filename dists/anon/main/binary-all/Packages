@@ -71,7 +71,7 @@ SHA256: 402bc5470d8ce3e4a20ad8508f2c78b8d5759c6e6aa9afc08c4436fbb0e9aab5
 SHA512: dd563dcd3764f49223d46ad69787179ebbcfbcc67faaeaeeb8479b13535bdb0f57adddcc73c487a3dea86166fe54226a6916946ae88966b2fd7e5e870614d680
 
 Package: bitb-framework
-Version: 1.1
+Version: 1.2
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
 Installed-Size: 2
@@ -80,11 +80,11 @@ Suggests: alienkrishn
 Homepage: https://github.com/surya-dev-singh/BITB-framwork
 Description: Phishing technique that simulates a browser window within the browser to spoof a legitimate domain.
 Filename: dists/anon/main/binary-all/bitb-framework.deb
-Size: 1968
-MD5Sum: 14a443ecc638892d999f95f476a952ea
-SHA1: ceac6d70cbb42f364d5b3b6dbe2388e65ef05d3f
-SHA256: 701ee1a981657ef5b1cc1b3cd0cd71e40b9ebc74bc249a5c2b6c52c61b0fbaea
-SHA512: 1fc27c60260af966bdeb3b1943d28bded7fb86c40b6b30fc86f4d62a296d364f24da1f8fe7c91d342b80b0bf74802fd84b5bbb668f7f5b00bb0821ea2f979c0a
+Size: 1864
+MD5Sum: 200450e9a818f623cf06ed492237f4cf
+SHA1: 5c7a228df1006990b5f52148abe2c476aef77dc3
+SHA256: ad4856fecaf3c0d39611b46a83a973a586a5829ba1f671f132039fad30e19083
+SHA512: c6c3d3b6f59cff0bd92bfdf0c1d96002b79fb9bc7ce2f2635f2547a39a5236ff816837e226af21cdff9122ff67fac8ba8d9127bfc73b001efb8ebb7fa1f16f38
 
 Package: byakugan
 Version: 1.0.2
@@ -254,18 +254,18 @@ SHA256: c7667330c0b4068644fc6e92e742d29fff6ad639251896fb3eb1f4f5389f5c28
 SHA512: b8270ff8b121222f22c1145ce8e2f0895caabc5c379fa27757bb098e52345d469719059b45c5440008027b4590b049f17a114f679feac0397ba35f2af80be6b4
 
 Package: parrot-os
-Version: 6.1
+Version: 6.2
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
 Installed-Size: 2
 Depends: proot-distro
 Description: parrot-os on termux
 Filename: dists/anon/main/binary-all/parrot-os.deb
-Size: 1516
-MD5Sum: 52cc70d4b939471e680852f5629bed73
-SHA1: 2261d74c5827536890a3277c042f774cd01f3bcd
-SHA256: 7d9987f5da2fab9765cb055c9688e9ad7dbbe6997f8ff382149a41913fbdbe4b
-SHA512: c9cf4a65f99d946469cd1ee2ed9f48e0c1704ebd1146d074546a85479242f99ee57709d53ef404976dab96a668f7147028a727c32b1383707dbf44d8d80cf0a2
+Size: 1608
+MD5Sum: 4c916092e17ceb6feec55635eb1ce9b5
+SHA1: 84875bf2684c9fd743b5a2ac29279e8c0721109b
+SHA256: 4161095fe72105db74efa562921b83d4e3981fe65b545292646860f3baecc3d9
+SHA512: fee4cae40a0ddbb224206625dec4501f79bbb3dc74e7d471ede55da6e83bb1126e5fe44e029deb20c34a8bca9dfa01e85ddec9b6f2578a9b02170b1027f51793
 
 Package: phoneinfo
 Version: 1.0.1
