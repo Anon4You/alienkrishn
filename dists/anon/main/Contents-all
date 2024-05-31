@@ -51,6 +51,7 @@ data/data/com.termux/files/usr/share/.fxv/v9/MusicPlayerAdware.apk              
 data/data/com.termux/files/usr/share/.fxv/v9/img.png                             androvirus
 data/data/com.termux/files/usr/share/.fxv/v9/index.html                          androvirus
 data/data/com.termux/files/usr/bin/apktool                                       apktool
+data/data/com.termux/files/usr/bin/beef                                          beef
 data/data/com.termux/files/usr/bin/bitb                                          bitb-framework
 data/data/com.termux/files/usr/bin/bitb-installer                                bitb-framework
 data/data/com.termux/files/usr/bin/byakugan                                      byakugan
@@ -107,6 +108,7 @@ data/data/com.termux/files/usr/bin/parrot-os                                    
 data/data/com.termux/files/usr/etc/proot-distro/prrt.sh                          parrot-os
 data/data/com.termux/files/usr/bin/phoneinfo                                     phoneinfo
 data/data/com.termux/files/usr/bin/powerdos                                      powerdos
+data/data/com.termux/files/usr/bin/sherlock                                      sherlock
 data/data/com.termux/files/usr/bin/shorturl                                      shorturl
 data/data/com.termux/files/usr/bin/.pylintrc                                     sqlmap
 data/data/com.termux/files/usr/bin/data/html/index.html                          sqlmap
@@ -4454,6 +4456,7 @@ data/data/com.termux/files/home/.themes/Sweet-Dark-v40/gtk-2.0/assets/radio-unch
 data/data/com.termux/files/home/.themes/Sweet-Dark-v40/gtk-2.0/assets/radio-unchecked.png termux-desktop
 data/data/com.termux/files/usr/bin/webinfo                                       webinfo
 data/data/com.termux/files/usr/bin/webserver                                     webserver
+data/data/com.termux/files/usr/bin/websploit-installer                           websploit
 data/data/com.termux/files/usr/bin/zphisher                                      zphisher
 data/data/com.termux/files/usr/opt/zphisher/.github/ISSUE_TEMPLATE/01-bug-report.yml zphisher
 data/data/com.termux/files/usr/opt/zphisher/.github/ISSUE_TEMPLATE/02-broken-page.yml zphisher

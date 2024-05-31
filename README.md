@@ -39,6 +39,7 @@ apt install alienkrishn -y
 * androdos
 * androvirus
 * apktool
+* beef
 * bitb-framework
 * byakugan
 * cctvip
@@ -56,12 +57,14 @@ apt install alienkrishn -y
 * parrot-os
 * phoneinfo
 * powerdos
+* sherlock
 * shorturl
 * sqlmap
 * term-helper
 * termux-desktop
 * webinfo
 * webserver
+* websploit
 * zphisher
 
 ## Add repo in your termux

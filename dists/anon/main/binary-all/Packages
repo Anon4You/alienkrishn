@@ -70,6 +70,21 @@ SHA1: 5ef7efbfed66921e172bf7b485c2893495878a66
 SHA256: 402bc5470d8ce3e4a20ad8508f2c78b8d5759c6e6aa9afc08c4436fbb0e9aab5
 SHA512: dd563dcd3764f49223d46ad69787179ebbcfbcc67faaeaeeb8479b13535bdb0f57adddcc73c487a3dea86166fe54226a6916946ae88966b2fd7e5e870614d680
 
+Package: beef
+Version: 0.5.4.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Installed-Size: 1
+Depends: git, ruby, nodejs-lts, imagemagick
+Homepage: https://github.com/beefproject/beef
+Description: Penetration testing tool that focuses on the web browser.
+Filename: dists/anon/main/binary-all/beef.deb
+Size: 2536
+MD5Sum: 15157d8b60f0e84113f7303f5f684c38
+SHA1: 32a200e2beabb14856b0d127848a8eace208a5ba
+SHA256: 9e435bee5ba5fa1e6403311a15bdcdf9e9e46d295002f89cb1138b5a218f9a3a
+SHA512: fd590ff88de4c3ea53a3d8fce16d3230965e765b54888ba9ff20416903709ff97ed0e38e51ac99b76da3ec440d5a7a1cd68ea14bc41c9bd98cfffba84bfca5a5
+
 Package: bitb-framework
 Version: 1.2
 Architecture: all
@@ -310,6 +325,21 @@ SHA1: ff9af20d74e670e3f6d475559a53521af17cf927
 SHA256: 99f73fce98d721ce4103060bc0cf3e830fd2d6fa46249aab30ef8ec2f7d94491
 SHA512: 9a88f29dbdc78b2c830f22fe463821c399ed5b1cf2a75f594858b7cd54dc533083d047c44c520bdf707b53379abea7e427c41e5442cf111aa5b6ec0e612633ea
 
+Package: sherlock
+Version: 0.14.3
+Architecture: all
+Maintainer: Alienkrishn [Anon4you]
+Installed-Size: 1
+Depends: git, python, python-numpy, python-pandas
+Homepage: https://github.com/sherlock-project/sherlock
+Description: Hunt down social media accounts by username across social networks.
+Filename: dists/anon/main/binary-all/sherlocl.deb
+Size: 1692
+MD5Sum: b29611b8bcc799fa57366d9ef7d16d3f
+SHA1: 63c68d960bbcdf11d3f07601e662fafe7b699f1d
+SHA256: 37d6a95e34a0b4037406b027c80fff895aa7759c702e6d2eb3f021f33e17976f
+SHA512: 52eb6d7cff413223a972d009eb468804b8577bdb91b8320702f2961394ccd16628f6efed62822c5ba2bd5cb19283a5b408d9f81ee3db7950d0ffeb8821b1e593
+
 Package: shorturl
 Version: 1.0.0
 Architecture: all
@@ -394,6 +424,21 @@ MD5Sum: 1104b85ad954117966a023c3dee5e0e9
 SHA1: cb5d279eeae31fc837e25403c4fd9b04a8c3577e
 SHA256: 4d932a301a97eadbc955862be36271f920bcdef5c7a9cf4ec462d06dea36b697
 SHA512: 84b31e5d8572274be3f3f003080e7ce1e93c5273c789a62469ee38020f24ceb2a199c706088d963aecfce931ffa3bd201081bbcc67a9335733c76014ff3c4aef
+
+Package: websploit
+Version: 4.0.4
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Installed-Size: 1
+Depends: python, python-pip, git, python-numpy 
+Homepage: https://github.com/The404Hacking/websploit
+Description: Advanced MITM framework.
+Filename: dists/anon/main/binary-all/websploit.deb
+Size: 1564
+MD5Sum: 605023a38f38421e5a2493e31d00197f
+SHA1: 1136bc63c570b418ae4cf59d65a050a260ed9b5e
+SHA256: 745ba1e75010df249e572a4e265c43ffe9bedabee327f7cdf55dd92b5d02e5e4
+SHA512: 46f6c21bf8730c20b959d5cc1f827291a19ed1a9a6e02f56f9c748d549b943270d58838cfde594c3fb74d3972d8bc185ac9f90b4ae704d4ee15575661dfbdcc4
 
 Package: zphisher
 Version: 2.3.5
