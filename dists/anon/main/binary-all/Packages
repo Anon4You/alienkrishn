@@ -240,6 +240,21 @@ SHA1: 13da390f5e7dff90f8be33f11f9524013bf698d2
 SHA256: 06595bc12e85723596f9c1e027bed7a765211b95dbb5348a583a609a5e7e9c6b
 SHA512: d0f88ed660bade0ce4d614f77b4f27bb73073d69ab13a7a955225acab272a37f1c0eda7299b407faeb84fb66f76e1c3cb922e98c392236e0f80ecd3c05dc81dd
 
+Package: metasploit-framework
+Version: 6.3.58
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Installed-Size: 2
+Depends: build-essential, ruby, python, libcap, openjdk-17, termux-tools, autoconf, patchelf, binutils, bison, yarn, clang, coreutils, curl, findutils, gumbo-parser, apr, apr-util, postgresql, openssl, readline, libffi, libgmp, libpcap, libsqlite, libgrpc, libtool, libxml2, libxslt, make, ncurses-utils, ncurses, git, wget, unzip, xz-utils, zip, zlib, tar, termux-elf-cleaner, pkg-config, resolv-conf, aapt, apksigner, apktool
+Homepage: https://github.com/rapid7/metasploit-framework
+Description: Metasploit The world’s most used penetration testing framework
+Filename: dists/anon/main/binary-all/metasploit-framework.deb
+Size: 4204
+MD5Sum: 1359713745eb5bda41f4173adca022ea
+SHA1: 30f5163aa8bc652c471de63fafaca5c2bbe6a131
+SHA256: 5e8451c513f554b85d2f78a8ba70459a0579a289259264c6fc30e03fff866f49
+SHA512: eaa80df6cb46fc2f9ca04e0498f5e54f88abe408d18896313f342ee6ed8de0cd52f6789e839da4469c4ff5910af712d56af78cb8828abc1fbb1ea5229df9bcc6
+
 Package: nethunter
 Version: 1.0
 Architecture: all

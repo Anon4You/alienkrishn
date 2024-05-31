@@ -51,6 +51,7 @@ apt install alienkrishn -y
 * local2onion
 * locateme
 * maskme
+* metasploit-framework
 * nethunter
 * parrot-os
 * phoneinfo
