@@ -108,7 +108,6 @@ data/data/com.termux/files/usr/bin/parrot-os                                    
 data/data/com.termux/files/usr/etc/proot-distro/prrt.sh                          parrot-os
 data/data/com.termux/files/usr/bin/phoneinfo                                     phoneinfo
 data/data/com.termux/files/usr/bin/powerdos                                      powerdos
-data/data/com.termux/files/usr/bin/sherlock                                      sherlock
 data/data/com.termux/files/usr/bin/shorturl                                      shorturl
 data/data/com.termux/files/usr/bin/.pylintrc                                     sqlmap
 data/data/com.termux/files/usr/bin/data/html/index.html                          sqlmap

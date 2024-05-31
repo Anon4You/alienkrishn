@@ -57,7 +57,6 @@ apt install alienkrishn -y
 * parrot-os
 * phoneinfo
 * powerdos
-* sherlock
 * shorturl
 * sqlmap
 * term-helper

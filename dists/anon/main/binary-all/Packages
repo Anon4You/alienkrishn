@@ -325,21 +325,6 @@ SHA1: ff9af20d74e670e3f6d475559a53521af17cf927
 SHA256: 99f73fce98d721ce4103060bc0cf3e830fd2d6fa46249aab30ef8ec2f7d94491
 SHA512: 9a88f29dbdc78b2c830f22fe463821c399ed5b1cf2a75f594858b7cd54dc533083d047c44c520bdf707b53379abea7e427c41e5442cf111aa5b6ec0e612633ea
 
-Package: sherlock
-Version: 0.14.3
-Architecture: all
-Maintainer: Alienkrishn [Anon4you]
-Installed-Size: 1
-Depends: git, python, python-numpy, python-pandas
-Homepage: https://github.com/sherlock-project/sherlock
-Description: Hunt down social media accounts by username across social networks.
-Filename: dists/anon/main/binary-all/sherlocl.deb
-Size: 1692
-MD5Sum: b29611b8bcc799fa57366d9ef7d16d3f
-SHA1: 63c68d960bbcdf11d3f07601e662fafe7b699f1d
-SHA256: 37d6a95e34a0b4037406b027c80fff895aa7759c702e6d2eb3f021f33e17976f
-SHA512: 52eb6d7cff413223a972d009eb468804b8577bdb91b8320702f2961394ccd16628f6efed62822c5ba2bd5cb19283a5b408d9f81ee3db7950d0ffeb8821b1e593
-
 Package: shorturl
 Version: 1.0.0
 Architecture: all
