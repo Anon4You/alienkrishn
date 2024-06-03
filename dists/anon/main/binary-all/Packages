@@ -411,7 +411,7 @@ SHA256: 4d932a301a97eadbc955862be36271f920bcdef5c7a9cf4ec462d06dea36b697
 SHA512: 84b31e5d8572274be3f3f003080e7ce1e93c5273c789a62469ee38020f24ceb2a199c706088d963aecfce931ffa3bd201081bbcc67a9335733c76014ff3c4aef
 
 Package: websploit
-Version: 4.0.4
+Version: 4.0.5
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
 Installed-Size: 1
@@ -419,11 +419,11 @@ Depends: python, python-pip, git, python-numpy
 Homepage: https://github.com/The404Hacking/websploit
 Description: Advanced MITM framework.
 Filename: dists/anon/main/binary-all/websploit.deb
-Size: 1564
-MD5Sum: 605023a38f38421e5a2493e31d00197f
-SHA1: 1136bc63c570b418ae4cf59d65a050a260ed9b5e
-SHA256: 745ba1e75010df249e572a4e265c43ffe9bedabee327f7cdf55dd92b5d02e5e4
-SHA512: 46f6c21bf8730c20b959d5cc1f827291a19ed1a9a6e02f56f9c748d549b943270d58838cfde594c3fb74d3972d8bc185ac9f90b4ae704d4ee15575661dfbdcc4
+Size: 1572
+MD5Sum: 3a28e9e46e0a6b77ed162cf798d21f9f
+SHA1: 15a389321d496b5d1d62305b3b7ab3e7c821ef63
+SHA256: c783f6cdb2c259991d328e230e5513ff26940eeff3d40f1b03d6baf11868b4fd
+SHA512: d8aeb7609624e0f794108d042c53514ab0428a228142d6df26f85bb3cb246aeb94ea4cdfab167b5a36c1597f068b7bd69d5c6770d9c4fce445fd90c123c92832
 
 Package: zphisher
 Version: 2.3.5
