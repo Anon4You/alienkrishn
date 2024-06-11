@@ -41,7 +41,7 @@ apt install alienkrishn -y
 * apktool
 * beef
 * bitb-framework
-* burpsuit
+* burpsuite
 * byakugan
 * cctvip
 * cupp
