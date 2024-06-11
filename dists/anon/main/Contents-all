@@ -54,6 +54,9 @@ data/data/com.termux/files/usr/bin/apktool                                      
 data/data/com.termux/files/usr/bin/beef                                          beef
 data/data/com.termux/files/usr/bin/bitb                                          bitb-framework
 data/data/com.termux/files/usr/bin/bitb-installer                                bitb-framework
+data/data/com.termux/files/usr/bin/burpsuite                                     burpsuite
+data/data/com.termux/files/usr/share/applications/burpsuite/burpsuite.desktop    burpsuite
+data/data/com.termux/files/usr/share/applications/burpsuite/img/burpsuite.png    burpsuite
 data/data/com.termux/files/usr/bin/byakugan                                      byakugan
 data/data/com.termux/files/usr/share/byakugan/assets/About.html                  byakugan
 data/data/com.termux/files/usr/share/byakugan/assets/css/server.css              byakugan
@@ -86,6 +89,7 @@ data/data/com.termux/files/usr/bin/iginfobot                                    
 data/data/com.termux/files/usr/bin/instainfo                                     instainfo
 data/data/com.termux/files/usr/bin/ipinfo                                        ipinfo
 data/data/com.termux/files/usr/bin/iplookup                                      iplookup
+data/data/com.termux/files/usr/bin/jython                                        jython-lts
 data/data/com.termux/files/usr/bin/local2onion                                   local2onion
 data/data/com.termux/files/usr/bin/locateme                                      locateme
 data/data/com.termux/files/usr/share/locateme/index.html                         locateme

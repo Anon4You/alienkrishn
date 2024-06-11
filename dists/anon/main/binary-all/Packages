@@ -101,6 +101,21 @@ SHA1: 5c7a228df1006990b5f52148abe2c476aef77dc3
 SHA256: ad4856fecaf3c0d39611b46a83a973a586a5829ba1f671f132039fad30e19083
 SHA512: c6c3d3b6f59cff0bd92bfdf0c1d96002b79fb9bc7ce2f2635f2547a39a5236ff816837e226af21cdff9122ff67fac8ba8d9127bfc73b001efb8ebb7fa1f16f38
 
+Package: burpsuite
+Version: 2023.12.1.5
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Installed-Size: 37
+Depends: openjdk-17, wget, jython-lts, giflib
+Homepage: https://portswigger.net
+Description: An integrated platform/graphical tool for performing security testing of web applications.
+Filename: dists/anon/main/binary-all/burpsuite.deb
+Size: 36660
+MD5Sum: 5a831aa044058f953cd02c467fe39247
+SHA1: 1829f46251bf0c538e45d902b79ac32bcd78131f
+SHA256: a0bc0fdae8ff88e64fab7c85745651677ba404e89e5ab2b086c4c12bd6bb35ae
+SHA512: 8ee38c9ebdb22f4f2d5b474e19becf4f749b3f8600b368848270badb8203b98082fda56e9dccc81115ae6f34318ea98db299b0d3471a92df5a8c70575b5fe462
+
 Package: byakugan
 Version: 1.0.2
 Architecture: all
@@ -213,6 +228,21 @@ MD5Sum: ded0de751c8baf247cf12beaa5b2f9fe
 SHA1: eccf94caf71294df0411e0908a61614caad2f9f5
 SHA256: 91307b64c05bc5d13371cef15bb9aacd947d4c9817efda3bb98df29d13691030
 SHA512: 838808fb368810784fba04d0516ff351de215b424311dbe9b2ba1ee39f7662a7ede983dced89bcbd0c603398473998f7d9725396876e8814059bc5e0fe68e57a
+
+Package: jython-lts
+Version: 2.7.3
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Installed-Size: 1
+Depends: openjdk-17, wget
+Homepage: https://https://www.jython.org/
+Description: The Jython project provides implementations of Python in Java, providing to Python the benefits of running on the JVM and access to classes written in java
+Filename: dists/anon/main/binary-all/jython-lts.deb
+Size: 1864
+MD5Sum: ef6980b4b967b8d5d6dbee8d70de86fb
+SHA1: 51d6b2757e030e9f1a3234164b2f2910843d782d
+SHA256: 2fb835819ccecaa286e22d6f11ac7772174f48559b89432760ab871b1158c153
+SHA512: fc718fb10967994108effd315c7d67982fb330c00536d3ab88c6f3fa203e4e23ef8b37a38ee9734bfe2cf726ec048d71408994a6599dfe6ba6f416c3ca8d74c5
 
 Package: local2onion
 Version: 1.0
