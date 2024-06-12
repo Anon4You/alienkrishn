@@ -41,7 +41,6 @@ apt install alienkrishn -y
 * apktool
 * beef
 * bitb-framework
-* burpsuite
 * byakugan
 * cctvip
 * cupp
@@ -50,7 +49,6 @@ apt install alienkrishn -y
 * instainfo
 * ipinfo
 * iplookup
-* jython-lts
 * local2onion
 * locateme
 * maskme
