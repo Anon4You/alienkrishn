@@ -17,6 +17,7 @@ mv $PREFIX/etc/apt/trusted.gpg $PREFIX/etc/apt/trusted.gpg.d > /dev/null 2>&1
 
 printf "\n 
 Alienkrishn Repo installed....
-now restart your termux app
-update all repositories"
+updating repositories...
+"
+apt update -y
 
