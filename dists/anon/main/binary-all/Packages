@@ -382,6 +382,21 @@ SHA1: ff5a75be6a145666f99d68f3d04ac5700a41c084
 SHA256: 6a317f691bba32c838210b14e7235059c02e33718386caf5fc7ceca6f44af5e8
 SHA512: 43a2001841f5c17741996a10e5d0c8c57606c1f307ef5b1db9c4424dfe28d41171c6e7684fbe6a564af5c57dddfc31661e07d0f0c0006343a199c485c0659fb0
 
+Package: thc-hydra
+Architecture: all
+Installed-Size: 1588
+Maintainer: Alienkrishn [Anon4You]
+Version: 9.5
+Homepage: https://github.com/vanhauser-thc/thc-hydra
+Depends: libidn, libgcrypt, libssh, libssh2, openssl, openssl-1.1, pcre, pcre2, zlib
+Description: hydra
+Filename: dists/anon/main/binary-all/thc-hydra.deb
+Size: 427528
+MD5Sum: f19b887e242a68d01a760a2eec23381a
+SHA1: 7dcbcc4f56c786be70dc8944a9c1c50e928f5bd5
+SHA256: 2bc4121313311587fb3b28975474a8ee596d86be8e9ee3651c75dd9c474bf280
+SHA512: 7542dd660ef4bb440e5176c230b7e113454e2d3cc4ad61aefc25c3ca2fcb392939c1f0a2bce58f358d06f55658d4ad346fb04efcebd20274c51013e3ff8a12c4
+
 Package: webinfo
 Version: 1.0.1
 Maintainer: Alienkrishn [Anon4You]
