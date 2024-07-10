@@ -61,6 +61,7 @@ apt install alienkrishn -y
 * sqlmap
 * term-helper
 * termux-desktop
+* thc-hydra
 * webinfo
 * webserver
 * websploit
