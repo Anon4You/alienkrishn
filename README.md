@@ -25,7 +25,7 @@ Custom termux apt repository Maintained by me
 ```
 
 ## About
-It's a custom termux repository which contains some tools and packages not available in termux officiallrepo
+It's a custom termux repository which contains some tools and packages not available in termux officiall repo
 
 ## Usage 
 You can install any package from this repo using apt or pkg
