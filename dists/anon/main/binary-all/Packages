@@ -20,11 +20,11 @@ Depends: python,python2,python-pip,termux-exec
 Installed-Size: 102
 Description: A multi-bruteforce tool for termux
 Filename: dists/anon/main/binary-all/alienx-brute.deb
-Size: 5472
-MD5Sum: 38352b614d042205d918cd63f3ac96b9
-SHA1: 49172fa16dce1da62f2ce01f832e0fa3ece08903
-SHA256: c7ab38102841978fdb42c2d9438727fadf426b483a4da9c55347288f51e50ff7
-SHA512: 8569176afbc172b3a27c1b7fddd980656ed6ac73e80e530df954c968bd63289458c4bc38466e3d537db91ce7c2ac565277cfd8a9f95614919167c1fea8dc59a7
+Size: 5728
+MD5Sum: fa70e50ae998856c864d37d918e48b74
+SHA1: 8efe7fbb54131921be41f5d8abdc4090d49a96d1
+SHA256: 60a495ec2bd983bcf4a531ff4aae3f4c7f5b9dc89a1b23eb6553015510724ab5
+SHA512: 5136577b77b079f309c5db3e176225c9011932122bda1750ce312dd47485c525b59c82e9e5352ad9d65b80f7e683f67603108def97d03f8fa4eb49dd3848a989
 
 Package: androdos
 Version: 1.0.0
