@@ -101,6 +101,19 @@ SHA1: 5c7a228df1006990b5f52148abe2c476aef77dc3
 SHA256: ad4856fecaf3c0d39611b46a83a973a586a5829ba1f671f132039fad30e19083
 SHA512: c6c3d3b6f59cff0bd92bfdf0c1d96002b79fb9bc7ce2f2635f2547a39a5236ff816837e226af21cdff9122ff67fac8ba8d9127bfc73b001efb8ebb7fa1f16f38
 
+Package: blackhat
+Version: 1.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Installed-Size: 56
+Description: blackhat hacking sources
+Filename: dists/anon/main/binary-all/blackhat.deb
+Size: 15488
+MD5Sum: 08f1f3f5a11b020bba894a7050f23f97
+SHA1: 2dead9ba1f162930691ec2a7fb8c1331b5352f6b
+SHA256: 790d442d729993826e23788af1cf98fcc613886e1ba6fab65218fa89bafc3eb3
+SHA512: cf96da090787007541f4ce68fd45cbabdbdb0bcb7c328cb595ab7ab55ef2fc0ca089978bb3b77a7a665e6531fbfd7bea3486193638f6f38a037cd42c4ef751f8
+
 Package: byakugan
 Version: 1.0.2
 Architecture: all
@@ -157,34 +170,6 @@ MD5Sum: 727d61c8a49776fa32e581a3ea147b01
 SHA1: 28b23cb3bfcf9a175f4ab59dff524cf2165f8360
 SHA256: cac30254a7b18970f814285d155c411cd382a16db0d2781299c9955c699abcb6
 SHA512: 5d6b827f10bd6f0d64edac7662a7d2c44abe8a487fe7feeb764e7414bdf253e710d5c090afede4cd92d2449bf8535f4333d6e311b1f55f4b8a93fa1a3d89225b
-
-Package: iginfobot
-Architecture: all
-Version: 1.0
-Maintainer: Alienkrishn [Anon4You]
-Description: Instagram user information gethering tool
-Depends: python, python-pip
-Installed-Size: 32
-Filename: dists/anon/main/binary-all/iginfobot.deb
-Size: 2240
-MD5Sum: 3c985535b5b424511e04dc536ade780b
-SHA1: 1c0ca0dd7fc2629a0bb4d0e431670d85b3ee4411
-SHA256: d639a733d62e2736072cef433f0aba212ec1c8c702065a2cacb4a3b6cf4b904a
-SHA512: bf0740091b3d85fcdbe1b240a0dc374f1cebf383be77e44367dc27c5dd73f6c9022d2802e7ec75cbc0640ea79725b06f7085a66f07547ccd1a919f0b77e94df2
-
-Package: instainfo
-Version: 1.0.1
-Architecture: all
-Maintainer: Alienkrishn [Anon4You]
-Depends: python,python-pip
-Installed-Size: 40
-Description: instagram information gatjering tool
-Filename: dists/anon/main/binary-all/instainfo.deb
-Size: 1904
-MD5Sum: 904bd8f9bd0520be036e72a786e08754
-SHA1: 29de74d919d6a01b9554d872c3e3722c3d57ee17
-SHA256: 259b9073259436ddfb65b2402071b77e6d7941bdc1c0d075550bd8dea8156581
-SHA512: e8d9c3d675f2c34cfc2736c05798672cd73e48c98221058b971f5ea20507b9646582396c604df138c0f1e16a9317bdb99d28c5f53024fad4da2de37cc6237d2f
 
 Package: ipinfo
 Version: 1.0

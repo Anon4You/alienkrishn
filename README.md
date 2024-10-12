@@ -41,12 +41,11 @@ apt install alienkrishn -y
 * apktool
 * beef
 * bitb-framework
+* blackhat
 * byakugan
 * cctvip
 * cupp
 * enctool
-* iginfobot
-* instainfo
 * ipinfo
 * iplookup
 * local2onion

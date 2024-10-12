@@ -54,6 +54,8 @@ data/data/com.termux/files/usr/bin/apktool                                      
 data/data/com.termux/files/usr/bin/beef                                          beef
 data/data/com.termux/files/usr/bin/bitb                                          bitb-framework
 data/data/com.termux/files/usr/bin/bitb-installer                                bitb-framework
+data/data/com.termux/files/usr/bin/blackhat                                      blackhat
+data/data/com.termux/files/usr/lib/bh.jpeg                                       blackhat
 data/data/com.termux/files/usr/bin/byakugan                                      byakugan
 data/data/com.termux/files/usr/share/byakugan/assets/About.html                  byakugan
 data/data/com.termux/files/usr/share/byakugan/assets/css/server.css              byakugan
@@ -82,8 +84,6 @@ data/data/com.termux/files/usr/share/cctvip.py                                  
 data/data/com.termux/files/usr/bin/cupp                                          cupp
 data/data/com.termux/files/usr/bin/cupp.cfg                                      cupp
 data/data/com.termux/files/usr/bin/enctool                                       enctool
-data/data/com.termux/files/usr/bin/iginfobot                                     iginfobot
-data/data/com.termux/files/usr/bin/instainfo                                     instainfo
 data/data/com.termux/files/usr/bin/ipinfo                                        ipinfo
 data/data/com.termux/files/usr/bin/iplookup                                      iplookup
 data/data/com.termux/files/usr/bin/local2onion                                   local2onion
