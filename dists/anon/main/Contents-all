@@ -109,6 +109,10 @@ data/data/com.termux/files/usr/etc/proot-distro/prrt.sh                         
 data/data/com.termux/files/usr/bin/phoneinfo                                     phoneinfo
 data/data/com.termux/files/usr/bin/powerdos                                      powerdos
 data/data/com.termux/files/usr/bin/shorturl                                      shorturl
+data/data/com.termux/files/usr/bin/spider                                        spider
+data/data/com.termux/files/usr/lib/spider/main.py                                spider
+data/data/com.termux/files/usr/lib/spider/report/report.py                       spider
+data/data/com.termux/files/usr/lib/spider/report/reporter.py                     spider
 data/data/com.termux/files/usr/bin/.pylintrc                                     sqlmap
 data/data/com.termux/files/usr/bin/data/html/index.html                          sqlmap
 data/data/com.termux/files/usr/bin/data/procs/README.txt                         sqlmap

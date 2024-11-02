@@ -324,6 +324,20 @@ SHA1: 0f60081c80449ac535d993ef6e62d1ada15778a4
 SHA256: f6ae1973b6133525cd0518a105c02a0bea43dc4af0cc27cbafadae4f9c52668e
 SHA512: af3f0ef916b5be2ac013af560a0f93e10fef24976f4e520e716dc298a8bc09ea85ac9319d732c5091fbaeb0066bc450e276931d1033e2fdffd4fb9ca021f7664
 
+Package: spider
+Version: 1.0
+Architecture: all
+Depends: python,python-pip
+Installed-Size: 1
+Maintainer: Alienkrishn [Anon4You]
+Description: telegram autoreport script
+Filename: dists/anon/main/binary-all/spider.deb
+Size: 3968
+MD5Sum: 0114f4fecfa7b07ed9d9e8adfdee3e47
+SHA1: c59c9d04b21002f10b9934a94e2b00b7fb2cf5cb
+SHA256: 337069cb3c44dfbc77cd63ec603df15b025387421e1dbceda8fa31a515966d14
+SHA512: 43f60749767c3fa4cb7baf69e4d9b87a045a18c8e6c2de272b40edaa7cabe1e4167ea8e2c607a9fc2201b021a01fb97d87918ac6f2b8c365f779e281fecea9b9
+
 Package: sqlmap
 Version: 1.7.12.7
 Architecture: all

@@ -57,6 +57,7 @@ apt install alienkrishn -y
 * phoneinfo
 * powerdos
 * shorturl
+* spider
 * sqlmap
 * term-helper
 * termux-desktop
