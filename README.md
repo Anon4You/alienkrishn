@@ -48,6 +48,7 @@ apt install alienkrishn -y
 * enctool
 * ipinfo
 * iplookup
+* John The Ripper
 * local2onion
 * locateme
 * maskme

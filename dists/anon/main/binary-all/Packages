@@ -199,6 +199,22 @@ SHA1: eccf94caf71294df0411e0908a61614caad2f9f5
 SHA256: 91307b64c05bc5d13371cef15bb9aacd947d4c9817efda3bb98df29d13691030
 SHA512: 838808fb368810784fba04d0516ff351de215b424311dbe9b2ba1ee39f7662a7ede983dced89bcbd0c603398473998f7d9725396876e8814059bc5e0fe68e57a
 
+Package: john
+Version: 1.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Installed-Size: 1
+Depends: git, make, clang, python, python-pip
+Suggests: i-haklab
+Homepage: https://github.com/openwall/john
+Description: Open Source password security auditing and password recovery tool.
+Filename: dists/anon/main/binary-all/john.deb
+Size: 1748
+MD5Sum: 9d9bd1bd1ab7e5ac53ba112b7ec10727
+SHA1: 14334a2c66ef0e2d2281e4df38888dcf6c2b082a
+SHA256: 7ea124f9dca92f02d45d012cbc853c66838280d15751ce6786c78bd211e69cd0
+SHA512: b021ee742319924794bffbfb7545b68ffe4e6b3b397305367fd0e8779f4e6ae64d8f6e7f682b272d310a8040ba64d3b424fcbdc70ece747b2731fb447a5fa89c
+
 Package: local2onion
 Version: 1.0
 Architecture: all
