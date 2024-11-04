@@ -255,19 +255,6 @@ SHA1: 30f5163aa8bc652c471de63fafaca5c2bbe6a131
 SHA256: 5e8451c513f554b85d2f78a8ba70459a0579a289259264c6fc30e03fff866f49
 SHA512: eaa80df6cb46fc2f9ca04e0498f5e54f88abe408d18896313f342ee6ed8de0cd52f6789e839da4469c4ff5910af712d56af78cb8828abc1fbb1ea5229df9bcc6
 
-Package: nethunter
-Version: 1.1
-Architecture: all
-Depends: proot-distro,curl
-Maintainer: Alienkrishn [Anon4You]
-Description: Nethunter on termux
-Filename: dists/anon/main/binary-all/nethunter.deb
-Size: 1548
-MD5Sum: 34c86224372539d872e2d834ee9fb9b2
-SHA1: 21a3cbf2ef4ec4755839030e61c9dd922771ba31
-SHA256: 1dcb7c5b2295d027c5f38753674adc992b33270932cdbf0e219616d0e78b2376
-SHA512: 6c40692e615cc337f92b72e7207d615bec8ec04e8189cae2f2301cc6b43e3a06610d9ac4197b8d1c90117e05bcf2d0f3320f0aaed232829753521ea63a39fcd1
-
 Package: parrot-os
 Version: 6.2
 Architecture: all

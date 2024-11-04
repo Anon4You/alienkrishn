@@ -52,7 +52,6 @@ apt install alienkrishn -y
 * locateme
 * maskme
 * metasploit-framework
-* nethunter
 * parrot-os
 * phoneinfo
 * powerdos
