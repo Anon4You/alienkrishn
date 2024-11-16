@@ -84,6 +84,7 @@ data/data/com.termux/files/usr/share/cctvip.py                                  
 data/data/com.termux/files/usr/bin/cupp                                          cupp
 data/data/com.termux/files/usr/bin/cupp.cfg                                      cupp
 data/data/com.termux/files/usr/bin/enctool                                       enctool
+data/data/com.termux/files/usr/bin/instajack                                     instajack
 data/data/com.termux/files/usr/bin/ipinfo                                        ipinfo
 data/data/com.termux/files/usr/bin/iplookup                                      iplookup
 data/data/com.termux/files/usr/bin/john                                          john

@@ -46,6 +46,7 @@ apt install alienkrishn -y
 * cctvip
 * cupp
 * enctool
+* instajack
 * ipinfo
 * iplookup
 * John The Ripper

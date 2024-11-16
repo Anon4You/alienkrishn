@@ -171,6 +171,20 @@ SHA1: 28b23cb3bfcf9a175f4ab59dff524cf2165f8360
 SHA256: cac30254a7b18970f814285d155c411cd382a16db0d2781299c9955c699abcb6
 SHA512: 5d6b827f10bd6f0d64edac7662a7d2c44abe8a487fe7feeb764e7414bdf253e710d5c090afede4cd92d2449bf8535f4333d6e311b1f55f4b8a93fa1a3d89225b
 
+Package: instajack
+Version: 1.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: python,python-pip
+Installed-Size: 1
+Description: Instagram old account jacker
+Filename: dists/anon/main/binary-all/instajack.deb
+Size: 10936
+MD5Sum: 3ffe9e27b743236b77dc7ecbe0438026
+SHA1: 8d62d585b139dff494bd7aa0e4b4396593c28993
+SHA256: 5c660a23136fbfe58796188eb97eb4a15da78cdcaaf1f71659d2c66e01e3fff4
+SHA512: 8b4edfffa675ea01a091ddb6aa296869f7faacc67bb5ce360218ac67f227555b514145069c2893589d7d7ab155f2386a899c93cad384649fed536efb043b9c2f
+
 Package: ipinfo
 Version: 1.0
 Architecture: all
