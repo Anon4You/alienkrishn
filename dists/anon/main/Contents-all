@@ -4472,6 +4472,8 @@ data/data/com.termux/files/usr/share/doc/thc-hydra/LICENSE                      
 data/data/com.termux/files/usr/bin/webinfo                                       webinfo
 data/data/com.termux/files/usr/bin/webserver                                     webserver
 data/data/com.termux/files/usr/bin/websploit-installer                           websploit
+data/data/com.termux/files/usr/bin/weeman                                        weeman
+data/data/com.termux/files/usr/bin/weeman-installer                              weeman
 data/data/com.termux/files/usr/bin/zphisher                                      zphisher
 data/data/com.termux/files/usr/opt/zphisher/.github/ISSUE_TEMPLATE/01-bug-report.yml zphisher
 data/data/com.termux/files/usr/opt/zphisher/.github/ISSUE_TEMPLATE/02-broken-page.yml zphisher

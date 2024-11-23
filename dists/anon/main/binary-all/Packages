@@ -455,6 +455,22 @@ SHA1: 15a389321d496b5d1d62305b3b7ab3e7c821ef63
 SHA256: c783f6cdb2c259991d328e230e5513ff26940eeff3d40f1b03d6baf11868b4fd
 SHA512: d8aeb7609624e0f794108d042c53514ab0428a228142d6df26f85bb3cb246aeb94ea4cdfab167b5a36c1597f068b7bd69d5c6770d9c4fce445fd90c123c92832
 
+Package: weeman
+Architecture: all
+Version: 1.7.1
+Maintainer: Alienkrishn [Anon4You]
+Depends: python2,git
+Suggest: maskme,shorturl
+Installet-Size: 1
+Homepage: https://github.com/evait-security/weeman
+Description: HTTP server for phishing in python2
+Filename: dists/anon/main/binary-all/weeman.deb
+Size: 1628
+MD5Sum: 50d2af41e1117ceed7851c2ef9d5c362
+SHA1: e0f125a16df673be3ab1c8b3043c9b85914cc25d
+SHA256: de76bdf37d479180672fcd115a67697a5a3d34caf613eec11876fd2f75bd98d2
+SHA512: d99e0898957c8380e4dfa45f5018d47d5d587992bd96f1e8800302be88f0ae561b235882563680b9f36e63c81fc9f67e9fa89c22db65e5fba5d2f1eb48c8f3ad
+
 Package: zphisher
 Version: 2.3.5
 Architecture: all

@@ -66,6 +66,7 @@ apt install alienkrishn -y
 * webinfo
 * webserver
 * websploit
+* weeman
 * zphisher
 
 ## Add repo in your termux
