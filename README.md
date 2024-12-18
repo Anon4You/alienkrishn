@@ -24,8 +24,10 @@ Custom termux apt repository Maintained by me
 ++--==[ Maitaind By Anon4You
 ```
 
-## About
-It's a custom termux repository which contains some tools and packages not available in termux officiall repo
+##
+<h3><p align="center">About</p></h3>
+<i>This repository for <b>Termux</b> has been specifically designed to provide a variety of tools and packages that are not included in the official Termux repository. It acts as a supplementary resource for users looking for expanded capabilities and features to enrich their Termux environment.</i>
+
 
 ## Usage 
 You can install any package from this repo using apt or pkg
@@ -33,41 +35,6 @@ You can install any package from this repo using apt or pkg
 ```
 apt install alienkrishn -y
 ```
-## Tools Available 
-* alienkrishn
-* alienx-brute
-* androdos
-* androvirus
-* apktool
-* beef
-* bitb-framework
-* blackhat
-* byakugan
-* cctvip
-* cupp
-* enctool
-* instajack
-* ipinfo
-* iplookup
-* John The Ripper
-* local2onion
-* locateme
-* maskme
-* metasploit-framework
-* parrot-os
-* phoneinfo
-* powerdos
-* shorturl
-* spider
-* sqlmap
-* term-helper
-* termux-desktop
-* thc-hydra
-* webinfo
-* webserver
-* websploit
-* weeman
-* zphisher
 
 ## Add repo in your termux
 ```shell
