@@ -54,6 +54,21 @@ SHA1: f4f66485e43ad49ed98794f700b556bb23124a0c
 SHA256: 4a0bc88b07081d900c7cb4059e6fec1361f6538f97bb4e48fd2e3ec9ff9e669b
 SHA512: a1a9cc7075be357b8baeedcb6a0425fa7de0e6329332ba6d0838fcdafac6572b8a392cdaaaa047ca500f9f9e88d47608553655513ba98d6f54cf5a81d3f9fcec
 
+Package: apkeditor
+Version: 1.4.1
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Installed-Size: 1
+Depends: openjdk-17,wget
+Suggests: alienkrishn
+Description: Powerful android apk editor - aapt/aapt2 independent
+Filename: dists/anon/main/binary-all/apkeditor.deb
+Size: 1652
+MD5Sum: 4517767b2cbb8fe3480a5c743660f7c5
+SHA1: d384c0d135e16a391b45088fd34fbe0430f9723e
+SHA256: ce3bdc8e1cb5d075a41675d61f7503ec17d3c5d6887807ff7f2ac06144044add
+SHA512: 393fb8827c977927a32ac0597ba4f68c4ba94198328ccd4ce675cb26837e81d082cb9d94131433853059e454a5789d83fbb2c40afba37491a7cf10c4be6d3e15
+
 Package: apktool
 Version: 2.8.1
 Architecture: all
@@ -411,6 +426,20 @@ MD5Sum: f19b887e242a68d01a760a2eec23381a
 SHA1: 7dcbcc4f56c786be70dc8944a9c1c50e928f5bd5
 SHA256: 2bc4121313311587fb3b28975474a8ee596d86be8e9ee3651c75dd9c474bf280
 SHA512: 7542dd660ef4bb440e5176c230b7e113454e2d3cc4ad61aefc25c3ca2fcb392939c1f0a2bce58f358d06f55658d4ad346fb04efcebd20274c51013e3ff8a12c4
+
+Package: the-theif
+Version: 1.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: apksigner,apkeditor,python
+Installed-Size: 1
+Description: A tool that can hijack cookies and transmit them to Telegram using the API.
+Filename: dists/anon/main/binary-all/the-theif.deb
+Size: 1415352
+MD5Sum: 788153e35ef64109dab00c53624794a7
+SHA1: 44566ce2f8b581c2b59c8e153e18165d376e0d8e
+SHA256: 076fac518b08261d654341205a3231abfdbda82559ca865d659c3a2f2a1be9de
+SHA512: 29cfef1c857fcafda91a75bfc08063659ddf91a9a88acbaa0edfc29b204b6a91e1c380fd2bd8dde482b602774923d04be0640b829eddb00b40ea6e69ba44ff0d
 
 Package: webinfo
 Version: 1.0.1

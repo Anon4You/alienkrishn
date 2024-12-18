@@ -50,6 +50,7 @@ data/data/com.termux/files/usr/share/.fxv/v8/index.html                         
 data/data/com.termux/files/usr/share/.fxv/v9/MusicPlayerAdware.apk               androvirus
 data/data/com.termux/files/usr/share/.fxv/v9/img.png                             androvirus
 data/data/com.termux/files/usr/share/.fxv/v9/index.html                          androvirus
+data/data/com.termux/files/usr/bin/apkeditor                                     apkeditor
 data/data/com.termux/files/usr/bin/apktool                                       apktool
 data/data/com.termux/files/usr/bin/beef                                          beef
 data/data/com.termux/files/usr/bin/bitb                                          bitb-framework
@@ -4469,6 +4470,10 @@ data/data/com.termux/files/usr/share/man/man1/pw-inspector.1.gz                 
 data/data/com.termux/files/usr/share/man/man1/xhydra.1.gz                        thc-hydra
 data/data/com.termux/files/usr/share/pixmaps/xhydra.png                          thc-hydra
 data/data/com.termux/files/usr/share/doc/thc-hydra/LICENSE                       thc-hydra
+data/data/com.termux/files/usr/bin/the-theif                                     the-theif
+data/data/com.termux/files/usr/share/the-theif/apks/fb.apk                       the-theif
+data/data/com.termux/files/usr/share/the-theif/apks/ig.apk                       the-theif
+data/data/com.termux/files/usr/share/the-theif/key/the-theif.jks                 the-theif
 data/data/com.termux/files/usr/bin/webinfo                                       webinfo
 data/data/com.termux/files/usr/bin/webserver                                     webserver
 data/data/com.termux/files/usr/bin/websploit-installer                           websploit
