@@ -285,19 +285,20 @@ SHA256: 06595bc12e85723596f9c1e027bed7a765211b95dbb5348a583a609a5e7e9c6b
 SHA512: d0f88ed660bade0ce4d614f77b4f27bb73073d69ab13a7a955225acab272a37f1c0eda7299b407faeb84fb66f76e1c3cb922e98c392236e0f80ecd3c05dc81dd
 
 Package: metasploit-framework
-Version: 6.3.58
+Version: 6.4.42
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
 Installed-Size: 2
 Depends: build-essential, ruby, python, libcap, openjdk-17, termux-tools, autoconf, patchelf, binutils, bison, yarn, clang, coreutils, curl, findutils, gumbo-parser, apr, apr-util, postgresql, openssl, readline, libffi, libgmp, libpcap, libsqlite, libgrpc, libtool, libxml2, libxslt, make, ncurses-utils, ncurses, git, wget, unzip, xz-utils, zip, zlib, tar, termux-elf-cleaner, pkg-config, resolv-conf, aapt, apksigner, apktool
+Suggests: the-theif
 Homepage: https://github.com/rapid7/metasploit-framework
-Description: Metasploit The world’s most used penetration testing framework
+Description: Advanced open-source platform for developing, testing and using exploit code. (git-release installer)
 Filename: dists/anon/main/binary-all/metasploit-framework.deb
-Size: 4204
-MD5Sum: 1359713745eb5bda41f4173adca022ea
-SHA1: 30f5163aa8bc652c471de63fafaca5c2bbe6a131
-SHA256: 5e8451c513f554b85d2f78a8ba70459a0579a289259264c6fc30e03fff866f49
-SHA512: eaa80df6cb46fc2f9ca04e0498f5e54f88abe408d18896313f342ee6ed8de0cd52f6789e839da4469c4ff5910af712d56af78cb8828abc1fbb1ea5229df9bcc6
+Size: 4152
+MD5Sum: 490a97cc9b7675cf81893073d5218930
+SHA1: 9c55e52349d658f5cf7966cbd5451348fb86f838
+SHA256: 9c9f63aa4613fb52a03e608fa940e19cc386352664ff8abd385733405702cd86
+SHA512: 38090e16e50d6029f1088db39dc010d5b6425d7f6856d11a6892d48c240f67b801a14ff979f736ccd8fd414bc69f320426b5a7c2de6f8dff12faaafb7832f287
 
 Package: parrot-os
 Version: 6.2
