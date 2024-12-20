@@ -428,18 +428,18 @@ SHA256: 2bc4121313311587fb3b28975474a8ee596d86be8e9ee3651c75dd9c474bf280
 SHA512: 7542dd660ef4bb440e5176c230b7e113454e2d3cc4ad61aefc25c3ca2fcb392939c1f0a2bce58f358d06f55658d4ad346fb04efcebd20274c51013e3ff8a12c4
 
 Package: the-theif
-Version: 1.0
+Version: 1.1
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
 Depends: apksigner,apkeditor,python
 Installed-Size: 1
 Description: A tool that can hijack cookies and transmit them to Telegram using the API.
 Filename: dists/anon/main/binary-all/the-theif.deb
-Size: 1415352
-MD5Sum: 788153e35ef64109dab00c53624794a7
-SHA1: 44566ce2f8b581c2b59c8e153e18165d376e0d8e
-SHA256: 076fac518b08261d654341205a3231abfdbda82559ca865d659c3a2f2a1be9de
-SHA512: 29cfef1c857fcafda91a75bfc08063659ddf91a9a88acbaa0edfc29b204b6a91e1c380fd2bd8dde482b602774923d04be0640b829eddb00b40ea6e69ba44ff0d
+Size: 1414748
+MD5Sum: 0bcdedbe5ceb7366d704345f7ddeddf4
+SHA1: d4cd27154a3117fe2d0e08be6d3374fbbd7835cd
+SHA256: 571b00add87ecf4461145ca0fa11315f13a230403160542bcb88d7a3690a600d
+SHA512: 3554af3769492e2e525dacb6580a082603693b613f988cad7ed1cb87030fd564c15853cfa3239aa4df02de76a5d6235a862c72a1725b08e579fdfbc614b92d02
 
 Package: webinfo
 Version: 1.0.1
