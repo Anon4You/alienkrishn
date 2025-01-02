@@ -82,9 +82,12 @@ data/data/com.termux/files/usr/share/byakugan/assets/server.html                
 data/data/com.termux/files/usr/share/byakugan/assets/serverDummy                 byakugan
 data/data/com.termux/files/usr/bin/cctvip                                        cctvip
 data/data/com.termux/files/usr/share/cctvip.py                                   cctvip
+data/data/com.termux/files/usr/bin/credmap                                       credmap
+data/data/com.termux/files/usr/bin/credmap-installer                             credmap
 data/data/com.termux/files/usr/bin/cupp                                          cupp
 data/data/com.termux/files/usr/bin/cupp.cfg                                      cupp
 data/data/com.termux/files/usr/bin/enctool                                       enctool
+data/data/com.termux/files/usr/bin/hashcat-installer                             hashcat
 data/data/com.termux/files/usr/bin/instajack                                     instajack
 data/data/com.termux/files/usr/bin/ipinfo                                        ipinfo
 data/data/com.termux/files/usr/bin/iplookup                                      iplookup

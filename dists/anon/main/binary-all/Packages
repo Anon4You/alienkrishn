@@ -130,18 +130,18 @@ SHA256: 790d442d729993826e23788af1cf98fcc613886e1ba6fab65218fa89bafc3eb3
 SHA512: cf96da090787007541f4ce68fd45cbabdbdb0bcb7c328cb595ab7ab55ef2fc0ca089978bb3b77a7a665e6531fbfd7bea3486193638f6f38a037cd42c4ef751f8
 
 Package: byakugan
-Version: 1.0.2
+Version: 1.0.3
 Architecture: all
 Installed-Size: 5449
 Maintainer: Alienkrishn [Anon4You]
 Depends: termux-tools,termux-exec,php,openssh,jq,figlet
 Description: A footprinting program to get exact location
 Filename: dists/anon/main/binary-all/byakugan.deb
-Size: 5300584
-MD5Sum: fdf4c91ab04bc24868944e0cfbc90975
-SHA1: 67e37246e8e143a677201dcd598e06f6a945290a
-SHA256: ce5affb0e879aac9e2e5e1ef83d5fa1b602c337ac253079c5584e20480c3c6fc
-SHA512: 14224880812aee512cc46903f6ac11ad0b594c29e50997eac10237a4625a359bb962a1e72f1d4604516820a4667e6368c34ae32e5f3e01bea9a8099d3fea867c
+Size: 5300552
+MD5Sum: fc67fbeb9a51b69b07a45703a382ae9c
+SHA1: 5d202cf6bc75f8a0bf9a1b606a2aaf7b2ccf8ea4
+SHA256: 23e2ae0199e28849e15d063a9a5fbd9908cad3c942036c0f433b866c09956a5b
+SHA512: 49f01f6c762d5f2f219d084211ad89e838eb8bfed8cd0e5835753969503ef9639db0a0ecf78cc40985cdfb4707687f11b731985c433be4ad038e050445bf8996
 
 Package: cctvip
 Version: 1.0.0
@@ -156,6 +156,22 @@ MD5Sum: 6b3fd1020013950379568882de514059
 SHA1: f25274c73bbc38a8d582519f66a9aa83865f3188
 SHA256: 786a39ff3c64bab6f648d9472f57a6b3a279862532b0ef592656ff0706ed7523
 SHA512: d4a51d7ba0c7d913d64d06d070ef0d2ca79aa5fba86efcfc5cb62623ff3c8af2cafebaa072aaed669efbea90fb6ebcf57a6eec20e7c303a456f434881fc78784
+
+Package: credmap
+Version: 0.1
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Installed-Size: 2
+Depends: git, python2
+Suggests: alienkrishn
+Homepage: https://github.com/lightos/credmap
+Description: The Credential Social Network Mapper.
+Filename: dists/anon/main/binary-all/credmap.deb
+Size: 1672
+MD5Sum: ff5589480560d3a25ec2577a55a501fd
+SHA1: 7ecbb030e8182e7c4943d9493ae7e749de4c714a
+SHA256: 4cb972333f1c8fff604f40fc4610d48885c7d915828b505fcfca2a7286440a59
+SHA512: 54c344cc48f76eee43f49d2f3e4ee127a57528e3f2f7898c2ae67adcb3bf2aa4b911932c4191bb359c0b6ea226df46fabf57087293824dc7e4e7c19e56628443
 
 Package: cupp
 Version: 3.3.0
@@ -185,6 +201,22 @@ MD5Sum: 727d61c8a49776fa32e581a3ea147b01
 SHA1: 28b23cb3bfcf9a175f4ab59dff524cf2165f8360
 SHA256: cac30254a7b18970f814285d155c411cd382a16db0d2781299c9955c699abcb6
 SHA512: 5d6b827f10bd6f0d64edac7662a7d2c44abe8a487fe7feeb764e7414bdf253e710d5c090afede4cd92d2449bf8535f4333d6e311b1f55f4b8a93fa1a3d89225b
+
+Package: hashcat
+Version: 6.2.6
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Installed-Size: 2
+Depends: git, glibc, libc++, clang, libiconv, make, ocl-icd, opencl-vendor-driver
+Suggests: alienkrishn
+Homepage: https://github.com/hashcat/hashcat.git
+Description: World's fastest and most advanced password recovery utility
+Filename: dists/anon/main/binary-all/hashcat.deb
+Size: 1920
+MD5Sum: 7ee2d2db1b2d7e4e2688b73d20f488c2
+SHA1: 38240e2f6f52658b763509a18feeb8b99782c953
+SHA256: 0bae1f9ad1045c6623ee3ec6ab8305b4817c159bbc3ca0741cff5f89d74f7d76
+SHA512: 8a49e91fd110638dfb99d3c6c5a24434a1495b359759fb5c7847e98305fefce40a672309fa47e9fb37f7bde980ed777381ed5c8f0bd25475b824b03129dbb0d0
 
 Package: instajack
 Version: 1.0
@@ -258,18 +290,18 @@ SHA256: 52f2022487066d0a4710832cfe8b2dadef1f139dd2796f39c8b6f3528e743f90
 SHA512: b60ec07f1f525d44c2abbe08fd5a276b23353ee90950df26acad63856f7e5956c9c74fdbc422c31684a5b03443ea11e787d44aabfe7e8b2358eff912a2f26720
 
 Package: locateme
-Version: 1.1
+Version: 1.2
 Architecture: all
 Installed-Size: 202
 Maintainer: Alienkrishn [Anon4You]
 Depends: php,jq,openssh,figlet
 Description: Live location tracker using google maps
 Filename: dists/anon/main/binary-all/locateme.deb
-Size: 39572
-MD5Sum: 56a5954c39b39efe6e51ed3d931ede44
-SHA1: 0df36ab9af865fa6f29bde1965142abcf03e774f
-SHA256: e4d78ed2dec2bfddd4d64a0c5761f1640e7e27173c924d505c31067b9e819dc6
-SHA512: d3a22a529a34ba0004edea2f3b83edae711f48185800e0b7c191d5dd0c986434bc830e17de96012bc8d5dd32c708ca7fadd645a0e94215bf567b4da1d34cfff5
+Size: 39584
+MD5Sum: c9200fa29835c042e8b59b997fc1c9e9
+SHA1: a2af2da12a30e470518dd0441f16e79600a6ef4b
+SHA256: 228187e408a3720aa77cb61aa542bbae24eed86b5917b308ff208d6aeec92363
+SHA512: e4dbd584668efabd501bedbbb4bf6f98de990877d625c366058fa095e06b8fa550448089fe39c809990f396ceda66663b2de96626e89a8ade7e1e0faac29fb6c
 
 Package: maskme
 Version: 1.0.0
