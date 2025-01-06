@@ -9,8 +9,9 @@
 
 ##
 <h3><p align="center">About</p></h3>
-<i>This repository for <b>Termux</b> has been specifically designed to provide a variety of tools and packages that are not included in the official Termux repository. It acts as a supplementary resource for users looking for expanded capabilities and features to enrich their Termux environment.</i>
+<i>This repository for <b>Termux</b> has been specifically designed to provide a variety of tools and packages that are not included in the official Termux repository. It acts as a supplementary resource for users looking for expanded capabilities and features to enrich their Termux environment. It includes over 35 hacking tools. A comprehensive list of the available packages and tools can be accessed</i>
 
+[here](https://github.com/Anon4You/alienkrishn/blob/main/Img/Tools.md)
 
 ## Usage 
 You can install any package from this repo using apt or pkg
@@ -23,4 +24,18 @@ apt install alienkrishn -y
 ```shell
 curl -sL https://github.com/Anon4You/alienkrishn/raw/main/addrepo | bash
 ```
+
+## 
+<h3><p align="center">Support Developer</p></h3>
+<i>Support my work by sunscribing to my channels it free</i>
+
+
+[Instagram](https://wwww.instagram.com/alienkrishn)
+
+[Youtube channel](https://youtube.com/@alienkrishnorg)
+
+[Telegram channel](https://t.me/nullxvoid)
+
+
+
 
