@@ -464,18 +464,18 @@ SHA256: b8b1124096f6e453fbd0ce7d3bc210317caf8ca3c06e010ee11169472634f832
 SHA512: 20997e86c05ba73cf809493b31225d7ad5b23baa3189eb651fe814e33c31a49ae619fe1dbcb5f5c3edb066be0b4fa48838771e6ad80d6b77ebc26a9ec8c92c25
 
 Package: termux-desktop
-Version: 1.0.1
+Version: 1.0.2
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
-Depends: xfce4,xfce4-terminal,xfce4-goodies,xwayland,xfce4-whiskermenu-plugin,firefox,neovim,termux-x11-nightly,dbus
+Depends: termux-am,xfce4,xfce4-terminal,xfce4-goodies,xwayland,xfce4-whiskermenu-plugin,firefox,neovim,termux-x11-nightly,dbus
 Installed-Size: 12632
-Description: Install x11-repo first, termux xfce4 desktop for termux-x11 app
+Description: termux xfce4 desktop gui
 Filename: dists/anon/main/binary-all/termux-desktop.deb
-Size: 1892560
-MD5Sum: 1cd84406db356efe5a9baa84c0f62ca6
-SHA1: ff5a75be6a145666f99d68f3d04ac5700a41c084
-SHA256: 6a317f691bba32c838210b14e7235059c02e33718386caf5fc7ceca6f44af5e8
-SHA512: 43a2001841f5c17741996a10e5d0c8c57606c1f307ef5b1db9c4424dfe28d41171c6e7684fbe6a564af5c57dddfc31661e07d0f0c0006343a199c485c0659fb0
+Size: 1892832
+MD5Sum: fefd612dd04f46b25bc52a3d9209d975
+SHA1: 703e74092435ad5d49fc2d38daed30c66c14e7ca
+SHA256: 465b825bc4aa5112db03b37f097200bd5df025011c861d75433f93747fdc1a7b
+SHA512: 1c24e8797625a1f07052b284d41d5632fe7a4437ecfe116c683cacdc542837231c48303420d4416230cd1dfddfbff8bf3dd7f561d942fb249d5116cd5fcfc734
 
 Package: thc-hydra
 Architecture: all
