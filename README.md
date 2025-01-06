@@ -27,7 +27,7 @@ curl -sL https://github.com/Anon4You/alienkrishn/raw/main/addrepo | bash
 
 ## 
 <h3><p align="center">Support Developer</p></h3>
-<i>Support my work by sunscribing to my channels it's free</i>
+<i>Support my work by subscribing to my channels it's free</i>
 
 
 [Instagram](https://wwww.instagram.com/alienkrishn)
