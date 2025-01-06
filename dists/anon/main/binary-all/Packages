@@ -70,20 +70,20 @@ SHA256: ce3bdc8e1cb5d075a41675d61f7503ec17d3c5d6887807ff7f2ac06144044add
 SHA512: 393fb8827c977927a32ac0597ba4f68c4ba94198328ccd4ce675cb26837e81d082cb9d94131433853059e454a5789d83fbb2c40afba37491a7cf10c4be6d3e15
 
 Package: apktool
-Version: 2.8.1
+Version: 2.10.1
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
 Installed-Size: 57
 Depends: openjdk-17,aapt2, aapt, wget
-Suggests: i-haklab
+Suggests: apkeditor
 Homepage: https://bitbucket.org/iBotPeaches/apktool/src/master/
 Description: A tool for reverse engineering Android apk files
 Filename: dists/anon/main/binary-all/apktool.deb
-Size: 1772
-MD5Sum: 4cc190585a4dcba5ab47bd7d9b4f5629
-SHA1: 5ef7efbfed66921e172bf7b485c2893495878a66
-SHA256: 402bc5470d8ce3e4a20ad8508f2c78b8d5759c6e6aa9afc08c4436fbb0e9aab5
-SHA512: dd563dcd3764f49223d46ad69787179ebbcfbcc67faaeaeeb8479b13535bdb0f57adddcc73c487a3dea86166fe54226a6916946ae88966b2fd7e5e870614d680
+Size: 1696
+MD5Sum: fb0632094a4dffc0d7d5f13fe05a6c64
+SHA1: 9f2644bd5f3a6e8b4567eac0175b90f1e098ac20
+SHA256: a178aacc5ce2b8255c2f9309ee7901654104659cad15b27fb568d5bc1103e48e
+SHA512: e2f4f5efcff6456d9abacb0c306e4e5b456694718372696e454488fd353ef5f48f3fff70ea4efd5c1ec4536dabf037c08c39f0ed9bba250fffe58e05a66cbce1
 
 Package: beef
 Version: 0.5.4.0
@@ -128,6 +128,22 @@ MD5Sum: 08f1f3f5a11b020bba894a7050f23f97
 SHA1: 2dead9ba1f162930691ec2a7fb8c1331b5352f6b
 SHA256: 790d442d729993826e23788af1cf98fcc613886e1ba6fab65218fa89bafc3eb3
 SHA512: cf96da090787007541f4ce68fd45cbabdbdb0bcb7c328cb595ab7ab55ef2fc0ca089978bb3b77a7a665e6531fbfd7bea3486193638f6f38a037cd42c4ef751f8
+
+Package: blutter
+Version: 1.0.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: git, python, python-pip, cmake, ninja, build-essential, pkg-config, libicu, capstone, fmt, radare2
+Suggest:apktool,apkeditor
+Homepage: https://github.com/dedshit/blutter-termux
+Installed-Size: 2
+Description: Flutter Mobile Application Reverse Engineering Tool (Termux)
+Filename: dists/anon/main/binary-all/blutter.deb
+Size: 1612
+MD5Sum: ef70589420f429ec8d857589cfe544c8
+SHA1: d9841e69b2591c4c0a1a0f9ae8b6c3ab278313d5
+SHA256: bec0237c7af0052d09016bf24ac72c9c417ffa7eb35915555fc31acefe93a158
+SHA512: 4af5491226b229fd275d8f75929a61f7ba684d3181793301b78a27a66810c504b303a401a4397bc591a3f908e55f32492791eef062779d4a68ed64da2f13d50e
 
 Package: byakugan
 Version: 1.0.3
