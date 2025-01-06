@@ -204,6 +204,22 @@ SHA1: eeab408bb75afd489933b2da357e5ef04d2f5f58
 SHA256: 5688835625cbd85612d18df0992d6a346b64b0ddb93f196c647c4bd7c2f6ddab
 SHA512: 473948f061bf47d0e82083a5f605afca6b50b575d27eef57ab3ac46d05f73d61d161431c1033687547417d5e2667dea5787ba470145e6c3a5505a75536c00d01
 
+Package: darksploit-framework
+Version: 2
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: git, python2, perl, wget, php
+suggest: alienkrishn
+Homepage: https://github.com/ykankaya/DarkSploit
+Installed-Size: 1
+Description: Darksploit is a tool to run and create exploits
+Filename: dists/anon/main/binary-all/darksploit-framework.deb
+Size: 1636
+MD5Sum: d635f8dd1110e1b35fbcde75a3ef57b3
+SHA1: 7b443100faeb5571a770cf8d26e2e3de68d64b98
+SHA256: dccee9294d02a3872b44d457d1bbb4e079b19d8a6c97caac7c59cb62ea4a71f7
+SHA512: 9a0ce44ea2bfef96a3454fdbd82449c78dfb7c3441cf647172f3572e4c2f4934af1953454dadb56d6fd1f4e194a76edba4f65b2043b9daa80b3c430235fde094
+
 Package: enctool
 Version: 1.0
 Architecture: all
