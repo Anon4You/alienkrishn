@@ -4,11 +4,9 @@
 The list of Available packages/tools in alienkrishn repo
 
 * alienkrishn
-* alienx-brute
 * androdos
 * androvirus
 * apkeditor
-* apktool
 * beef
 * bitb-framework
 * blackhat
@@ -27,20 +25,21 @@ The list of Available packages/tools in alienkrishn repo
 * local2onion
 * locateme
 * maskme
-* metasploit-framework
-* parrot-os
 * phoneinfo
 * powerdos
+* redhawk
 * shorturl
+* snatcher
 * spider
 * sqlmap
 * term-helper
+* termsploit
 * termux-desktop
 * thc-hydra
 * the-theif
+* venom
 * webinfo
 * webserver
 * websploit
 * weeman
-* zphisher
 

@@ -12,20 +12,6 @@ SHA1: fde48f7039af982d6dc9ef2deb4a4760667b0b6d
 SHA256: 9b8c1cd791c208afc3284c7170b3744d995703ae64a00c53a594c12f31c51025
 SHA512: 82d0109011b9e64f93925530b12eda6e311a197eb298b6e30bec43fd09bd5c4434c4c16f75a808bc3952d578b16c5d09c1f6ba2142b24cab2900dd5e0d811557
 
-Package: alienx-brute
-Version: 1.1
-Architecture: all
-Maintainer: Alienkrishn [Anon4You]
-Depends: python,python2,python-pip,termux-exec
-Installed-Size: 102
-Description: A multi-bruteforce tool for termux
-Filename: dists/anon/main/binary-all/alienx-brute.deb
-Size: 5728
-MD5Sum: fa70e50ae998856c864d37d918e48b74
-SHA1: 8efe7fbb54131921be41f5d8abdc4090d49a96d1
-SHA256: 60a495ec2bd983bcf4a531ff4aae3f4c7f5b9dc89a1b23eb6553015510724ab5
-SHA512: 5136577b77b079f309c5db3e176225c9011932122bda1750ce312dd47485c525b59c82e9e5352ad9d65b80f7e683f67603108def97d03f8fa4eb49dd3848a989
-
 Package: androdos
 Version: 1.0.0
 Architecture: all
@@ -68,22 +54,6 @@ MD5Sum: 4517767b2cbb8fe3480a5c743660f7c5
 SHA1: d384c0d135e16a391b45088fd34fbe0430f9723e
 SHA256: ce3bdc8e1cb5d075a41675d61f7503ec17d3c5d6887807ff7f2ac06144044add
 SHA512: 393fb8827c977927a32ac0597ba4f68c4ba94198328ccd4ce675cb26837e81d082cb9d94131433853059e454a5789d83fbb2c40afba37491a7cf10c4be6d3e15
-
-Package: apktool
-Version: 2.10.1
-Architecture: all
-Maintainer: Alienkrishn [Anon4You]
-Installed-Size: 57
-Depends: openjdk-17,aapt2, aapt, wget
-Suggests: apkeditor
-Homepage: https://bitbucket.org/iBotPeaches/apktool/src/master/
-Description: A tool for reverse engineering Android apk files
-Filename: dists/anon/main/binary-all/apktool.deb
-Size: 1696
-MD5Sum: fb0632094a4dffc0d7d5f13fe05a6c64
-SHA1: 9f2644bd5f3a6e8b4567eac0175b90f1e098ac20
-SHA256: a178aacc5ce2b8255c2f9309ee7901654104659cad15b27fb568d5bc1103e48e
-SHA512: e2f4f5efcff6456d9abacb0c306e4e5b456694718372696e454488fd353ef5f48f3fff70ea4efd5c1ec4536dabf037c08c39f0ed9bba250fffe58e05a66cbce1
 
 Package: beef
 Version: 0.5.4.0
@@ -348,36 +318,6 @@ SHA1: 13da390f5e7dff90f8be33f11f9524013bf698d2
 SHA256: 06595bc12e85723596f9c1e027bed7a765211b95dbb5348a583a609a5e7e9c6b
 SHA512: d0f88ed660bade0ce4d614f77b4f27bb73073d69ab13a7a955225acab272a37f1c0eda7299b407faeb84fb66f76e1c3cb922e98c392236e0f80ecd3c05dc81dd
 
-Package: metasploit-framework
-Version: 6.4.42
-Architecture: all
-Maintainer: Alienkrishn [Anon4You]
-Installed-Size: 2
-Depends: build-essential, ruby, python, libcap, openjdk-17, termux-tools, autoconf, patchelf, binutils, bison, yarn, clang, coreutils, curl, findutils, gumbo-parser, apr, apr-util, postgresql, openssl, readline, libffi, libgmp, libpcap, libsqlite, libgrpc, libtool, libxml2, libxslt, make, ncurses-utils, ncurses, git, wget, unzip, xz-utils, zip, zlib, tar, termux-elf-cleaner, pkg-config, resolv-conf, aapt, apksigner, apktool
-Suggests: the-theif
-Homepage: https://github.com/rapid7/metasploit-framework
-Description: Advanced open-source platform for developing, testing and using exploit code. (git-release installer)
-Filename: dists/anon/main/binary-all/metasploit-framework.deb
-Size: 4152
-MD5Sum: 490a97cc9b7675cf81893073d5218930
-SHA1: 9c55e52349d658f5cf7966cbd5451348fb86f838
-SHA256: 9c9f63aa4613fb52a03e608fa940e19cc386352664ff8abd385733405702cd86
-SHA512: 38090e16e50d6029f1088db39dc010d5b6425d7f6856d11a6892d48c240f67b801a14ff979f736ccd8fd414bc69f320426b5a7c2de6f8dff12faaafb7832f287
-
-Package: parrot-os
-Version: 6.2
-Architecture: all
-Maintainer: Alienkrishn [Anon4You]
-Installed-Size: 2
-Depends: proot-distro
-Description: parrot-os on termux
-Filename: dists/anon/main/binary-all/parrot-os.deb
-Size: 1608
-MD5Sum: 4c916092e17ceb6feec55635eb1ce9b5
-SHA1: 84875bf2684c9fd743b5a2ac29279e8c0721109b
-SHA256: 4161095fe72105db74efa562921b83d4e3981fe65b545292646860f3baecc3d9
-SHA512: fee4cae40a0ddbb224206625dec4501f79bbb3dc74e7d471ede55da6e83bb1126e5fe44e029deb20c34a8bca9dfa01e85ddec9b6f2578a9b02170b1027f51793
-
 Package: phoneinfo
 Version: 1.0.1
 Maintainer: Alienkrishn [Anon4You]
@@ -406,6 +346,21 @@ SHA1: ff9af20d74e670e3f6d475559a53521af17cf927
 SHA256: 99f73fce98d721ce4103060bc0cf3e830fd2d6fa46249aab30ef8ec2f7d94491
 SHA512: 9a88f29dbdc78b2c830f22fe463821c399ed5b1cf2a75f594858b7cd54dc533083d047c44c520bdf707b53379abea7e427c41e5442cf111aa5b6ec0e612633ea
 
+Package: redhawk
+Version: 2.0.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: git, php
+Homepage: https://github.com/Tuhinshubhra/RED_HAWK 
+Installed-Size: 1
+Description: All in one tool for Information Gathering, Vulnerability Scanning and Crawling
+Filename: dists/anon/main/binary-all/redhawk.deb
+Size: 1484
+MD5Sum: 2be5dfd05e083ca9ce171dfe849baf97
+SHA1: e28e113235d1938aa13776a9fce955e63b9b88d0
+SHA256: 7ceab76c89a0655fd5537b1a003460d6d4eaab0a8f7e17ccaed6dbe4d200994f
+SHA512: a20999c0df5c59b2f5447b5c95b0a2dd4ce4627638b6a4d1b26a5d8349a387485391eccaee2a4d30ea7860c9ec52d86a554328d8236a3882d73712d88b10c642
+
 Package: shorturl
 Version: 1.0.0
 Architecture: all
@@ -419,6 +374,21 @@ MD5Sum: e2da5cc6c9dcd34de2198e79cc594ee1
 SHA1: 0f60081c80449ac535d993ef6e62d1ada15778a4
 SHA256: f6ae1973b6133525cd0518a105c02a0bea43dc4af0cc27cbafadae4f9c52668e
 SHA512: af3f0ef916b5be2ac013af560a0f93e10fef24976f4e520e716dc298a8bc09ea85ac9319d732c5091fbaeb0066bc450e276931d1033e2fdffd4fb9ca021f7664
+
+Package: snatcher
+Version: 1.0.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: git, curl, php, openssh, python, python-pip
+Homepage: https://github.com/Anon4You/Snatcher 
+Installed-Size: 2
+Description: hack phone camera by sending a link
+Filename: dists/anon/main/binary-all/snatcher.deb
+Size: 1480
+MD5Sum: dabf4622e953dce7efe52848db62fe3d
+SHA1: de74b84d26ade0790daa55c82b5d75416d4599c6
+SHA256: 02df95a3c3feeb6cf80911679c37f11d183abffd877ad3cb9f1746c398f8ab74
+SHA512: 122bf096ebba363998a736a0a04bc5e2b4d2f5e1b21f5e66aaeb47be7636dad94b15b04555dd2a3b435f0de37d47ced0eebcd4d90756d41980a041cf014ca4b4
 
 Package: spider
 Version: 1.0
@@ -435,19 +405,19 @@ SHA256: 337069cb3c44dfbc77cd63ec603df15b025387421e1dbceda8fa31a515966d14
 SHA512: 43f60749767c3fa4cb7baf69e4d9b87a045a18c8e6c2de272b40edaa7cabe1e4167ea8e2c607a9fc2201b021a01fb97d87918ac6f2b8c365f779e281fecea9b9
 
 Package: sqlmap
-Version: 1.7.12.7
+Version: 1.9
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
-Depends: python
+Depends: git,python
 Homepge: https://sqlmap.org/
-Installed-Size: 12454
+Installed-Size: 1
 Description: Automatic SQL injection and database takeover tool
-Filename: dists/anon/main/binary-all/sqlmap_1.7.12.deb
-Size: 6905380
-MD5Sum: 83a044c01fec4da1adfc860247f0911d
-SHA1: a6d570831ce6a0330f031a4df9a3bb00a20a5b44
-SHA256: bf91a0b96019f454fb031707fe5ffb2d8156345a8c18e94e356b6c7760ffa380
-SHA512: 37a1faa33f6ca3e36a9539234651d371efcbec47e2e9b17d4bb341cfada573d423ea4662ca6d2278bdc36a097e944145168e1476dfd50926e949fb6b2ec15ec7
+Filename: dists/anon/main/binary-all/sqlmap.deb
+Size: 1508
+MD5Sum: 5e904f7d010601c21a2072c22d719653
+SHA1: 3720c69f143315b2d6d030d66b22ae3695776c62
+SHA256: 61dac6162482b15e06962c588d7fee9f1085da9f695414ba31d3e9e2fcdd0410
+SHA512: 457b93637a6d1b4cf24ac341e5cc484416e207e0377fb2cb0d467b57097d23133e991c4c082eff44fa35013e691d994db53b23b5bb9ff92c864c2a4164ff37fd
 
 Package: term-helper
 Version: 1.0.0
@@ -462,6 +432,21 @@ MD5Sum: 7b0dfa7c7c0c623961da21853198c3cd
 SHA1: 768abd264f4aa5bc11310af3320ac7132da9e013
 SHA256: b8b1124096f6e453fbd0ce7d3bc210317caf8ca3c06e010ee11169472634f832
 SHA512: 20997e86c05ba73cf809493b31225d7ad5b23baa3189eb651fe814e33c31a49ae619fe1dbcb5f5c3edb066be0b4fa48838771e6ad80d6b77ebc26a9ec8c92c25
+
+Package: termsploit
+Version: 1.0.1
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: git,curl,python,build-essential,cmake,ninja,libopenblas,libandroid-execinfo,patchelf,binutils-is-llvm,rust,jq,python-pillow,nodejs,qpdf,libiconv,libxml2,libxslt,dnsutils,whois,php 
+Installed-Size: 1 
+Homepage: https://github.com/Anon4You/termsploit-framework 
+Description: Pentesting framework for Termux
+Filename: dists/anon/main/binary-all/termsploit.deb
+Size: 1672
+MD5Sum: bcb514057f1c2916b50b1de01269df76
+SHA1: 4fac62dffbbaee158801cc20dcc9ed1012a611c7
+SHA256: eadbf331a7b4b37730ffe3c071c61599f6ae39882c61651a52851de9817cc8a5
+SHA512: 94ff3724bb2622d5d2688c977d6562b9a059f501df6e82a57333cb92aa37382317e606a509e81a9a5fb7a58538f5253cd31762d07720b812f53e92769411f7fc
 
 Package: termux-desktop
 Version: 1.0.2
@@ -505,6 +490,21 @@ MD5Sum: b01c8523fcfbe22f7add535e6d86760c
 SHA1: 1f97336f2d243c4fb0fe32ad71258efee7d146bb
 SHA256: 18cabc39eaa34e21d6faa0dc7db5368b1f514fafe8ed426f16a7a7fdd57c0369
 SHA512: 6bc94af33a755f15d690f1712fbf713237a5fd589e4e778aca4af54ea21133b1607f6dd8ef50fa6c6fe008289f4461b159fb523b573442680233304be9d5ef7f
+
+Package: venom
+Version: 1.0.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: git,curl,php,openssh
+Homepage: https://github.com/Anon4You/venom/
+Installed-Size: 3
+Description: An automated phishing tool for absolute beginners
+Filename: dists/anon/main/binary-all/venom.deb
+Size: 1436
+MD5Sum: 457c5afc9437a1084542caf5ce8b8555
+SHA1: c0c986653ecdef2053bb59b37f1483671e3d13de
+SHA256: 27e1fbb27ea59ca207ecb9522f6a7885ec287ccd93645e50bfbcae1624afa932
+SHA512: d990d9515aef4c4a5a09365e1971985b37653c9ad1f8131b5554e21c1945951bd66198eba610a988eabb5579765ff658c08f99570f4110793111d8bca41634e0
 
 Package: webinfo
 Version: 1.0.1
@@ -564,18 +564,4 @@ MD5Sum: 50d2af41e1117ceed7851c2ef9d5c362
 SHA1: e0f125a16df673be3ab1c8b3043c9b85914cc25d
 SHA256: de76bdf37d479180672fcd115a67697a5a3d34caf613eec11876fd2f75bd98d2
 SHA512: d99e0898957c8380e4dfa45f5018d47d5d587992bd96f1e8800302be88f0ae561b235882563680b9f36e63c81fc9f67e9fa89c22db65e5fba5d2f1eb48c8f3ad
-
-Package: zphisher
-Version: 2.3.5
-Architecture: all
-Maintainer: @htr-tech
-Depends: ncurses-utils, proot, resolv-conf, curl, php, unzip
-Homepage: https://github.com/htr-tech/zphisher
-Description: An automated phishing tool with 30+ templates. This Tool is made for educational purpose only !
-Filename: dists/anon/main/binary-all/zphisher_2.3.5_all.deb
-Size: 7097128
-MD5Sum: edc1e4cfa377396759b8abb832ed3df8
-SHA1: 55844eeacff302abbf3c21e5bf7021a7a74801e1
-SHA256: 13551fd60f3850c93eab231284b3822b9a0a9af170909e0cdde5418245dd292b
-SHA512: 961f1eb01b7134bf933218353cbc445434e489f65998a30f66d26d9b36861d9ed32f09046c92cf70fa8bc8f0a17120046d961c0067fb97982577b9855fbfa56c
 
