@@ -55,6 +55,22 @@ SHA1: d384c0d135e16a391b45088fd34fbe0430f9723e
 SHA256: ce3bdc8e1cb5d075a41675d61f7503ec17d3c5d6887807ff7f2ac06144044add
 SHA512: 393fb8827c977927a32ac0597ba4f68c4ba94198328ccd4ce675cb26837e81d082cb9d94131433853059e454a5789d83fbb2c40afba37491a7cf10c4be6d3e15
 
+Package: apktool
+Version: 2.11.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Installed-Size: 1
+Depends: openjdk-17, aapt, wget
+Suggests: apkeditor
+Homepage: https://bitbucket.org/iBotPeaches/apktool/src/master/
+Description: A tool for reverse engineering Android apk files
+Filename: dists/anon/main/binary-all/apktool.deb
+Size: 1548
+MD5Sum: 7aea498b63d2573055899db377d9ec78
+SHA1: f69980a2a02b2299faa2f12968eccfad5be23b9a
+SHA256: 79df71b6c576e87a5e26fa95e9317124344810aa344568415d6b720b4b466cdd
+SHA512: 25c971838f50bfe36fca8b56baf6dbfb8b2cd52e14de6645abec5b3d4b12a9c3452346aa465233c6a174107c34d5c9276ef2125791d88c4e66685faf9e848806
+
 Package: beef
 Version: 0.5.4.0
 Architecture: all
@@ -114,6 +130,22 @@ MD5Sum: ef70589420f429ec8d857589cfe544c8
 SHA1: d9841e69b2591c4c0a1a0f9ae8b6c3ab278313d5
 SHA256: bec0237c7af0052d09016bf24ac72c9c417ffa7eb35915555fc31acefe93a158
 SHA512: 4af5491226b229fd275d8f75929a61f7ba684d3181793301b78a27a66810c504b303a401a4397bc591a3f908e55f32492791eef062779d4a68ed64da2f13d50e
+
+Package: burpsuite
+Version: 2024.11.2
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Installed-Size: 37
+Depends: openjdk-21, wget, jython-lts, giflib
+Suggests: termux-x11, xwayland
+Homepage: https://portswigger.net
+Description: An integrated platform/graphical tool for performing security testing of web applications.
+Filename: dists/anon/main/binary-all/burpsuite.deb
+Size: 36696
+MD5Sum: f3630f75c4d1c289e0e35c69b8da2d2e
+SHA1: e9f8b1bf6cd470c8f2f300788be948b430c4c1cf
+SHA256: 57bec14eb49a6e23dccc75a2c11596842662dd9bd888c9eeea1ed23e43d5ef74
+SHA512: 6821147780dda6c1aba3e99082408430f5d62209230f346c10f2b3c40f32015fecb46d8eaa9a154ad67463519928aade98a45c3cf3980b0b7c4281f22c1bc4cf
 
 Package: byakugan
 Version: 1.0.3
@@ -277,6 +309,21 @@ SHA1: f3a818e180fac7eba97a3be7f1025f11ebdc9fe6
 SHA256: 2016a3f249236f0ed2b57e5b61ccd1f9260b257c5f0bb909f82b229305535c16
 SHA512: 41e43278255e84ee1ff3fcb350a9c0029e5b6ccf78c8e71b4d2b654c6dde28bf84bd3ec5fcfe852d59274416e8fb3a52e89d3d78968569e6708839c1b3bddbf7
 
+Package: jython-lts
+Version: 2.7.3
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Installed-Size: 1
+Depends: openjdk-17, wget
+Homepage: https://https://www.jython.org/
+Description: The Jython project provides implementations of Python in Java, providing to Python the benefits of running on the JVM and access to classes written in java
+Filename: dists/anon/main/binary-all/jython-lts.deb
+Size: 1900
+MD5Sum: 8bc11bcc4631ccd2a9afb6c14cafb7fe
+SHA1: 8a5f3b3327bfc3b8ff125dc3bc02bf7d14df341d
+SHA256: 6e0ec123cc78ba294da8e10cd3b68f55656cf7ff698943a77e47c63cccd13b73
+SHA512: d30f0d90d76a28e9e659b87e793867d44c06719c647c5fc01eb6869a69e8d3a8d0da381313d9435e3e739f01a6b31b41549bd46c6f605b5827cde19da0f2ff78
+
 Package: local2onion
 Version: 1.0
 Architecture: all
@@ -317,6 +364,21 @@ MD5Sum: 27d1de95c60bef8a354ac51fa4394986
 SHA1: 13da390f5e7dff90f8be33f11f9524013bf698d2
 SHA256: 06595bc12e85723596f9c1e027bed7a765211b95dbb5348a583a609a5e7e9c6b
 SHA512: d0f88ed660bade0ce4d614f77b4f27bb73073d69ab13a7a955225acab272a37f1c0eda7299b407faeb84fb66f76e1c3cb922e98c392236e0f80ecd3c05dc81dd
+
+Package: metasploit-framework
+Version: 6.4.44
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Installed-Size: 2
+Depends: build-essential, ruby, python, libcap, openjdk-17, termux-tools, autoconf, patchelf, binutils, bison, yarn, clang, coreutils, curl, findutils, gumbo-parser, apr, apr-util, postgresql, openssl, readline, libffi, libgmp, libpcap, libsqlite, libgrpc, libtool, libxml2, libxslt, make, ncurses-utils, ncurses, git, wget, unzip, xz-utils, zip, zlib, tar, termux-elf-cleaner, pkg-config, resolv-conf, aapt, apksigner, apktool
+Homepage: https://github.com/rapid7/metasploit-framework
+Description: Advanced open-source platform for developing, testing and using exploit code. (git-release installer)
+Filename: dists/anon/main/binary-all/metasploit-framework.deb
+Size: 4112
+MD5Sum: 6d119ef037250ecd62bce71ed6260163
+SHA1: 732a34f0c986f2353726fba2e8f894fa33930379
+SHA256: d0300add1568a85dd56c4762682aec112d8b0a609c784c6ea1e410285139f853
+SHA512: b754746c0a511406d930d26e32810557a42e86f12627bf243b164ffdb49bdeb76073be03d3b42feccbbfb988bf7faca78c2dc2d84c75a1c631293412abf66050
 
 Package: phoneinfo
 Version: 1.0.1

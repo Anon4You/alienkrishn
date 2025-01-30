@@ -7,10 +7,12 @@ The list of Available packages/tools in alienkrishn repo
 * androdos
 * androvirus
 * apkeditor
+* apktool
 * beef
 * bitb-framework
 * blackhat
 * blutter
+* burpsuite
 * byakugan
 * cctvip
 * credmap
@@ -22,9 +24,11 @@ The list of Available packages/tools in alienkrishn repo
 * ipinfo
 * iplookup
 * john
+* jython-lts
 * local2onion
 * locateme
 * maskme
+* metasploit-framework
 * phoneinfo
 * powerdos
 * redhawk
@@ -42,4 +46,5 @@ The list of Available packages/tools in alienkrishn repo
 * webserver
 * websploit
 * weeman
+
 
