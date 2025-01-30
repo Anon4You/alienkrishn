@@ -132,7 +132,7 @@ SHA256: bec0237c7af0052d09016bf24ac72c9c417ffa7eb35915555fc31acefe93a158
 SHA512: 4af5491226b229fd275d8f75929a61f7ba684d3181793301b78a27a66810c504b303a401a4397bc591a3f908e55f32492791eef062779d4a68ed64da2f13d50e
 
 Package: burpsuite
-Version: 2024.11.2
+Version: 2024.11.2.0
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
 Installed-Size: 37
@@ -141,11 +141,11 @@ Suggests: termux-x11, xwayland
 Homepage: https://portswigger.net
 Description: An integrated platform/graphical tool for performing security testing of web applications.
 Filename: dists/anon/main/binary-all/burpsuite.deb
-Size: 36696
-MD5Sum: f3630f75c4d1c289e0e35c69b8da2d2e
-SHA1: e9f8b1bf6cd470c8f2f300788be948b430c4c1cf
-SHA256: 57bec14eb49a6e23dccc75a2c11596842662dd9bd888c9eeea1ed23e43d5ef74
-SHA512: 6821147780dda6c1aba3e99082408430f5d62209230f346c10f2b3c40f32015fecb46d8eaa9a154ad67463519928aade98a45c3cf3980b0b7c4281f22c1bc4cf
+Size: 36688
+MD5Sum: 8428a5b5caa9e3c0e5537c9f0e26688b
+SHA1: 8d8c059966d3fe38f9b61a900bd36b641a407569
+SHA256: fe157a139f152f8395fae09a4f5cb6f8acce29d09090bcd1b21456f7fce58408
+SHA512: 4724e847d48549e4810c1407aad89f5d354d52e7edaa5bd9fe83fbf45a22faaeb3ab4e9594b115feef0e1bd37482529922ffac0b7e52f9d1db01a19904fbd4bb
 
 Package: byakugan
 Version: 1.0.3
