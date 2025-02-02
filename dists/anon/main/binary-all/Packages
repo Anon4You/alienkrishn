@@ -135,17 +135,15 @@ Package: burpsuite
 Version: 2024.12.1
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
-Installed-Size: 37
-Depends: openjdk-21, wget, jython-lts, giflib
-Suggests: termux-x11, termux-desktop
-Homepage: https://portswigger.net
-Description: An integrated platform/graphical tool for performing security testing of web applications.
+Depends: curl, openjdk-21, openjdk-21-x
+Homepage: https://portswigger.net/burp/
+Description: An integrated platform for performing security testing of web applications (community edition)
 Filename: dists/anon/main/binary-all/burpsuite.deb
-Size: 36700
-MD5Sum: f571b61278853c98eb4f94ce7615d52a
-SHA1: 7a4ced7b48e84ff4f6643059cd3e2afba618fb98
-SHA256: d5350e8280f544fc43fe7daf615ac3c33ebc2b4baa24744a155bd071356311c4
-SHA512: c3996483307030ce69c25fce1c58f74652c99b03929516ad5a013b0949ae936a4d3b58954a8fd4ede50ab0f09700260b2ab4ea03e97f930801e84e6a2cda3a5c
+Size: 36296
+MD5Sum: 58c7702ea77b5ce9586a0a54c94aafe7
+SHA1: fc05c67cb48d7a81a5d6525dbcc1816594cad815
+SHA256: 8e2372ae550eb06e0427c5a8ca16f8dab5a9832c22bf8e59d997684d309f8025
+SHA512: bdfdf4784c9c34a3a65381d39362110cdc9ea4fb3e34909b1e481b40d810e33e4505c126f5bcfe6218e1ef11a449ec87b0f45d984001c075654eb9675c8cdd32
 
 Package: byakugan
 Version: 1.0.3
@@ -236,6 +234,20 @@ SHA1: 28b23cb3bfcf9a175f4ab59dff524cf2165f8360
 SHA256: cac30254a7b18970f814285d155c411cd382a16db0d2781299c9955c699abcb6
 SHA512: 5d6b827f10bd6f0d64edac7662a7d2c44abe8a487fe7feeb764e7414bdf253e710d5c090afede4cd92d2449bf8535f4333d6e311b1f55f4b8a93fa1a3d89225b
 
+Package: fscan
+Version: 1.8.4
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Homepage: https://github.com/shadow1ng/fscan/
+Depends: golang, git 
+Description: A comprehensive intranet scanning tool
+Filename: dists/anon/main/binary-all/fscan.deb
+Size: 1044
+MD5Sum: 845bba2d95e0b8f2cf0f99798797857c
+SHA1: 16dbb64e78762dfdc26edd205c3e799a56e84a7b
+SHA256: 2ef98bfd352c0c1ec2694ff6bd5eecc839dd18210053d50b7281d8e1c52f1461
+SHA512: 64e30a42ebafc98f6e476572e0865944ea52862fca56f75b684b3b9170fe05688d7dc96528a3f3c30cd3e02c055a239a0d4c60b82510fc17434c87422336208a
+
 Package: hashcat
 Version: 6.2.6
 Architecture: all
@@ -308,21 +320,6 @@ MD5Sum: 34c714a8f725593bc0ee0e64cc6f7c35
 SHA1: f3a818e180fac7eba97a3be7f1025f11ebdc9fe6
 SHA256: 2016a3f249236f0ed2b57e5b61ccd1f9260b257c5f0bb909f82b229305535c16
 SHA512: 41e43278255e84ee1ff3fcb350a9c0029e5b6ccf78c8e71b4d2b654c6dde28bf84bd3ec5fcfe852d59274416e8fb3a52e89d3d78968569e6708839c1b3bddbf7
-
-Package: jython-lts
-Version: 2.7.3
-Architecture: all
-Maintainer: Alienkrishn [Anon4You]
-Installed-Size: 1
-Depends: openjdk-17, wget
-Homepage: https://https://www.jython.org/
-Description: The Jython project provides implementations of Python in Java, providing to Python the benefits of running on the JVM and access to classes written in java
-Filename: dists/anon/main/binary-all/jython-lts.deb
-Size: 1900
-MD5Sum: 8bc11bcc4631ccd2a9afb6c14cafb7fe
-SHA1: 8a5f3b3327bfc3b8ff125dc3bc02bf7d14df341d
-SHA256: 6e0ec123cc78ba294da8e10cd3b68f55656cf7ff698943a77e47c63cccd13b73
-SHA512: d30f0d90d76a28e9e659b87e793867d44c06719c647c5fc01eb6869a69e8d3a8d0da381313d9435e3e739f01a6b31b41549bd46c6f605b5827cde19da0f2ff78
 
 Package: local2onion
 Version: 1.0
@@ -465,6 +462,20 @@ MD5Sum: 0114f4fecfa7b07ed9d9e8adfdee3e47
 SHA1: c59c9d04b21002f10b9934a94e2b00b7fb2cf5cb
 SHA256: 337069cb3c44dfbc77cd63ec603df15b025387421e1dbceda8fa31a515966d14
 SHA512: 43f60749767c3fa4cb7baf69e4d9b87a045a18c8e6c2de272b40edaa7cabe1e4167ea8e2c607a9fc2201b021a01fb97d87918ac6f2b8c365f779e281fecea9b9
+
+Package: spurt
+Version: 1.9.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: make, golang, git
+Homepage: https://github.com/zer-far/spurt/
+Description: HTTP stress testing tool that can overload web servers.
+Filename: dists/anon/main/binary-all/spurt.deb
+Size: 1044
+MD5Sum: dbd7e9a0b8d3b071058484828a1ba5e7
+SHA1: ef73f780190def22aa6a9b50b8331fab9daa6322
+SHA256: 6209b63fd9b2f07ddb115f0f5d322105e1521898ce282c5780890eefa9c4022a
+SHA512: a1f8727921c2d2856ebaf7694ec83d738144eec14ffe7573e5705a0c7a9bea70972128ecf02c1d677ed3cfdf60ca3b3c93fd5603fb1c7c50e6812d193f97d14f
 
 Package: sqlmap
 Version: 1.9

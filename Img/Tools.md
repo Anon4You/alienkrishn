@@ -19,12 +19,12 @@ The list of Available packages/tools in alienkrishn repo
 * cupp
 * darksploit-framework
 * enctool
+* fscan
 * hashcat
 * instajack
 * ipinfo
 * iplookup
 * john
-* jython-lts
 * local2onion
 * locateme
 * maskme
@@ -35,6 +35,7 @@ The list of Available packages/tools in alienkrishn repo
 * shorturl
 * snatcher
 * spider
+* spurt
 * sqlmap
 * term-helper
 * termsploit

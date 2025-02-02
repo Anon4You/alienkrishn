@@ -47,7 +47,7 @@ data/data/com.termux/files/usr/lib/bh.jpeg                                      
 data/data/com.termux/files/usr/bin/blutter                                       blutter
 data/data/com.termux/files/usr/bin/burpsuite                                     burpsuite
 data/data/com.termux/files/usr/share/applications/burpsuite/burpsuite.desktop    burpsuite
-data/data/com.termux/files/usr/share/applications/burpsuite/img/burpsuite.png    burpsuite
+data/data/com.termux/files/usr/share/applications/burpsuite/icon/burpsuite.png   burpsuite
 data/data/com.termux/files/usr/bin/byakugan                                      byakugan
 data/data/com.termux/files/usr/share/byakugan/assets/About.html                  byakugan
 data/data/com.termux/files/usr/share/byakugan/assets/css/server.css              byakugan
@@ -84,7 +84,6 @@ data/data/com.termux/files/usr/bin/instajack                                    
 data/data/com.termux/files/usr/bin/ipinfo                                        ipinfo
 data/data/com.termux/files/usr/bin/iplookup                                      iplookup
 data/data/com.termux/files/usr/bin/john                                          john
-data/data/com.termux/files/usr/bin/jython                                        jython-lts
 data/data/com.termux/files/usr/bin/local2onion                                   local2onion
 data/data/com.termux/files/usr/bin/locateme                                      locateme
 data/data/com.termux/files/usr/share/locateme/index.html                         locateme
