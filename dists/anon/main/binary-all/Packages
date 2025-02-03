@@ -448,6 +448,20 @@ SHA1: e28e113235d1938aa13776a9fce955e63b9b88d0
 SHA256: 7ceab76c89a0655fd5537b1a003460d6d4eaab0a8f7e17ccaed6dbe4d200994f
 SHA512: a20999c0df5c59b2f5447b5c95b0a2dd4ce4627638b6a4d1b26a5d8349a387485391eccaee2a4d30ea7860c9ec52d86a554328d8236a3882d73712d88b10c642
 
+Package: setoolkit
+Version: 8.0.3
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Homepage: https://github.com/Keyaru-code/SetoolkitTermux/
+Depends: curl, tar, proot
+Description: The Social-Engineer Toolkit (SET) repository from TrustedSec [termux-proot]
+Filename: dists/anon/main/binary-all/setoolkit.deb
+Size: 1636
+MD5Sum: 1b7b8461b59c20212db4afc85f60de6e
+SHA1: 01ea5e1986c32e5092f5adf1b294f770beca4364
+SHA256: de11d29f0a8efea2c420533d7218a2fbcc7176982f1013eb8aa65045c6333dd2
+SHA512: dcb757ea58ff1b4ba78d413165a898077997ed6a50a4891306f79a6cb011d3f940724e5ff3dc9e5270c5fa6db407f3a990f7c3965f278a301358fa7aa4982e21
+
 Package: shorturl
 Version: 1.0.0
 Architecture: all

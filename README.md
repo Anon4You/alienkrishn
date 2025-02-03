@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Img/img.png">
+  <img src="assets/img.png">
 </p>
 
 <p align="center"><b> Custom termux apt repository  </b></p>
@@ -10,7 +10,7 @@
 ##
 <h3><p align="center">About</p></h3>
 
-This repository for **Termux** has been specifically designed to provide a variety of tools and packages that are not included in the official Termux repository. It acts as a supplementary resource for users looking for expanded capabilities and features to enrich their Termux environment. It includes over 35 hacking tools. A comprehensive list of the available packages and tools can be accessed [from here](https://github.com/Anon4You/alienkrishn/blob/main/Img/Tools.md)
+This repository for **Termux** has been specifically designed to provide a variety of tools and packages that are not included in the official Termux repository. It acts as a supplementary resource for users looking for expanded capabilities and features to enrich their Termux environment. It includes over 35 hacking tools. A comprehensive list of the available packages and tools can be accessed [from here](https://github.com/Anon4You/alienkrishn/blob/main/assets/Tools.md)
 
 ## Usage 
 You can install any package from this repo using apt or pkg **example:** `apt install alienkrishn -y`

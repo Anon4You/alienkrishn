@@ -106,6 +106,7 @@ data/data/com.termux/files/usr/bin/msfconsole                                   
 data/data/com.termux/files/usr/bin/phoneinfo                                     phoneinfo
 data/data/com.termux/files/usr/bin/powerdos                                      powerdos
 data/data/com.termux/files/usr/bin/rhawk                                         redhawk
+data/data/com.termux/files/usr/bin/setoolkit                                     setoolkit
 data/data/com.termux/files/usr/bin/shorturl                                      shorturl
 data/data/com.termux/files/usr/bin/snatcher                                      snatcher
 data/data/com.termux/files/usr/bin/spider                                        spider

@@ -34,6 +34,7 @@ The list of Available packages/tools in alienkrishn repo
 * phoneinfo
 * powerdos
 * redhawk
+* setoolkit
 * shorturl
 * snatcher
 * spider
