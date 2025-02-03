@@ -3,6 +3,7 @@
 
 The list of Available packages/tools in alienkrishn repo
 
+* afrog
 * alienkrishn
 * androdos
 * androvirus
@@ -13,6 +14,7 @@ The list of Available packages/tools in alienkrishn repo
 * blackhat
 * blutter
 * burpsuite
+* burpsuite-pro
 * byakugan
 * cctvip
 * credmap

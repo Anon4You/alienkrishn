@@ -1,3 +1,17 @@
+Package: afrog
+Version: 3.1.5
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Homepage: https://github.com/zan8in/afrog/
+Depends: git, golang
+Description: A Security Tool for Bug Bounty, Pentest and Red Teaming.
+Filename: dists/anon/main/binary-all/afrog.deb
+Size: 1064
+MD5Sum: 021459c8dd908118ddb77bb0214131d1
+SHA1: bceadc04d7b60d10eda9dabef9c6e6b8b25a3654
+SHA256: f25fdec2c8186d619da811c0375f6d7eefeddc95ede87160cd33412a9a3aa7dc
+SHA512: a7e7f059ec2d2b837a57fa65703e74e5937368320cccdff632d7b2bde418b0bac249bfd43f1dfc430376cc2908bbadde3e61aa0b16be069f7533587536b2bae8
+
 Package: alienkrishn
 Architecture: all
 Version: 1.0.4
@@ -130,6 +144,20 @@ MD5Sum: ef70589420f429ec8d857589cfe544c8
 SHA1: d9841e69b2591c4c0a1a0f9ae8b6c3ab278313d5
 SHA256: bec0237c7af0052d09016bf24ac72c9c417ffa7eb35915555fc31acefe93a158
 SHA512: 4af5491226b229fd275d8f75929a61f7ba684d3181793301b78a27a66810c504b303a401a4397bc591a3f908e55f32492791eef062779d4a68ed64da2f13d50e
+
+Package: burpsuite-pro
+Version: 2024.12.1
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: curl, openjdk-21, openjdk-21-x
+Homepage: https://portswigger.net/burp/
+Description: An integrated platform for performing security testing of web applications (professional edition)
+Filename: dists/anon/main/binary-all/burpsuite-pro.deb
+Size: 3680
+MD5Sum: 8302cd12febac8f43e1b13f45e3e6967
+SHA1: d8ed0ac73496f3031de9b27d3f00a7cb2ab1b3be
+SHA256: fc3106fc2d30f5b6058017df74157649d01bfc60de6d0e7c64c5d75a3ee0a8fa
+SHA512: d06ff865f1806bc0851f5e443db12c933cc3c9c22c2c07f9619c177627fc8de56b2986e29d52736f6a1e26f1458dd6dd8263c3fe0999f548feff6fb321a95ab5
 
 Package: burpsuite
 Version: 2024.12.1
