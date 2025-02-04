@@ -476,6 +476,20 @@ SHA1: 0f60081c80449ac535d993ef6e62d1ada15778a4
 SHA256: f6ae1973b6133525cd0518a105c02a0bea43dc4af0cc27cbafadae4f9c52668e
 SHA512: af3f0ef916b5be2ac013af560a0f93e10fef24976f4e520e716dc298a8bc09ea85ac9319d732c5091fbaeb0066bc450e276931d1033e2fdffd4fb9ca021f7664
 
+Package: slowhttptest
+Version: 1.9.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: openssl, make, automake
+Homepage: https://github.com/shekyan/slowhttptest
+Description: Application Layer DoS attack simulator
+Filename: dists/anon/main/binary-all/slowhttptest.deb
+Size: 100728
+MD5Sum: c61b5c570e89547c8e593f2752847d32
+SHA1: 551a0b37d1385176de57dad0d75580c7875b7775
+SHA256: f7dc817cdc976ea05b16c58e2d2efe61e352519e4499c546c78a46fd18025b49
+SHA512: 8f16c05408d3383a5cfbaa2e2c7851f04562b3986a9091ad28aefd410e08e3189d2321e9d77fe1d6776d736edde71663168b56d1036696a71934ed19724484ba
+
 Package: snatcher
 Version: 1.0.0
 Architecture: all

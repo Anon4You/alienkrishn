@@ -36,6 +36,7 @@ The list of Available packages/tools in alienkrishn repo
 * redhawk
 * setoolkit
 * shorturl
+* slowhttptest
 * snatcher
 * spider
 * spurt
