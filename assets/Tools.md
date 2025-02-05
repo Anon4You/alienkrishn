@@ -51,5 +51,6 @@ The list of Available packages/tools in alienkrishn repo
 * webserver
 * websploit
 * weeman
+* zaproxy
 
 

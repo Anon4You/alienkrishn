@@ -694,3 +694,17 @@ SHA1: e0f125a16df673be3ab1c8b3043c9b85914cc25d
 SHA256: de76bdf37d479180672fcd115a67697a5a3d34caf613eec11876fd2f75bd98d2
 SHA512: d99e0898957c8380e4dfa45f5018d47d5d587992bd96f1e8800302be88f0ae561b235882563680b9f36e63c81fc9f67e9fa89c22db65e5fba5d2f1eb48c8f3ad
 
+Package: zaproxy
+Version: 2.16.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Homepage: https://www.zaproxy.org/
+Depends: tar, curl, openjdk-21
+Description: Integrated penetration testing tool for finding vulnerabilities in web applications
+Filename: dists/anon/main/binary-all/zaproxy.deb
+Size: 55636
+MD5Sum: 48a9079a2259e4a9fa835d0ed94d8146
+SHA1: 4d2673f456f73c677d16dd65073817119566b2db
+SHA256: 0e8c0a3cd8b45f23ccdb12604af0e09aed6977b15690211aa0cb3822b7cc94e5
+SHA512: c7ac7aaf8c50c55b35b6984aaf85fa0449572da6ec9b28b5f352723362ba819298f0772224107013c71e2b1c146d36d282429b1ee9720bab4f5fb4ea9e295a89
+
