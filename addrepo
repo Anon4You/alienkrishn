@@ -20,4 +20,6 @@ Alienkrishn Repo installed....
 updating repositories...
 "
 apt update -y
+printf "\e[32m Installing themes and repo helper\n\e[0m"
+apt install alienkrishn -y
 
