@@ -548,6 +548,20 @@ SHA1: 3720c69f143315b2d6d030d66b22ae3695776c62
 SHA256: 61dac6162482b15e06962c588d7fee9f1085da9f695414ba31d3e9e2fcdd0410
 SHA512: 457b93637a6d1b4cf24ac341e5cc484416e207e0377fb2cb0d467b57097d23133e991c4c082eff44fa35013e691d994db53b23b5bb9ff92c864c2a4164ff37fd
 
+Package: sqlscan
+Version: 1
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: git,curl
+Homepage: https://github.com/machine1337/sqlscan
+Description: A small and an efficient tool to find SQL injection vulnerability in a websites.
+Filename: dists/anon/main/binary-all/sqlscan.deb
+Size: 1044
+MD5Sum: 44d1809e60cc1d1fb2aeb37d74fe4d34
+SHA1: 56fa9152b73c716dd9405bdeabe5437fab03057d
+SHA256: fd52172f3aaa800f1fd0343aa6b18fc6b67d5d418271f21900c57d7705affbd0
+SHA512: e4ee7d0801afa22deb51da806df551ca876b33a31687ae1de0787a347ab7ea2e3c901deab834fc3f84184137c8f7dd17a1592321883d111d9cf7b61675322171
+
 Package: term-helper
 Version: 1.0.0
 Architecture: all

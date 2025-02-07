@@ -41,6 +41,7 @@ The list of Available packages/tools in alienkrishn repo
 * spider
 * spurt
 * sqlmap
+* sqlscan
 * term-helper
 * termsploit
 * termux-desktop
