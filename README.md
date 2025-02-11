@@ -1,36 +1,49 @@
 <p align="center">
-  <img src="assets/img.png">
+  <img src="assets/img.png" alt="Termux Repository">
 </p>
 
-<p align="center"><b> Custom termux apt repository  </b></p>
+<h1 align="center">Termux Custom APT Repository</h1>
 
-[![YouTube](https://img.shields.io/badge/You-Tube-red)](https://youtube.com/@alienkrishnorg) [![License](https://img.shields.io/badge/Licenese-MIT-blue.svg?longCache=true&style=flat)](https://github.com/Anon4You/alienkrishn/blob/main/LICENSE) [![Telegram](https://img.shields.io/badge/Telegram-join-green)](https://t.me/nullxvoid) 
+<p align="center">
+  <a href="https://youtube.com/@alienkrishnorg">
+    <img src="https://img.shields.io/badge/YouTube-Channel-red" alt="YouTube Channel">
+  </a>
+  <a href="https://github.com/Anon4You/alienkrishn/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue" alt="MIT License">
+  </a>
+  <a href="https://t.me/nullxvoid">
+    <img src="https://img.shields.io/badge/Telegram-Join-green" alt="Telegram Channel">
+  </a>
+</p>
 
+## 📖 Summary
 
-<h3><p align="center">About</p></h3>
+This repository is crafted specifically for **Termux** users, offering a range of tools and packages that are not available in the official Termux repository. It provides an extended resource for those looking to enhance their Termux capabilities, featuring over **35 hacking utilities**.
 
-This repository for **Termux** has been specifically designed to provide a variety of tools and packages that are not included in the official Termux repository. It acts as a supplementary resource for users looking for expanded capabilities and features to enrich their Termux environment. It includes over 35 hacking tools. A comprehensive list of the available packages and tools can be accessed [from here](https://github.com/Anon4You/alienkrishn/blob/main/assets/Tools.md)
+For a full inventory of the tools and packages available, please refer to the [Tools Documentation](https://github.com/Anon4You/alienkrishn/blob/main/assets/Tools.md).
 
-## Usage 
-You can install any package from this repo using apt or pkg **example:** `apt install alienkrishn -y`
+## 🚀 Installation Guide
 
-## Add repo in your termux
-```shell
+To install any package from this repository, you can use either `apt` or `pkg`. 
+
+**Command Example:**
+```bash
+apt install alienkrishn -y
+```
+
+## 🛠️ Adding the Repository to Your Termux Environment
+
+To integrate this repository into your Termux setup, run the following command:
+```bash
 curl -sL https://github.com/Anon4You/alienkrishn/raw/main/addrepo | bash
 ```
 
-<h3><p align="center">Support Developer</p></h3>
-<i>Support my work by subscribing to my channels it's free</i>
+## 🤝 Support the Developer
 
+If you appreciate my work, please consider supporting me by subscribing to my channels—it's free of charge! 
 
-[Instagram](https://wwww.instagram.com/alienkrishn)
+- [Instagram](https://www.instagram.com/alienkrishn)
+- [YouTube Channel](https://youtube.com/@alienkrishnorg)
+- [Telegram Channel](https://t.me/nullxvoid)
 
-[Youtube channel](https://youtube.com/@alienkrishnorg)
-
-[Telegram channel](https://t.me/nullxvoid)
-
-Thank You 😊 
-
-
-
-
+Thank you for your support! 😊
