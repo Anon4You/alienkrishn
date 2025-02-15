@@ -33,6 +33,7 @@ The list of Available packages/tools in alienkrishn repo
 * metasploit-framework
 * phoneinfo
 * powerdos
+* random-banner
 * redhawk
 * setoolkit
 * shorturl

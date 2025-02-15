@@ -2,7 +2,6 @@ data/data/com.termux/files/home/.config/fish/config.fish                        
 data/data/com.termux/files/home/.config/starship.toml                            alienkrishn
 data/data/com.termux/files/home/.termux/colors.properties                        alienkrishn
 data/data/com.termux/files/home/.termux/font.ttf                                 alienkrishn
-data/data/com.termux/files/usr/bin/akrishn-quote                                 alienkrishn
 data/data/com.termux/files/usr/bin/alienkrishn                                   alienkrishn
 data/data/com.termux/files/usr/bin/androdos                                      androdos
 data/data/com.termux/files/usr/bin/androvirus                                    androvirus

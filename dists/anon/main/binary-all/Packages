@@ -14,17 +14,17 @@ SHA512: a7e7f059ec2d2b837a57fa65703e74e5937368320cccdff632d7b2bde418b0bac249bfd4
 
 Package: alienkrishn
 Architecture: all
-Version: 1.0.7
+Version: 1.0.8
 Homepage: https://anon4you.github.io/alienkrishn/
 Depends: eza,fish,starship,curl,gnupg
 Maintainer: Alienkrishn [Anon4You]
 Description: Alienkrishn theme and repo helper
 Filename: dists/anon/main/binary-all/alienkrishn.deb
-Size: 902932
-MD5Sum: 209980b080bdbfc18ee75dc5bfc1f22b
-SHA1: 54e313e1215386c0533729820e5e0e9a3d538cad
-SHA256: d014a6f45311205d9bc7243b543c88261917e2dcee6c42388917d41cc7d184a1
-SHA512: 60efdba9f2e46c37bd260e1217134c7e0f1c3f0d39c0600c8047d4f1ab9f2753819e6a60f72c088165539a55f9532644c5ca8fcdd0bd60d4691d2e1481f079a8
+Size: 899560
+MD5Sum: ec46540fe31e2db65b00bbff5d2d7aae
+SHA1: feca2b7f8f3f6086f72792baa675464011cdf15f
+SHA256: 6372c61ca8ecbd2d6e3a9af1420104e120f43bc7a1f623b366651d15556a2830
+SHA512: bc660954c09889fc2302fc90516ea6f993d6d728fa6499e789dcbdadc2b48814d249a25bcdf638ad0f953076fa6b01f667315fd65e6f2c37da55988db1f67133
 
 Package: androdos
 Version: 1.0.0
@@ -160,18 +160,18 @@ SHA256: fc3106fc2d30f5b6058017df74157649d01bfc60de6d0e7c64c5d75a3ee0a8fa
 SHA512: d06ff865f1806bc0851f5e443db12c933cc3c9c22c2c07f9619c177627fc8de56b2986e29d52736f6a1e26f1458dd6dd8263c3fe0999f548feff6fb321a95ab5
 
 Package: burpsuite
-Version: 2024.12.1
+Version: 2023.12.1.5
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
-Depends: curl, openjdk-21, openjdk-21-x
+Depends: curl, openjdk-17, openjdk-17-x
 Homepage: https://portswigger.net/burp/
 Description: An integrated platform for performing security testing of web applications (community edition)
 Filename: dists/anon/main/binary-all/burpsuite.deb
-Size: 36296
-MD5Sum: 58c7702ea77b5ce9586a0a54c94aafe7
-SHA1: fc05c67cb48d7a81a5d6525dbcc1816594cad815
-SHA256: 8e2372ae550eb06e0427c5a8ca16f8dab5a9832c22bf8e59d997684d309f8025
-SHA512: bdfdf4784c9c34a3a65381d39362110cdc9ea4fb3e34909b1e481b40d810e33e4505c126f5bcfe6218e1ef11a449ec87b0f45d984001c075654eb9675c8cdd32
+Size: 36312
+MD5Sum: a74929552b9fab679d7327077b493e67
+SHA1: d26561550172238e98d720c9cedc1d14e4cf2c94
+SHA256: 3aab05d9b1ba5587071c4aab215e33dcaea8f0814023b8d364cf0e3ebbbb5774
+SHA512: 53ab656fdebb3f3497087d2e9297ee76612750f7aa7be75dd7ca26ebc27eddfe2e1358266d3d1f5c94b80f350fa21ffff40ed4c23d67e461f0bd22b677dd1a43
 
 Package: byakugan
 Version: 1.0.3
@@ -432,6 +432,21 @@ MD5Sum: f126f343f23a4fc4b9ac3de131daf6e6
 SHA1: ff9af20d74e670e3f6d475559a53521af17cf927
 SHA256: 99f73fce98d721ce4103060bc0cf3e830fd2d6fa46249aab30ef8ec2f7d94491
 SHA512: 9a88f29dbdc78b2c830f22fe463821c399ed5b1cf2a75f594858b7cd54dc533083d047c44c520bdf707b53379abea7e427c41e5442cf111aa5b6ec0e612633ea
+
+Package: random-banner
+Architecture: all
+Version: 1
+Maintainer: Alienkrishn [Anon4You]
+Depends: git
+Installed-Size: 1
+Homepage: https://github.com/Alienkrishn/random_banners
+Description: random banner and quote
+Filename: dists/anon/main/binary-all/random-banner.deb
+Size: 916
+MD5Sum: a36977f45674b2f0abb0db2646eda47c
+SHA1: 6c556defe4c576cd55a5accf684fddfc0a0e3ce8
+SHA256: 1391e95da6782d32fd781087cb45501e0089567dca1d24d1e6391e0bb42d4fa2
+SHA512: e19138dda73d105dd4c15d3fbbd2c89d705156c315d8e28926ab645e3f8edc882300538effac92cfa54a9cd2d87805d3cbc1302d336f08dddb9b0a455c179b00
 
 Package: redhawk
 Version: 2.0.0
