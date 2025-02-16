@@ -17,6 +17,7 @@ The list of Available packages/tools in alienkrishn repo
 * burpsuite-pro
 * byakugan
 * cctvip
+* chromium
 * credmap
 * cupp
 * darksploit-framework
