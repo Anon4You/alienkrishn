@@ -1,7 +1,8 @@
-<p align="center">
-  <img src="assets/img.png" alt="Termux Repository">
-</p>
-
+<div align="center">
+  <a href="https://ollama.com" />
+    <img alt="ollama" height="200px" src="assets/img.png">
+  </a>
+</div>
 <h1 align="center">Termux Custom APT Repository</h1>
 
 <p align="center">
