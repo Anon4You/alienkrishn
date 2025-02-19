@@ -32,6 +32,7 @@ The list of Available packages/tools in alienkrishn repo
 * locateme
 * maskme
 * metasploit-framework
+* parrot
 * phoneinfo
 * powerdos
 * random-banner

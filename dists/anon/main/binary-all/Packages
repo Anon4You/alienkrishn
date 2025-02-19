@@ -55,7 +55,7 @@ SHA256: 4a0bc88b07081d900c7cb4059e6fec1361f6538f97bb4e48fd2e3ec9ff9e669b
 SHA512: a1a9cc7075be357b8baeedcb6a0425fa7de0e6329332ba6d0838fcdafac6572b8a392cdaaaa047ca500f9f9e88d47608553655513ba98d6f54cf5a81d3f9fcec
 
 Package: apkeditor
-Version: 1.4.1
+Version: 1.4.2
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
 Installed-Size: 1
@@ -63,11 +63,11 @@ Depends: openjdk-17,wget
 Suggests: alienkrishn
 Description: Powerful android apk editor - aapt/aapt2 independent
 Filename: dists/anon/main/binary-all/apkeditor.deb
-Size: 1652
-MD5Sum: 4517767b2cbb8fe3480a5c743660f7c5
-SHA1: d384c0d135e16a391b45088fd34fbe0430f9723e
-SHA256: ce3bdc8e1cb5d075a41675d61f7503ec17d3c5d6887807ff7f2ac06144044add
-SHA512: 393fb8827c977927a32ac0597ba4f68c4ba94198328ccd4ce675cb26837e81d082cb9d94131433853059e454a5789d83fbb2c40afba37491a7cf10c4be6d3e15
+Size: 1564
+MD5Sum: 3f3ecc18275aea7679254133a80e123f
+SHA1: 9b3e073144ad020a1c1c021db550fd390dcdadb8
+SHA256: 6bfcc33871c2d33d493cbdc78353112b3c16f37c2795fa6fe9a125b5b0eae5ad
+SHA512: 26e899d97d941faf7b22fb554c67ffb588ba5bc05a18d33aa6f7aa531245f009bca1bf9bfacfaa7dc86eaa016227cceebfc68a63f2fc2dc0259c0576eb4287c9
 
 Package: apktool
 Version: 2.11.0
@@ -79,11 +79,11 @@ Suggests: apkeditor
 Homepage: https://bitbucket.org/iBotPeaches/apktool/src/master/
 Description: A tool for reverse engineering Android apk files
 Filename: dists/anon/main/binary-all/apktool.deb
-Size: 1548
-MD5Sum: 7aea498b63d2573055899db377d9ec78
-SHA1: f69980a2a02b2299faa2f12968eccfad5be23b9a
-SHA256: 79df71b6c576e87a5e26fa95e9317124344810aa344568415d6b720b4b466cdd
-SHA512: 25c971838f50bfe36fca8b56baf6dbfb8b2cd52e14de6645abec5b3d4b12a9c3452346aa465233c6a174107c34d5c9276ef2125791d88c4e66685faf9e848806
+Size: 1488
+MD5Sum: 3eaeb16336b961f7912b674a396ba7ad
+SHA1: ded4b6f31f727b0935ede4daab4f04b5ec6108c1
+SHA256: f92920f037cb417209b63bc5a7ca53992c7717317b300b9c85902c865facc453
+SHA512: 42531581419759191bcecd212e28d4815faf32987e2c888725184944d4485b6e9ca0f24bc270920fb52c200ccb71bbdf96c601daabb95b297f849781f1084299
 
 Package: beef
 Version: 0.5.4.0
@@ -419,6 +419,20 @@ MD5Sum: 6d119ef037250ecd62bce71ed6260163
 SHA1: 732a34f0c986f2353726fba2e8f894fa33930379
 SHA256: d0300add1568a85dd56c4762682aec112d8b0a609c784c6ea1e410285139f853
 SHA512: b754746c0a511406d930d26e32810557a42e86f12627bf243b164ffdb49bdeb76073be03d3b42feccbbfb988bf7faca78c2dc2d84c75a1c631293412abf66050
+
+Package: parrot
+Version: 6.3
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: proot,tar,wget 
+Homepage: https://www.parrotsec.org/
+Description: Parrot Security 6.3 (lorikeet) in Termux
+Filename: dists/anon/main/binary-all/parrot.deb
+Size: 1596
+MD5Sum: 64d704a659d804a34336fec3117858c1
+SHA1: 1130367195d2ce093d513091a5e80fafc9848b8f
+SHA256: 3c2d4f29b5a8b448d32497b714c2f39c9acd861e35c5e9d42ab3a4d3ad0556de
+SHA512: 30368e240030bdd8ef29ee60194e335ff5a1e6e5e2f824574620c1c66dc13d18986074632f98fe36ab7b8c604c0ea32b67c6cc021d9e43096ca9c18bf855832c
 
 Package: phoneinfo
 Version: 1.0.1
