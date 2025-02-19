@@ -1,7 +1,6 @@
 <div align="center">
   <a href="https://anon4you.github.io/alienkrishn/" />
-    <img alt="ollama" height="200px" src="assets/img.png"/></a>
-
+    <img alt="ollama" height="200px" src="assets/img.png"/>
 </div>
 <h1 align="center">Termux Custom APT Repository</h1>
 
