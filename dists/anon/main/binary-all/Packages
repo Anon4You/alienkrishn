@@ -14,17 +14,17 @@ SHA512: a7e7f059ec2d2b837a57fa65703e74e5937368320cccdff632d7b2bde418b0bac249bfd4
 
 Package: alienkrishn
 Architecture: all
-Version: 1.0.8
+Version: 1.0.9
 Homepage: https://anon4you.github.io/alienkrishn/
 Depends: eza,fish,starship,curl,gnupg
 Maintainer: Alienkrishn [Anon4You]
 Description: Alienkrishn theme and repo helper
 Filename: dists/anon/main/binary-all/alienkrishn.deb
-Size: 899560
-MD5Sum: ec46540fe31e2db65b00bbff5d2d7aae
-SHA1: feca2b7f8f3f6086f72792baa675464011cdf15f
-SHA256: 6372c61ca8ecbd2d6e3a9af1420104e120f43bc7a1f623b366651d15556a2830
-SHA512: bc660954c09889fc2302fc90516ea6f993d6d728fa6499e789dcbdadc2b48814d249a25bcdf638ad0f953076fa6b01f667315fd65e6f2c37da55988db1f67133
+Size: 899568
+MD5Sum: 7b11d1315bae933d7072204b57292e99
+SHA1: 729c3be5029edd64491d5fba8ea8bb5f9192e08c
+SHA256: f88fa3e3edda173adf8539bb97d59be6b57741e01d5fcf0e9cb80d0d14139c2e
+SHA512: a6128daf4e82348ab06adcc87ea0d8fd8579989c53772d020e5a289803c6a5e4e76d883b3a8f1edcfd3d23757d9bb4966f1aa7ee4ada6730469d998e007d2489
 
 Package: androdos
 Version: 1.0.0
@@ -210,11 +210,11 @@ Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libdrm, libevdev, libx
 Installed-Size: 1
 Description: Chromium web browser
 Filename: dists/anon/main/binary-all/chromium.deb
-Size: 2680
-MD5Sum: 7abb1ab02d4c9078508bf093f9b2bb09
-SHA1: 2bb119378753189ee2502d59f099565f225e84f4
-SHA256: 0570e5204070575f2cd28195b8a8ebbefb25cc2befe2f2f3cc9a512b296c5ed2
-SHA512: c180f95f18785160ecabbd46958508b68034c0a4575444760f73193471b1bd9251ef33c9fec070e2a5e4b4c8b0da212959d4d36fb2333992ff74781d99c41722
+Size: 2700
+MD5Sum: 56ebf8c344c10067919214bb54521d75
+SHA1: b3d672659fd7305ffdf53658d0f426f3458790b1
+SHA256: 740b61cafc7d2d5d6728c8bbd831ff5366f18a4c622554305610235fc65eef6e
+SHA512: 4c3db95b4a0dc7efe7c62f527a8b1c74900c31a084d7ea87083366865d79c039ed8918fdcbd3f0151f123cc34ed451a0e1fc2bd459ad346a814fd0c1b977f1f2
 
 Package: credmap
 Version: 0.1
