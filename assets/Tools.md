@@ -22,6 +22,7 @@ The list of Available packages/tools in alienkrishn repo
 * cupp
 * darksploit-framework
 * enctool
+* evilginx
 * fscan
 * hashcat
 * instajack

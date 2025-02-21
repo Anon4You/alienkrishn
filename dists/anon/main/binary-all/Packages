@@ -20,11 +20,11 @@ Depends: eza,fish,starship,curl,gnupg
 Maintainer: Alienkrishn [Anon4You]
 Description: Alienkrishn theme and repo helper
 Filename: dists/anon/main/binary-all/alienkrishn.deb
-Size: 899568
-MD5Sum: 7b11d1315bae933d7072204b57292e99
-SHA1: 729c3be5029edd64491d5fba8ea8bb5f9192e08c
-SHA256: f88fa3e3edda173adf8539bb97d59be6b57741e01d5fcf0e9cb80d0d14139c2e
-SHA512: a6128daf4e82348ab06adcc87ea0d8fd8579989c53772d020e5a289803c6a5e4e76d883b3a8f1edcfd3d23757d9bb4966f1aa7ee4ada6730469d998e007d2489
+Size: 899660
+MD5Sum: 2410dc3f7fc3212a1fda07b46a0886cc
+SHA1: 78cf352923e647dcecf9317bdecc9f98f1d47cbe
+SHA256: 23b876da721dfd98460c0241ece2865531ac965a0e4e5ab6c6bfb2e67020495f
+SHA512: 7f997662b94f9eea37c85b03ef2ce2dc847ab02e2020cb792607eb8fd9e505f12a2d1cf3f24c634497928124debcece648c17037e64a7cdd510370e08507b08a
 
 Package: androdos
 Version: 1.0.0
@@ -276,6 +276,20 @@ MD5Sum: 727d61c8a49776fa32e581a3ea147b01
 SHA1: 28b23cb3bfcf9a175f4ab59dff524cf2165f8360
 SHA256: cac30254a7b18970f814285d155c411cd382a16db0d2781299c9955c699abcb6
 SHA512: 5d6b827f10bd6f0d64edac7662a7d2c44abe8a487fe7feeb764e7414bdf253e710d5c090afede4cd92d2449bf8535f4333d6e311b1f55f4b8a93fa1a3d89225b
+
+Package: evilginx
+Version: 3.3
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Homepage: https://github.com/kgretzky/evilginx2.git 
+Depends: git, golang, make
+Description: Standalone man-in-the-middle attack framework used for phishing with session cookies and bypass of 2-factor authentication
+Filename: dists/anon/main/binary-all/evilginx.deb
+Size: 1112
+MD5Sum: 43ce7db5740431ba4f68ef8587c53d8d
+SHA1: f6e058a1cba277ad20e9c723a3e247465ebd3843
+SHA256: 6d06b212ab8d7773245d1bfadb6817a4cf6b4113a60b1c66baafbeff42925a39
+SHA512: 56c8a3131a94f4f88f2ed665e515696ecb52b05712726e3e9e4c59ed3305af02236870641e293def9cb02dd08565de11b99505b7a25f827ebff6eddb90339fb3
 
 Package: fscan
 Version: 1.8.4
