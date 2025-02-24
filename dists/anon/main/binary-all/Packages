@@ -549,19 +549,19 @@ SHA256: f7dc817cdc976ea05b16c58e2d2efe61e352519e4499c546c78a46fd18025b49
 SHA512: 8f16c05408d3383a5cfbaa2e2c7851f04562b3986a9091ad28aefd410e08e3189d2321e9d77fe1d6776d736edde71663168b56d1036696a71934ed19724484ba
 
 Package: snatcher
-Version: 1.0.0
+Version: 1.0.1
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
-Depends: git, curl, php, openssh, python, python-pip
+Depends: git, curl, php, openssh, python, python-pip, nodejs
 Homepage: https://github.com/Anon4You/Snatcher 
 Installed-Size: 2
 Description: hack phone camera by sending a link
 Filename: dists/anon/main/binary-all/snatcher.deb
-Size: 1480
-MD5Sum: dabf4622e953dce7efe52848db62fe3d
-SHA1: de74b84d26ade0790daa55c82b5d75416d4599c6
-SHA256: 02df95a3c3feeb6cf80911679c37f11d183abffd877ad3cb9f1746c398f8ab74
-SHA512: 122bf096ebba363998a736a0a04bc5e2b4d2f5e1b21f5e66aaeb47be7636dad94b15b04555dd2a3b435f0de37d47ced0eebcd4d90756d41980a041cf014ca4b4
+Size: 1552
+MD5Sum: 3fd974ff78aa222c7713c7f14533505d
+SHA1: eb287b53d4dfd75aedb5d3ed48ad8c34b13545d0
+SHA256: ca94af61f9bc5dbe05880d5eaa3eef5d7d9b263c5cb6d29feac4a2c7a84d47eb
+SHA512: 3803bf397d7253dc317008f14c74f5fc0a11bed69b6bb9d5916f6e68cf6bc99f8c5f6e3ea2612e7038546eeaca6b05e047d2a9fdf89019384c36573b8aa0b8cd
 
 Package: spider
 Version: 1.0
@@ -693,19 +693,19 @@ SHA256: 18cabc39eaa34e21d6faa0dc7db5368b1f514fafe8ed426f16a7a7fdd57c0369
 SHA512: 6bc94af33a755f15d690f1712fbf713237a5fd589e4e778aca4af54ea21133b1607f6dd8ef50fa6c6fe008289f4461b159fb523b573442680233304be9d5ef7f
 
 Package: venom
-Version: 1.0.0
+Version: 1.0.1
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
-Depends: git,curl,php,openssh
+Depends: git,curl,php,openssh,nodejs
 Homepage: https://github.com/Anon4You/venom/
 Installed-Size: 3
 Description: An automated phishing tool for absolute beginners
 Filename: dists/anon/main/binary-all/venom.deb
-Size: 1436
-MD5Sum: 457c5afc9437a1084542caf5ce8b8555
-SHA1: c0c986653ecdef2053bb59b37f1483671e3d13de
-SHA256: 27e1fbb27ea59ca207ecb9522f6a7885ec287ccd93645e50bfbcae1624afa932
-SHA512: d990d9515aef4c4a5a09365e1971985b37653c9ad1f8131b5554e21c1945951bd66198eba610a988eabb5579765ff658c08f99570f4110793111d8bca41634e0
+Size: 1464
+MD5Sum: d68cf15110ac11841f8d59a1f6272520
+SHA1: 55eb86626a7d4b8b04971079a3efb6cc7bc2ed44
+SHA256: 5d71a5d88b3f4b257622114c47531d5a9cffb3d1e2282cf7fd02d26e1cb01379
+SHA512: 17060b57f0d0699a1901baeb14bd275f6d91b108157d173456bc4ae5e6b8195126076d57e062e0098a1d4cba334710320d03844c17c93d3770b9bb7adb8f8bad
 
 Package: webinfo
 Version: 3.0
