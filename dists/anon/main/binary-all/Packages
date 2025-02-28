@@ -305,6 +305,20 @@ SHA1: 16dbb64e78762dfdc26edd205c3e799a56e84a7b
 SHA256: 2ef98bfd352c0c1ec2694ff6bd5eecc839dd18210053d50b7281d8e1c52f1461
 SHA512: 64e30a42ebafc98f6e476572e0865944ea52862fca56f75b684b3b9170fe05688d7dc96528a3f3c30cd3e02c055a239a0d4c60b82510fc17434c87422336208a
 
+Package: gophish
+Version: 0.12.1-latest
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: golang 
+Homepage: https://getgophish.com/
+Description: Open-Source Phishing Toolkit
+Filename: dists/anon/main/binary-all/gophish.deb
+Size: 1156
+MD5Sum: 85b8470d5829ed523cb26019c1d5194c
+SHA1: c94ec99da91193b745d2e3d2df2180b8cb659b75
+SHA256: add0c2d5b2d878438c5fd17c920e062e25c882fb8dc1b6077835f2b46a1a7a81
+SHA512: 58a3bfd22123fe5036139a621c46d59bced70fb59b1d388941a740c7a1f7160e8a363497c404128d8d7f916ab5197e4f9209eb238feb5d8a9620cd87da2cae41
+
 Package: hashcat
 Version: 6.2.6
 Architecture: all
@@ -418,21 +432,6 @@ MD5Sum: 27d1de95c60bef8a354ac51fa4394986
 SHA1: 13da390f5e7dff90f8be33f11f9524013bf698d2
 SHA256: 06595bc12e85723596f9c1e027bed7a765211b95dbb5348a583a609a5e7e9c6b
 SHA512: d0f88ed660bade0ce4d614f77b4f27bb73073d69ab13a7a955225acab272a37f1c0eda7299b407faeb84fb66f76e1c3cb922e98c392236e0f80ecd3c05dc81dd
-
-Package: metasploit-framework
-Version: 6.4.44
-Architecture: all
-Maintainer: Alienkrishn [Anon4You]
-Installed-Size: 2
-Depends: build-essential, ruby, python, libcap, openjdk-17, termux-tools, autoconf, patchelf, binutils, bison, yarn, clang, coreutils, curl, findutils, gumbo-parser, apr, apr-util, postgresql, openssl, readline, libffi, libgmp, libpcap, libsqlite, libgrpc, libtool, libxml2, libxslt, make, ncurses-utils, ncurses, git, wget, unzip, xz-utils, zip, zlib, tar, termux-elf-cleaner, pkg-config, resolv-conf, aapt, apksigner, apktool
-Homepage: https://github.com/rapid7/metasploit-framework
-Description: Advanced open-source platform for developing, testing and using exploit code. (git-release installer)
-Filename: dists/anon/main/binary-all/metasploit-framework.deb
-Size: 4112
-MD5Sum: 6d119ef037250ecd62bce71ed6260163
-SHA1: 732a34f0c986f2353726fba2e8f894fa33930379
-SHA256: d0300add1568a85dd56c4762682aec112d8b0a609c784c6ea1e410285139f853
-SHA512: b754746c0a511406d930d26e32810557a42e86f12627bf243b164ffdb49bdeb76073be03d3b42feccbbfb988bf7faca78c2dc2d84c75a1c631293412abf66050
 
 Package: parrot
 Version: 6.3

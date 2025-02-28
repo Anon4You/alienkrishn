@@ -102,7 +102,6 @@ data/data/com.termux/files/usr/share/locateme/php/result.php                    
 data/data/com.termux/files/usr/share/locateme/php/style.css                      locateme
 data/data/com.termux/files/usr/share/locateme/style.css                          locateme
 data/data/com.termux/files/usr/bin/maskme                                        maskme
-data/data/com.termux/files/usr/bin/msfconsole                                    metasploit-framework
 data/data/com.termux/files/usr/bin/parrot                                        parrot
 data/data/com.termux/files/usr/bin/phoneinfo                                     phoneinfo
 data/data/com.termux/files/usr/bin/powerdos                                      powerdos

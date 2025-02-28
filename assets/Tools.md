@@ -24,6 +24,7 @@ The list of Available packages/tools in alienkrishn repo
 * enctool
 * evilginx
 * fscan
+* gophish
 * hashcat
 * instajack
 * ipinfo
