@@ -58,5 +58,4 @@ The list of Available packages/tools in alienkrishn repo
 * websploit
 * weeman
 * zaproxy
-* zipalign
 
