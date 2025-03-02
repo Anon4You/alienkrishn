@@ -1,0 +1,17 @@
+Package: zipalign
+Architecture: aarch64
+Installed-Size: 1391
+Breaks: aapt
+Conflicts: aapt
+Replaces: aapt
+Maintainer: Alienkrishn [Anon4You]
+Version: 34.0.0
+Homepage: https://github.com/rendiix/termux-zipalign
+Description: zip archive alignment tool
+Filename: dists/anon/main/binary-aarch64/zipalign_aarch64.deb
+Size: 160388
+MD5Sum: a231353fb30ebee9e6d1663167fcc046
+SHA1: 235f6e6ea79605397be342244b028833c65b752d
+SHA256: b6457323f7bce9ea454e3e27032789834a404f3882927767f634dc1e61a49b8d
+SHA512: 3fc844c1e57409dcf9308eb9010bde1bb1023019e8fde35e81a55b5b34219117417f34f0c9736c2678d2e4c899b902641d31badbb7350b9ddd1b538fdf7c8235
+
