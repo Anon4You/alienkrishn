@@ -445,6 +445,20 @@ SHA1: d3bb88375a9925fcc6127eab70484798891e1bfa
 SHA256: 6db3b48a38ef5f2c5d145efe7f74784d38f0ee31b8b67c24ca282c956beec923
 SHA512: 53a244a99a340b5b21d9b60e050764319a4c8e6a54ac5b49ba71855023c463974fcf660d8f026692251e377b41125c520a312a7d949632dee1e5f6e9edd05184
 
+Package: nethunter-cli
+Version: 2024091801
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: proot-distro
+Homepage: https://anon4you.github.io/kalilinux/
+Description: A simple Bash script to install Kali Linux on Termux
+Filename: dists/anon/main/binary-all/nethunter-cli.deb
+Size: 1468
+MD5Sum: 5a962df66fd6ddf32f7f5693fd1e1490
+SHA1: 89f8acf22925ed8fb36db436be9da570d84723e2
+SHA256: c9d8ce73be39125d71840211105f24f31484aa4fa5afb3b6016c20c9756ff58f
+SHA512: 7582a179c16bb2017c07105cb724ab23d8109ed61070366c3b67648c9500dd6e3305b658f215c98b233d122a3f9ffc9248fa5f8f4ee0d2eb528e85c3e31959af
+
 Package: parrot
 Version: 6.3
 Architecture: all

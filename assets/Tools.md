@@ -34,6 +34,7 @@ The list of Available packages/tools in alienkrishn repo
 * locateme
 * maskme
 * metasploit-framework
+* nethunter-cli
 * parrot
 * phoneinfo
 * powerdos
