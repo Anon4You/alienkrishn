@@ -70,20 +70,18 @@ SHA256: 6bfcc33871c2d33d493cbdc78353112b3c16f37c2795fa6fe9a125b5b0eae5ad
 SHA512: 26e899d97d941faf7b22fb554c67ffb588ba5bc05a18d33aa6f7aa531245f009bca1bf9bfacfaa7dc86eaa016227cceebfc68a63f2fc2dc0259c0576eb4287c9
 
 Package: apktool
-Version: 2.11.0
+Version: 2.7.0-dirty
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
-Installed-Size: 1
-Depends: openjdk-17, aapt, wget
-Suggests: apkeditor
-Homepage: https://bitbucket.org/iBotPeaches/apktool/src/master/
-Description: A tool for reverse engineering Android apk files
+Depends: proot-distro
+Homepage: https://apktool.org/
+Description: apktool in termux (proot environment)
 Filename: dists/anon/main/binary-all/apktool.deb
-Size: 1488
-MD5Sum: 3eaeb16336b961f7912b674a396ba7ad
-SHA1: ded4b6f31f727b0935ede4daab4f04b5ec6108c1
-SHA256: f92920f037cb417209b63bc5a7ca53992c7717317b300b9c85902c865facc453
-SHA512: 42531581419759191bcecd212e28d4815faf32987e2c888725184944d4485b6e9ca0f24bc270920fb52c200ccb71bbdf96c601daabb95b297f849781f1084299
+Size: 1324
+MD5Sum: 06ff77852a8853b17cf2afdbdb019d34
+SHA1: f99b54b6daf60ade1d90a9c2f2a75e9b8152c286
+SHA256: b3f2361affc8e81626e8008aa0ac5072fafaacd39b14e3b18e7f620d812e6d3e
+SHA512: 4f7192bceb284b809c065472a783e12f525dfc8452e4c14705f6e20df17211b035afe17bbf80a001915358530dfc02a417a4c4bcf4b60af6fe6c5cbef85b3508
 
 Package: beef
 Version: 0.5.4.0
