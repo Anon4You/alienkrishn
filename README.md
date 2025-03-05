@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/YouTube-Channel-red" alt="YouTube Channel">
   </a>
   <a href="https://github.com/Anon4You/alienkrishn/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-blue" alt="MIT License">
+    <img src="https://img.shields.io/badge/License-BSD 3 Clause-blue" alt="BSD 3-Clause License">
   </a>
   <a href="https://t.me/nullxvoid">
     <img src="https://img.shields.io/badge/Telegram-Join-green" alt="Telegram Channel">
