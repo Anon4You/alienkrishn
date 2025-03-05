@@ -27,14 +27,14 @@ For a full inventory of the tools and packages available, please refer to the [T
 To install any package from this repository, you can use either `apt` or `pkg`. 
 
 **Command Example:**
-```bash
-apt install alienkrishn -y
+```shell
+apt install <package_name> -y
 ```
 
 ## 🛠️ Adding the Repository to Your Termux Environment
 
 To integrate this repository into your Termux setup, run the following command:
-```bash
+```shell
 curl -sL https://github.com/Anon4You/alienkrishn/raw/main/addrepo | bash
 ```
 
