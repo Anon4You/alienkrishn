@@ -51,6 +51,7 @@ The list of Available packages/tools in alienkrishn repo
 * term-helper
 * termsploit
 * termux-desktop
+* termux-penv
 * thc-hydra
 * the-theif
 * venom

@@ -3901,6 +3901,14 @@ data/data/com.termux/files/home/.themes/Sweet-Dark-v40/gtk-2.0/assets/radio-unch
 data/data/com.termux/files/home/.themes/Sweet-Dark-v40/gtk-2.0/assets/radio-unchecked-hover.png termux-desktop
 data/data/com.termux/files/home/.themes/Sweet-Dark-v40/gtk-2.0/assets/radio-unchecked-insensitive.png termux-desktop
 data/data/com.termux/files/home/.themes/Sweet-Dark-v40/gtk-2.0/assets/radio-unchecked.png termux-desktop
+data/data/com.termux/files/usr/bin/termux-penv                                   termux-penv
+data/data/com.termux/files/usr/bin/tp                                            termux-penv
+data/data/com.termux/files/usr/share/termux-penv/termux32.sh                     termux-penv
+data/data/com.termux/files/usr/share/termux-penv/termux32login.sh                termux-penv
+data/data/com.termux/files/usr/share/termux-penv/termux32remove.sh               termux-penv
+data/data/com.termux/files/usr/share/termux-penv/termux64.sh                     termux-penv
+data/data/com.termux/files/usr/share/termux-penv/termux64login.sh                termux-penv
+data/data/com.termux/files/usr/share/termux-penv/termux64remove.sh               termux-penv
 data/data/com.termux/files/usr/bin/dpl4hydra                                     thc-hydra
 data/data/com.termux/files/usr/bin/hydra                                         thc-hydra
 data/data/com.termux/files/usr/bin/hydra-wizard                                  thc-hydra
