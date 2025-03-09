@@ -8,8 +8,8 @@ BLUE="\e[34m"
 RESET="\e[0m"
 CHECK="✅"
 CROSS="❌"
-INFO="❗"
-WARN="⚠️"
+INFO="${BLUE}>> ${RESET}"
+WARN="❗"
 
 # Function to handle errors
 handle_error() {
