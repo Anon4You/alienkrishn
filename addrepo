@@ -8,7 +8,7 @@ BLUE="\e[34m"
 RESET="\e[0m"
 CHECK="✅"
 CROSS="❌"
-INFO="${BLUE}>> ${RESET}"
+INFO=">> "
 WARN="❗"
 
 # Function to handle errors
