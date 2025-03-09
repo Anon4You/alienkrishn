@@ -7,9 +7,9 @@ YELLOW="\e[33m"
 BLUE="\e[34m"
 RESET="\e[0m"
 CHECK="✔️"
-CROSS="❌"
-INFO="ℹ️"
-WARN="⚠️"
+CROSS="❌ "
+INFO="ℹ️ "
+WARN="⚠️ "
 
 # Function to handle errors
 handle_error() {
