@@ -697,11 +697,11 @@ Installed-Size: 79
 Depends: wget, proot 
 Description: Termux Penv - Simplify Chroot Environments in Termux
 Filename: dists/anon/main/binary-all/termux-penv.deb
-Size: 4272
-MD5Sum: e4b9b699512d5d4ea38ced54c630cc83
-SHA1: fe3ace960f000645233e11395150a245830f0a0f
-SHA256: f92ae14ea881683e066a510546271a252e62270d4a629d124674a9ad23a97fb6
-SHA512: 28bd8afe79dcc9240e7f520be7ec4c1444796f4620065807cf80ab16ad9afc8428f4145037eb493f945a0987ef11303992e2c56e34a5e4616cfd5be3070cf3df
+Size: 1468
+MD5Sum: 2f334def86add3c44c8a7853bc0b86b4
+SHA1: 512a3063c5aca5219b5ce0aca758317a140d501c
+SHA256: bc8e23918a1accfda14712d11e04a83ed986cb9c3555bcaf4cf95fb0c2aca45a
+SHA512: 21d9bce75377de878a97c9a412472c662d06def2532a83f2d9aa182db2ed09f24b669775f4d95b77395db813029c893f449d25eebc0e8ecd239180f658211bdd
 
 Package: thc-hydra
 Architecture: all
