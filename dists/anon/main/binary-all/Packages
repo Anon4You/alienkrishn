@@ -333,6 +333,20 @@ SHA1: 38240e2f6f52658b763509a18feeb8b99782c953
 SHA256: 0bae1f9ad1045c6623ee3ec6ab8305b4817c159bbc3ca0741cff5f89d74f7d76
 SHA512: 8a49e91fd110638dfb99d3c6c5a24434a1495b359759fb5c7847e98305fefce40a672309fa47e9fb37f7bde980ed777381ed5c8f0bd25475b824b03129dbb0d0
 
+Package: hound
+Version: 0.2
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Homepage: https://github.com/Anon4You/hound
+Depends: git, php, nodejs
+Description: Simple and light tool for information gathering and capture exact GPS coordinates
+Filename: dists/anon/main/binary-all/hound.deb
+Size: 1552
+MD5Sum: 82b058b0d4f3a549d5c29869886f7285
+SHA1: b1d8fd67b46a125a19b0ee56d163e9dd73cd5499
+SHA256: 8f39d5ce6be43c86c85cbc4b6c25810ba23786268fe7ef1fc47eadd56b9b06a4
+SHA512: 77b3f2b74d94dc8031f60616eb4c46b149710b7a4cb2bc2329bc22d145bd6c87ef90ee2704949636255bee27760ab404801cef169ce4b70c2c59cb08f5c0fdd9
+
 Package: instajack
 Version: 1.0
 Architecture: all

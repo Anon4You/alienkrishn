@@ -27,6 +27,7 @@ The list of available packages/tools in the Alienkrishn repository:
 | **fscan**             | A fast network scanner for discovering hosts and services.                  |
 | **gophish**           | An open-source phishing framework for security awareness training.          |
 | **hashcat**           | A powerful password cracking tool for recovering lost passwords.            |
+| **hound**             | A simple and light tool for information gathering and capture exact GPS coordinates |
 | **instajack**         | A tool for hijacking Instagram accounts.                                    |
 | **ipinfo**            | A tool for gathering information about IP addresses.                        |
 | **iplookup**          | A tool for performing IP geolocation lookups.                               |
