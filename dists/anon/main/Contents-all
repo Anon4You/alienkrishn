@@ -151,7 +151,6 @@ data/data/com.termux/files/usr/share/slowhttptest/src/socket.h                  
 data/data/com.termux/files/usr/share/slowhttptest/src/text-generator.cc          slowhttptest
 data/data/com.termux/files/usr/share/slowhttptest/src/text-generator.h           slowhttptest
 data/data/com.termux/files/usr/share/slowhttptest/src/text_gen_test.cc           slowhttptest
-data/data/com.termux/files/usr/bin/snatcher                                      snatcher
 data/data/com.termux/files/usr/bin/spider                                        spider
 data/data/com.termux/files/usr/lib/spider/main.py                                spider
 data/data/com.termux/files/usr/lib/spider/report/report.py                       spider

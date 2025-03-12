@@ -588,19 +588,18 @@ SHA256: f7dc817cdc976ea05b16c58e2d2efe61e352519e4499c546c78a46fd18025b49
 SHA512: 8f16c05408d3383a5cfbaa2e2c7851f04562b3986a9091ad28aefd410e08e3189d2321e9d77fe1d6776d736edde71663168b56d1036696a71934ed19724484ba
 
 Package: snatcher
-Version: 1.0.1
+Version: 1.0.2
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
-Depends: git, curl, php, openssh, python, python-pip, nodejs
-Homepage: https://github.com/Anon4You/Snatcher 
-Installed-Size: 2
-Description: hack phone camera by sending a link
+Homepage: https://github.com/Anon4You/snatcher
+Depends: git,php,curl,nodejs,python,python-pip,openssh,cloudflared
+Description: Snatcher - Capture Images from Victim's Camera
 Filename: dists/anon/main/binary-all/snatcher.deb
-Size: 1552
-MD5Sum: 3fd974ff78aa222c7713c7f14533505d
-SHA1: eb287b53d4dfd75aedb5d3ed48ad8c34b13545d0
-SHA256: ca94af61f9bc5dbe05880d5eaa3eef5d7d9b263c5cb6d29feac4a2c7a84d47eb
-SHA512: 3803bf397d7253dc317008f14c74f5fc0a11bed69b6bb9d5916f6e68cf6bc99f8c5f6e3ea2612e7038546eeaca6b05e047d2a9fdf89019384c36573b8aa0b8cd
+Size: 1104
+MD5Sum: da56560a8d96e5d8f42977540a1d9e4b
+SHA1: feb397a33d00957c60efcd9e7301e5146ae6708d
+SHA256: 374d7ee3e67621eb7ed5e93bfa57ed22b8fa3911b3b0d2b5ca3e833057f15ab3
+SHA512: c2253ba926b20eb0ab769152d4aaf64a62b6db08f56bb7f071abcfc0d3069064b728103be9e505453d7ed1a32690798f6885f136965c16d14efca7cb0e6614cf
 
 Package: spider
 Version: 1.0
