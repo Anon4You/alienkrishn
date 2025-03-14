@@ -4,6 +4,7 @@ The list of available packages/tools in the Alienkrishn repository:
 
 | Package               | Descriptions                                                                 |
 |-----------------------|-----------------------------------------------------------------------------|
+| **5lusrr**            | A python based script to get unlimited 5 letters instagram unused usernames |
 | **afrog**             | A fast and lightweight vulnerability scanner for web applications.           |
 | **alienkrishn**       | The main package for the Alienkrishn repository, providing essential tools. |
 | **androdos**          | A tool for stress testing Android devices by simulating DoS attacks.         |
