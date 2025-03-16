@@ -12,20 +12,6 @@ SHA1: f58fcb419b4a225e2c5e6ad6a26da943a33663c1
 SHA256: 48765e8c9a30ce7e06ac9621af4d4a5a73d37552a13fe1d12876cdacf8689f07
 SHA512: 6de514c680bd5bf0fe831e685be0a7da7d429cb3190ae29949c2efcade7440420a88d4ad89a18f915b96d1f3eb3f728cffb530aabdc9259a7b197f83f79125da
 
-Package: RKPairip
-Version: 2.2
-Architecture: all
-Maintainer: Alienkrishn [Anon4You]
-Depends: curl, git ,python, python-pip, openjdk-17, apksigner
-Homepage: https://github.com/TechnoIndian/RK_Pairip 
-Description: Recover String & Rebuild Apk
-Filename: dists/anon/main/binary-all/RKPairip.deb
-Size: 872
-MD5Sum: 47f2f681e93173bf49c9f543726ecc19
-SHA1: 996b073e3445272900ec1b439a812d5d9249c965
-SHA256: 5c762c381d92333e9b77e84caeaefcbc786221687ae5f941f8ad89ff4981bce9
-SHA512: 617451ec1692c04772ed4ec7ae90b336bca85286b9550309ac14285f9057714113ee936d95ddf15b43053fb4a2be238f0dfefab40cf4a566697df0c6ac0daf3d
-
 Package: afrog
 Version: 3.1.5
 Architecture: all
@@ -572,6 +558,20 @@ MD5Sum: 2be5dfd05e083ca9ce171dfe849baf97
 SHA1: e28e113235d1938aa13776a9fce955e63b9b88d0
 SHA256: 7ceab76c89a0655fd5537b1a003460d6d4eaab0a8f7e17ccaed6dbe4d200994f
 SHA512: a20999c0df5c59b2f5447b5c95b0a2dd4ce4627638b6a4d1b26a5d8349a387485391eccaee2a4d30ea7860c9ec52d86a554328d8236a3882d73712d88b10c642
+
+Package: rkpairip
+Version: 2.2
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: curl, git ,python, python-pip, openjdk-17, apksigner
+Homepage: https://github.com/TechnoIndian/RK_Pairip 
+Description: Recover String & Rebuild Apk
+Filename: dists/anon/main/binary-all/rkpairip.deb
+Size: 944
+MD5Sum: 2892df59299560f0d5e9c74f1c3b5665
+SHA1: 6788c40ce065cc1730d1446fff4188df0111a098
+SHA256: 4fc5e04fe1ea234182b4afe960425d1e32e3c7bc54c2b494f426e88d959a4f50
+SHA512: bf4f29e1a9a984ccf777dfe3b978d68fb9bbff47b63250f9a6254b018fc21236fa11781f0b4315498d20187e874f5b2e7504c024ebf23e1a4598861200d30638
 
 Package: setoolkit
 Version: 8.0.3

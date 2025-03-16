@@ -5,7 +5,6 @@ The list of available packages/tools in the Alienkrishn repository:
 | Package               | Descriptions                                                                 |
 |-----------------------|-----------------------------------------------------------------------------|
 | **5luser**            | A python based script to get unlimited 5 letters instagram unused usernames |
-| **RKPairip**          | A tool for patching apk files by TechnoIndian, Recover String & Rebuild Apk |
 | **afrog**             | A fast and lightweight vulnerability scanner for web applications.           |
 | **alienkrishn**       | The main package for the Alienkrishn repository, providing essential tools. |
 | **androdos**          | A tool for stress testing Android devices by simulating DoS attacks.         |
@@ -44,6 +43,7 @@ The list of available packages/tools in the Alienkrishn repository:
 | **powerdos**          | A tool for performing denial-of-service attacks.                            |
 | **random-banner**     | A tool for generating random banners and ASCII art.                         |
 | **redhawk**           | A tool for reconnaissance and information gathering.                        |
+| **rkpairip**          | A tool for patching apk files by TechnoIndian, Recover String & Rebuild Apk |
 | **setoolkit**         | The Social-Engineer Toolkit, used for social engineering attacks.           |
 | **shorturl**          | A tool for generating and analyzing short URLs.                             |
 | **slowhttptest**      | A tool for performing slow HTTP denial-of-service attacks.                  |
