@@ -30,6 +30,7 @@ The list of available packages/tools in the Alienkrishn repository:
 | **hashcat**           | A powerful password cracking tool for recovering lost passwords.            |
 | **hound**             | A simple and light tool for information gathering and capture exact GPS coordinates |
 | **instajack**         | A tool for hijacking Instagram accounts.                                    |
+| **ip-changer**        | A powerful and easy-to-use tool to change your IP address automatically using Tor and Privoxy |
 | **ipinfo**            | A tool for gathering information about IP addresses.                        |
 | **iplookup**          | A tool for performing IP geolocation lookups.                               |
 | **john**              | John the Ripper, a fast password cracker.                                   |

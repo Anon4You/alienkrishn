@@ -375,6 +375,20 @@ SHA1: 8d62d585b139dff494bd7aa0e4b4396593c28993
 SHA256: 5c660a23136fbfe58796188eb97eb4a15da78cdcaaf1f71659d2c66e01e3fff4
 SHA512: 8b4edfffa675ea01a091ddb6aa296869f7faacc67bb5ce360218ac67f227555b514145069c2893589d7d7ab155f2386a899c93cad384649fed536efb043b9c2f
 
+Package: ip-changer
+Version: 1.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Homepage: https://github.com/Anon4You/Ip-Changer 
+Depends: git,curl,tor,privoxy,netcat-openbsd 
+Description: A powerful and easy-to-use tool to change your IP address automatically
+Filename: dists/anon/main/binary-all/ip-changer.deb
+Size: 1408
+MD5Sum: bbeaacfa6590775999913d05bea48a1a
+SHA1: 0bed424a09cc403c60282d3a87c169d28808e42b
+SHA256: abe9e47f8283051a17e84b69afecb1be436796f1d16cbc16a8fd977ab6e811f4
+SHA512: d3752f2f52af311aaef273cd2d81bd66be2c7f9ecb925490bf2daf89ff32ee478003a9f6e21825a993436ec2973874ff7f8bfe52b3c92cd401e1a10e15bb7fbb
+
 Package: ipinfo
 Version: 1.0
 Architecture: all
