@@ -759,19 +759,18 @@ SHA256: bc8e23918a1accfda14712d11e04a83ed986cb9c3555bcaf4cf95fb0c2aca45a
 SHA512: 21d9bce75377de878a97c9a412472c662d06def2532a83f2d9aa182db2ed09f24b669775f4d95b77395db813029c893f449d25eebc0e8ecd239180f658211bdd
 
 Package: thc-hydra
+Version: 9.5-latest
 Architecture: all
-Installed-Size: 1588
 Maintainer: Alienkrishn [Anon4You]
-Version: 9.5
-Homepage: https://github.com/vanhauser-thc/thc-hydra
-Depends: libidn, libgcrypt, libssh, libssh2, openssl, openssl-1.1, pcre, pcre2, zlib
-Description: hydra
+Homepage: https://github.com/vanhauser-thc/thc-hydra 
+Depends: git, make, clang, openssl, libssh
+Description: Hydra a fast and flexible brute-force password-cracking tool
 Filename: dists/anon/main/binary-all/thc-hydra.deb
-Size: 427528
-MD5Sum: f19b887e242a68d01a760a2eec23381a
-SHA1: 7dcbcc4f56c786be70dc8944a9c1c50e928f5bd5
-SHA256: 2bc4121313311587fb3b28975474a8ee596d86be8e9ee3651c75dd9c474bf280
-SHA512: 7542dd660ef4bb440e5176c230b7e113454e2d3cc4ad61aefc25c3ca2fcb392939c1f0a2bce58f358d06f55658d4ad346fb04efcebd20274c51013e3ff8a12c4
+Size: 1108
+MD5Sum: 5d3241c44f78eb899f839926023cd4af
+SHA1: 8fce6efa511bd8425a8be20269f52713950affef
+SHA256: 2d2f814039095e2f35537bb5e9505e1bfe3b73b54bf1b9e5461cc50217f36349
+SHA512: 544f391bfb457352bd77aaf68d50e0a9bbe941e66dadba6baaa6672dd3db7b9fd5c85cbf0e84444adf7606722307f6aa3307a814c6dc2e646dcad87c25208cd0
 
 Package: the-theif
 Version: 1.2
