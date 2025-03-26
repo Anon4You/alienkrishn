@@ -1,49 +1,67 @@
 <div align="center">
-  <a href="https://anon4you.github.io/alienkrishn/" />
-    <img alt="ollama" height="200px" src="assets/img.png"/>
+  <a href="https://anon4you.github.io/alienkrishn/">
+    <img alt="AlienKrishn" height="200" src="assets/img.png">
+  </a>
+  <h1>Termux Custom APT Repository</h1>
+  <p>Enhance your Termux experience with powerful tools not available in official repositories</p>
 </div>
-<h1 align="center">Termux Custom APT Repository</h1>
 
 <p align="center">
   <a href="https://youtube.com/@alienkrishnorg">
-    <img src="https://img.shields.io/badge/YouTube-Channel-red" alt="YouTube Channel">
+    <img src="https://img.shields.io/badge/YouTube-@alienkrishnorg-FF0000?logo=youtube" alt="YouTube">
   </a>
   <a href="https://github.com/Anon4You/alienkrishn/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-BSD 3-blue" alt="BSD 3-Clause License">
+    <img src="https://img.shields.io/badge/License-BSD_3--Clause-blue" alt="License">
   </a>
   <a href="https://t.me/nullxvoid">
-    <img src="https://img.shields.io/badge/Telegram-Join-green" alt="Telegram Channel">
+    <img src="https://img.shields.io/badge/Telegram-Join_Channel-26A5E4?logo=telegram" alt="Telegram">
+  </a>
+  <a href="https://www.instagram.com/alienkrishn">
+    <img src="https://img.shields.io/badge/Instagram-@alienkrishn-E4405F?logo=instagram" alt="Instagram">
   </a>
 </p>
 
-## 📖 Summary
+## 🔍 Overview
 
-This repository is crafted specifically for **Termux** users, offering a range of tools and packages that are not available in the official Termux repository. It provides an extended resource for those looking to enhance their Termux capabilities, featuring over **35 hacking utilities**.
+This repository serves as an extended package source for Termux users, providing specialized tools and utilities not found in the official repositories. Currently featuring **35+ hacking and security tools**, it's perfect for penetration testers, security researchers, and tech enthusiasts.
 
-For a full inventory of the tools and packages available, please refer to the [Tools Documentation](https://github.com/Anon4You/alienkrishn/blob/main/assets/Tools.md).
+## 📦 Available Tools
 
-## 🚀 Installation Guide
+Explore our comprehensive collection of tools in the [Tools Documentation](https://github.com/Anon4You/alienkrishn/blob/main/assets/Tools.md).
 
-To install any package from this repository, you can use either `apt` or `pkg`. 
+## 🛠️ Installation
 
-**Command Example:**
-```shell
-apt install <package_name> -y
-```
-
-## 🛠️ Adding the Repository to Your Termux Environment
-
-To integrate this repository into your Termux setup, run the following command:
-```shell
+### Add the Repository
+To add this repository to your Termux installation, run:
+```bash
 curl -sL https://github.com/Anon4You/alienkrishn/raw/main/addrepo | bash
 ```
 
-## 🤝 Support the Developer
+### Install Packages
+After adding the repository, install packages using either:
+```bash
+apt install <package_name> -y
+# or
+pkg install <package_name> -y
+```
 
-If you appreciate my work, please consider supporting me by subscribing to my channels—it's free of charge! 
+## ❓ Frequently Asked Questions
 
-- [Instagram](https://www.instagram.com/alienkrishn)
-- [YouTube Channel](https://youtube.com/@alienkrishnorg)
-- [Telegram Channel](https://t.me/nullxvoid)
+**Q: Is this repository safe to use?**  
+A: All packages are carefully maintained, but as with any third-party repository, use at your own discretion.
 
-Thank you for your support! 😊
+**Q: How often are packages updated?**  
+A: We strive to keep packages updated regularly. Check our Telegram channel for update announcements.
+
+## 💖 Support the Project
+
+If you find this repository useful, please consider supporting our work:
+- ⭐ Star this repository
+- 📺 Subscribe to our [YouTube Channel](https://youtube.com/@alienkrishnorg)
+- 📢 Join our [Telegram Channel](https://t.me/nullxvoid)
+- 📸 Follow on [Instagram](https://www.instagram.com/alienkrishn)
+
+Your support helps us maintain and improve this repository!
+
+## 📜 License
+This project is licensed under the [BSD 3-Clause License](https://github.com/Anon4You/alienkrishn/blob/main/LICENSE).
