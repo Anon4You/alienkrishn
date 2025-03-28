@@ -5,6 +5,11 @@ This repository provides specialized security and penetration testing tools for 
 
 ## 🛠️ Tools Catalog
 
+### 🤖 AI & Productivity
+| Tool          | Description |
+|--------------|------------|
+| **termux-ai**| Your AI companion in Termux - Access cutting-edge AI models directly from your Android terminal with this feature-rich assistant |
+
 ### 🔍 Information Gathering
 | Tool          | Description |
 |--------------|------------|
