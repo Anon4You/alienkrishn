@@ -730,18 +730,18 @@ SHA256: eadbf331a7b4b37730ffe3c071c61599f6ae39882c61651a52851de9817cc8a5
 SHA512: 94ff3724bb2622d5d2688c977d6562b9a059f501df6e82a57333cb92aa37382317e606a509e81a9a5fb7a58538f5253cd31762d07720b812f53e92769411f7fc
 
 Package: termux-ai 
-Version: 1.7
+Version: 2.0
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
 Depends: curl, jq, bc 
 Homepage: https://github.com/Anon4You/Termux-Ai 
 Description: Your AI companion in Termux
 Filename: dists/anon/main/binary-all/termux-ai.deb
-Size: 1172
-MD5Sum: 0f04e82354200a9b762cbf0cdbf0986e
-SHA1: e5570454b6801e81d8dfbafd5de1cfb049424bfc
-SHA256: c2e00a7c3fa8e4a70d08ced87f000fd07d318776d463c6c3151054cac228ef3a
-SHA512: 2cd57586cb12d64f863537768015e2c90adbe284133f728c4e51ae1121bd75958b1ed17fce13155d39cad733711d33d1d24ab8d57ff5a1fc5d7978a101ecc559
+Size: 1176
+MD5Sum: 0bbe40fb61d50ed50a7c741d93fb2a8b
+SHA1: b98497f202173f37630fa0788f9f70eb51b2c771
+SHA256: 8c6874f05647db238a188301cdc75da6e659f9412f4585e13d3c8c45ac4012ce
+SHA512: 314e2eb835231d287a5cf36b0958b69a0ffb8a8d253c5deb4102490c03b503e08fc3d79b2da67b45ab8ecd5e667518aba9caa4b2e72091366d8df6131c9459e6
 
 Package: termux-desktop
 Version: 1.0.2
