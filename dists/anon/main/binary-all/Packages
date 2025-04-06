@@ -317,6 +317,21 @@ SHA1: f6e058a1cba277ad20e9c723a3e247465ebd3843
 SHA256: 6d06b212ab8d7773245d1bfadb6817a4cf6b4113a60b1c66baafbeff42925a39
 SHA512: 56c8a3131a94f4f88f2ed665e515696ecb52b05712726e3e9e4c59ed3305af02236870641e293def9cb02dd08565de11b99505b7a25f827ebff6eddb90339fb3
 
+Package: flutter
+Version: 3.24.1
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Homepage: https://github.com/flutter/flutter 
+Depends: which, gtk3, fontconfig, xorgproto, ninja, cmake, clang, pkg-config, wget, tar, git
+Pre-Depends: x11-repo
+Description: Flutter in termux..
+Filename: dists/anon/main/binary-all/flutter.deb
+Size: 1212
+MD5Sum: a66d545dfc7010b4e818afef9584fa16
+SHA1: 92aa3e8dc83a09efaa28a2582f01ce7e7aa5a1f1
+SHA256: 039af2ee99e57e7a8851f6ac6f8cea17947bf98dc98744302a8cc730dcd578c2
+SHA512: 908d63a63947137cf2bee51b5d14088ee4b45c60782cc890a31fe56ac392674612bb30b593b9a6c6b36eda2e5c49b3c8033e15f7db905d598391142bb3398b27
+
 Package: fscan
 Version: 1.8.4
 Architecture: all

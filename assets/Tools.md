@@ -9,6 +9,7 @@ This repository provides specialized security and penetration testing tools for 
 | Tool          | Description |
 |--------------|------------|
 | **android-sdk**   | Official Android SDK - Complete command-line IDE for Android development. Includes:<br>• ADB (Android Debug Bridge)<br>• Fastboot<br>• Build tools<br>• Platform tools<br>• Emulator support<br>• SDK manager |
+| **flutter**       | Google's open-source UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase. Includes:<br>• Dart programming language<br>• Hot reload functionality<br>• Cross-platform development<br>• Rich widget library |
 
 ### 🤖 AI & Productivity
 | Tool          | Description |
