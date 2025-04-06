@@ -54,6 +54,20 @@ SHA1: e76ae65a498f07069e5b7b534bf0a9a6800ed8b5
 SHA256: 51e84baf09d610ef29ebe83d7f9aca9127b931f5b70562b729d2f12d89081732
 SHA512: 697cdf3bd16345f8177c63fdb08f124328d1af65bee59a50c1f17d5b757b14e9baceca51739f4611e076fde6b6acba59d96ef580dff059aebf5bc05e5bafe337
 
+Package: android-sdk
+Architecture: all
+Version: 13114758-latest
+Maintainer: Alienkishn [Anon4You]
+Homepage: https://developer.android.com/tools 
+Depends: wget, openjdk-17, gradle, kotlin, aapt2
+Description: Official command line Integrated Development Environment (IDE) for Android app Development
+Filename: dists/anon/main/binary-all/android-sdk.deb
+Size: 2220
+MD5Sum: d943e41acd45d75d21bd897753b3de56
+SHA1: 12a414cddcab0b361adfbaa9c9d3e17b42fc6c66
+SHA256: f5511ebbde1194a68fdf658f2ebf2e4aa55091f6c6656f00b5a04c41c5b7e97c
+SHA512: c49ce030d1bbf42180fe6d6b0a6d696c32a411d32081d35cbf54505ec93dc9ec97304e4767c83ed0e3bc8049eb44d43d21f24d1556464cf01362fcdedb80c0c1
+
 Package: androvirus
 Version: 2.0.2
 Architecture: all

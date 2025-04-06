@@ -5,6 +5,11 @@ This repository provides specialized security and penetration testing tools for 
 
 ## 🛠️ Tools Catalog
 
+### 📱 Mobile Development 
+| Tool          | Description |
+|--------------|------------|
+| **android-sdk**   | Official Android SDK - Complete command-line IDE for Android development. Includes:<br>• ADB (Android Debug Bridge)<br>• Fastboot<br>• Build tools<br>• Platform tools<br>• Emulator support<br>• SDK manager |
+
 ### 🤖 AI & Productivity
 | Tool          | Description |
 |--------------|------------|
