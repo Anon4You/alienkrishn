@@ -321,16 +321,16 @@ Package: flutter
 Version: 3.24.1
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
-Homepage: https://github.com/flutter/flutter 
+Homepage: https://github.com/mumumusuc/termux-flutter 
 Depends: which, gtk3, fontconfig, xorgproto, ninja, cmake, clang, pkg-config, wget, tar, git
 Pre-Depends: x11-repo
 Description: Flutter in termux..
 Filename: dists/anon/main/binary-all/flutter.deb
-Size: 1212
-MD5Sum: a66d545dfc7010b4e818afef9584fa16
-SHA1: 92aa3e8dc83a09efaa28a2582f01ce7e7aa5a1f1
-SHA256: 039af2ee99e57e7a8851f6ac6f8cea17947bf98dc98744302a8cc730dcd578c2
-SHA512: 908d63a63947137cf2bee51b5d14088ee4b45c60782cc890a31fe56ac392674612bb30b593b9a6c6b36eda2e5c49b3c8033e15f7db905d598391142bb3398b27
+Size: 1220
+MD5Sum: 59d0fc1e4c264eab09ab104bd9312de3
+SHA1: 285a54e436c043f48a97ea3b64787a78dac0567c
+SHA256: a59a70dfe682b3a4f2682dcb708a3d47a20a60b60d61c8409d552b36316094b3
+SHA512: 00db27c322e63e6153ca422f421fa8c6270e1fbb9a2619e5fd83b30404c659fce8266b540a89a5d2db5f92066bd4894b55add1a9eb03ee2a57402836ec66673f
 
 Package: fscan
 Version: 1.8.4
