@@ -15,6 +15,7 @@ This repository provides specialized security and penetration testing tools for 
 | Tool          | Description |
 |--------------|------------|
 | **termux-ai**| Your AI companion in Termux - Access cutting-edge AI models directly from your Android terminal with this feature-rich assistant |
+| **termux-media-downloader** | High-performance media downloader for Termux combining power and simplicity. Features:<br>• Multi-threaded downloads<br>• Video/audio extraction<br>• Playlist support<br>• Resume capability |
 
 ### 🔍 Information Gathering
 | Tool          | Description |

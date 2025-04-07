@@ -786,6 +786,20 @@ SHA1: 703e74092435ad5d49fc2d38daed30c66c14e7ca
 SHA256: 465b825bc4aa5112db03b37f097200bd5df025011c861d75433f93747fdc1a7b
 SHA512: 1c24e8797625a1f07052b284d41d5632fe7a4437ecfe116c683cacdc542837231c48303420d4416230cd1dfddfbff8bf3dd7f561d942fb249d5116cd5fcfc734
 
+Package: termux-media-downloader
+Version: 2.1
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Homepage: https://github.com/Anon4You/Termux-Media-Downloader
+Depends: curl, python, python-pip, ffmpeg
+Description: A high-performance media downloader for Termux
+Filename: dists/anon/main/binary-all/termux-media-downloader.deb
+Size: 1352
+MD5Sum: d02d58deb7b384c93beb88cd82919dcf
+SHA1: 61b211047df90607b0203b3481681567bc008e36
+SHA256: e7b67bd6a603760f09012c909b4ddf1291b0cf50a774c71cddbbf8798d684948
+SHA512: 42aaa43e7e2f5c61351c569e3e1fde527880259334cd59add66cc938b34af84b8885bc7c673381e75e21790216f9f8b3b9e960a452c07feea3340d932811b15e
+
 Package: termux-penv
 Version: 1.1
 Architecture: all
