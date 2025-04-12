@@ -56,17 +56,17 @@ SHA512: 697cdf3bd16345f8177c63fdb08f124328d1af65bee59a50c1f17d5b757b14e9baceca51
 
 Package: android-sdk
 Architecture: all
-Version: 13114758-latest
+Version: 13114758-patch
 Maintainer: Alienkishn [Anon4You]
 Homepage: https://developer.android.com/tools 
 Depends: wget, openjdk-17, gradle, kotlin, aapt2
 Description: Official command line Integrated Development Environment (IDE) for Android app Development
 Filename: dists/anon/main/binary-all/android-sdk.deb
-Size: 2220
-MD5Sum: d943e41acd45d75d21bd897753b3de56
-SHA1: 12a414cddcab0b361adfbaa9c9d3e17b42fc6c66
-SHA256: f5511ebbde1194a68fdf658f2ebf2e4aa55091f6c6656f00b5a04c41c5b7e97c
-SHA512: c49ce030d1bbf42180fe6d6b0a6d696c32a411d32081d35cbf54505ec93dc9ec97304e4767c83ed0e3bc8049eb44d43d21f24d1556464cf01362fcdedb80c0c1
+Size: 2092
+MD5Sum: 3b05f76b6ad017d5f3cb8db673b6ad76
+SHA1: ce614611caed7248e1dc9d3b492f0ad6786bdd77
+SHA256: d8211d39edceac19e3653b734a7fa3919a2e1be901fb2952139028dd6837548b
+SHA512: 5d2aa3ecab8ddf4db1d5e08c2f322524d5244ce4b91bceca8e0e0da534bce60d15006ad4ec2a1fc7b2e58930180b9b62c34eae5285b3fef56da6950eb4cd6471
 
 Package: androvirus
 Version: 2.0.2
@@ -316,21 +316,6 @@ MD5Sum: 43ce7db5740431ba4f68ef8587c53d8d
 SHA1: f6e058a1cba277ad20e9c723a3e247465ebd3843
 SHA256: 6d06b212ab8d7773245d1bfadb6817a4cf6b4113a60b1c66baafbeff42925a39
 SHA512: 56c8a3131a94f4f88f2ed665e515696ecb52b05712726e3e9e4c59ed3305af02236870641e293def9cb02dd08565de11b99505b7a25f827ebff6eddb90339fb3
-
-Package: flutter
-Version: 3.24.1
-Architecture: all
-Maintainer: Alienkrishn [Anon4You]
-Homepage: https://github.com/mumumusuc/termux-flutter 
-Depends: which, gtk3, fontconfig, xorgproto, ninja, cmake, clang, pkg-config, wget, tar, git
-Pre-Depends: x11-repo
-Description: Flutter in termux..
-Filename: dists/anon/main/binary-all/flutter.deb
-Size: 1220
-MD5Sum: 59d0fc1e4c264eab09ab104bd9312de3
-SHA1: 285a54e436c043f48a97ea3b64787a78dac0567c
-SHA256: a59a70dfe682b3a4f2682dcb708a3d47a20a60b60d61c8409d552b36316094b3
-SHA512: 00db27c322e63e6153ca422f421fa8c6270e1fbb9a2619e5fd83b30404c659fce8266b540a89a5d2db5f92066bd4894b55add1a9eb03ee2a57402836ec66673f
 
 Package: fscan
 Version: 1.8.4
