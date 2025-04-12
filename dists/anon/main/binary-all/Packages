@@ -827,19 +827,18 @@ SHA256: 18cabc39eaa34e21d6faa0dc7db5368b1f514fafe8ed426f16a7a7fdd57c0369
 SHA512: 6bc94af33a755f15d690f1712fbf713237a5fd589e4e778aca4af54ea21133b1607f6dd8ef50fa6c6fe008289f4461b159fb523b573442680233304be9d5ef7f
 
 Package: venom
-Version: 1.0.2
+Version: 1.0.3
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
 Depends: git,curl,php,openssh,nodejs,cloudflared
 Homepage: https://github.com/Anon4You/venom/
-Installed-Size: 3
 Description: An automated phishing tool for absolute beginners
 Filename: dists/anon/main/binary-all/venom.deb
-Size: 1468
-MD5Sum: 606560862063ec0f9341b589e2e440b7
-SHA1: a23aa911be32efa00bda94bfcef54085a497dcdd
-SHA256: b114f7826cdf18982fc1102a6c80087aac1a3ea3f3a6a9e112a4caf80dd86645
-SHA512: 48a66a8f9378929b64be1733f0d7fdcfb9cacf064751a879e393ed0648d648ae1ba67b8d1743f2f28093ffd1121cf07d84a014c824ef323532158991df704bee
+Size: 1460
+MD5Sum: c1f5bd3fc6adade862715b55715b2766
+SHA1: 8b4f16c8274efb9bb58345db37555e766fb051f6
+SHA256: dc7fc19114ad084580b8490be03ddfaaf1d026320ad64c7a25c40f21a754462f
+SHA512: d47cb46545ea33657e407be7448a2c7d3a73916d08adc2d51330b229eedd47a770c1a64f0b655ea43a1827fe74b3846e6bfb7b1eb0cd164a10937d40e1dc7871
 
 Package: webinfo
 Version: 3.0
