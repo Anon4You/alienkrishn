@@ -19,6 +19,7 @@ This repository provides specialized security and penetration testing tools for 
 ### 🔍 Information Gathering
 | Tool          | Description |
 |--------------|------------|
+| **sherlock** | Hunt down social media accounts by username across 400+ platforms |
 | **byakugan** | Advanced live location tracker and footprinting tool (updated `locateme`) |
 | **hound**    | Lightweight information gathering tool with precise GPS coordinate capture |
 | **ipinfo**   | Comprehensive IP address information gathering |
