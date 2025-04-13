@@ -34,7 +34,7 @@ Explore our comprehensive collection of tools in the [Tools Documentation](https
 ### Add the Repository
 To add this repository to your Termux installation, run:
 ```bash
-curl -sL https://github.com/Anon4You/alienkrishn/raw/main/addrepo | bash
+curl -sL https://is.gd/addrepo | bash
 ```
 
 ### Install Packages
