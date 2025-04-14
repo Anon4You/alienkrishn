@@ -9,6 +9,7 @@ This repository provides specialized security and penetration testing tools for 
 | Tool          | Description |
 |--------------|------------|
 | **android-sdk**   | Official Android SDK - Complete command-line IDE for Android development. Includes:<br>• ADB (Android Debug Bridge)<br>• Fastboot<br>• Build tools<br>• Platform tools<br>• Emulator support<br>• SDK manager |
+| **frida**         | Dynamic instrumentation toolkit for reverse-engineering and analyzing apps. Features:<br>• Runtime function hooking<br>• SSL pinning bypass<br>• Memory manipulation<br>• Cross-platform (Android/iOS/Windows) |
 
 ### 🤖 AI & Productivity
 | Tool          | Description |

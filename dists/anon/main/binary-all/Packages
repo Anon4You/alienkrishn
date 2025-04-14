@@ -317,6 +317,20 @@ SHA1: f6e058a1cba277ad20e9c723a3e247465ebd3843
 SHA256: 6d06b212ab8d7773245d1bfadb6817a4cf6b4113a60b1c66baafbeff42925a39
 SHA512: 56c8a3131a94f4f88f2ed665e515696ecb52b05712726e3e9e4c59ed3305af02236870641e293def9cb02dd08565de11b99505b7a25f827ebff6eddb90339fb3
 
+Package: frida
+Version: 16.7.10
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Homepage: https://github.com/frida
+Depends: git, python, wget
+Description: Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+Filename: dists/anon/main/binary-all/frida.deb
+Size: 1556
+MD5Sum: 2435c627351e9a4d904c638088fd9e69
+SHA1: d6587fa23c63cd8b8927b2c0122b729c71017b91
+SHA256: d85bf824fd6f3b9af99ea296c2ee8a0af985c07f9e206f61f0d15d087f7dcfe7
+SHA512: 86c9c41512f5d6a614cd5464cc81870c9222f17b2b11d8979ad2e5b9148dedeb88bfc96bd3c7d55799cc1e67fdbacd79f7f50e99c64fb3e33b873032a80d88ee
+
 Package: fscan
 Version: 1.8.4
 Architecture: all
