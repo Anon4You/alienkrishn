@@ -514,18 +514,18 @@ SHA256: f5ef87e656eb48fcf7fa9766765b9c6b78b1b4ac3f812d737d8304071aaf73d7
 SHA512: 669281800b3a29c43a4e04f1a45627d7ab7d16d7067fe0686242de2afff871b4eabd3660dc4f2dd5d225e663549b4bf6135c61d2d236238cb9795f573d7ff227
 
 Package: nethunter-cli
-Version: 2024091801
+Version: 2025.1
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
 Depends: proot-distro
 Homepage: https://anon4you.github.io/kalilinux/
 Description: A simple Bash script to install Kali Linux on Termux
 Filename: dists/anon/main/binary-all/nethunter-cli.deb
-Size: 1468
-MD5Sum: 5a962df66fd6ddf32f7f5693fd1e1490
-SHA1: 89f8acf22925ed8fb36db436be9da570d84723e2
-SHA256: c9d8ce73be39125d71840211105f24f31484aa4fa5afb3b6016c20c9756ff58f
-SHA512: 7582a179c16bb2017c07105cb724ab23d8109ed61070366c3b67648c9500dd6e3305b658f215c98b233d122a3f9ffc9248fa5f8f4ee0d2eb528e85c3e31959af
+Size: 1480
+MD5Sum: 968f2b515d704c52d547f99743c45c3b
+SHA1: 4e0fbe9444355d032ee274c5cc14b2363a32176f
+SHA256: ec9239eeb2cd019a5ccb9b20dfdab85623deea0bc20f267a7f1f921af1ac844f
+SHA512: 479a61bf499f2490e010911d998190240303d4b705c1f5b6b0fdcc67d3dcb215519e771ae7f7173502890a6a8ef479892b1c21d77b435622f02d48c237649ab0
 
 Package: nuclei
 Version: 3.4.2

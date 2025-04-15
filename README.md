@@ -23,7 +23,7 @@
 
 ## 🔍 Overview
 
-This repository serves as an extended package source for Termux users, providing specialized tools and utilities not found in the official repositories. Currently featuring **35+ hacking and security tools**, it's perfect for penetration testers, security researchers, and tech enthusiasts.
+This repository serves as an extended package source for Termux users, providing specialized tools and utilities not found in the official repositories. Currently featuring **50+ hacking and security tools**, it's perfect for penetration testers, security researchers, and tech enthusiasts.
 
 ## 📦 Available Tools
 
