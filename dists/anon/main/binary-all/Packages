@@ -527,6 +527,20 @@ SHA1: 89f8acf22925ed8fb36db436be9da570d84723e2
 SHA256: c9d8ce73be39125d71840211105f24f31484aa4fa5afb3b6016c20c9756ff58f
 SHA512: 7582a179c16bb2017c07105cb724ab23d8109ed61070366c3b67648c9500dd6e3305b658f215c98b233d122a3f9ffc9248fa5f8f4ee0d2eb528e85c3e31959af
 
+Package: nuclei
+Version: 3.4.2
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Homepage: https://github.com/projectdiscovery/nuclei
+Depends: git, golang
+Description: Nuclei is a fast, customizable vulnerability scanner powered by the global security community
+Filename: dists/anon/main/binary-all/nuclei.deb
+Size: 1324
+MD5Sum: 4f296441375b4e22f487531dad6e1023
+SHA1: b1e16e2fb83bb35069387757dd071350bfd8daac
+SHA256: 1b16e6501c1c686c548d857587dc1226d07811266e6272dea3c8ce8f8b3ea9a7
+SHA512: 6742f1e0d9dd18968897c18239a9bc0f715a5bf5fb090f0648f391abf7a3fb07f5c168a79dc72e289bcb41621eb74f546fe553534b8d73aa0ba70dc5c780fd66
+
 Package: parrot
 Version: 6.3
 Architecture: all
