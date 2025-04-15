@@ -826,7 +826,7 @@ SHA256: e7b67bd6a603760f09012c909b4ddf1291b0cf50a774c71cddbbf8798d684948
 SHA512: 42aaa43e7e2f5c61351c569e3e1fde527880259334cd59add66cc938b34af84b8885bc7c673381e75e21790216f9f8b3b9e960a452c07feea3340d932811b15e
 
 Package: termux-penv
-Version: 1.1
+Version: 1.2
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
 Homepage: https://github.com/Anon4You/termux-penv.git
@@ -835,10 +835,10 @@ Depends: wget, proot
 Description: Termux Penv - Simplify Chroot Environments in Termux
 Filename: dists/anon/main/binary-all/termux-penv.deb
 Size: 1468
-MD5Sum: 2f334def86add3c44c8a7853bc0b86b4
-SHA1: 512a3063c5aca5219b5ce0aca758317a140d501c
-SHA256: bc8e23918a1accfda14712d11e04a83ed986cb9c3555bcaf4cf95fb0c2aca45a
-SHA512: 21d9bce75377de878a97c9a412472c662d06def2532a83f2d9aa182db2ed09f24b669775f4d95b77395db813029c893f449d25eebc0e8ecd239180f658211bdd
+MD5Sum: eff620595be6e0112e40528b767bc6fc
+SHA1: 741149fe1c79e6c923a892ada5e2d6f39de398ed
+SHA256: bfa8f3c78186891bb534142ff323b4ffa5f83d7f87bb3102f5b4f6b59b02d2ff
+SHA512: 3afb131583981428c3ad78943e4c72ae6d8e5e44cf584118cbd19732a87bf836f6344ee681fbbb56e14d147d3c981dd658925ad3b3328d898e9471fead363e69
 
 Package: thc-hydra
 Version: 9.5-latest
