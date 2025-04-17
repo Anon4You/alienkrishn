@@ -541,6 +541,20 @@ SHA1: b1e16e2fb83bb35069387757dd071350bfd8daac
 SHA256: 1b16e6501c1c686c548d857587dc1226d07811266e6272dea3c8ce8f8b3ea9a7
 SHA512: 6742f1e0d9dd18968897c18239a9bc0f715a5bf5fb090f0648f391abf7a3fb07f5c168a79dc72e289bcb41621eb74f546fe553534b8d73aa0ba70dc5c780fd66
 
+Package: pandora
+Version: 3.2.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Homepage: https://github.com/MrSanZz/pandora
+Depends: git, python, wget, curl
+Description: open source osint tool
+Filename: dists/anon/main/binary-all/pandora.deb
+Size: 1052
+MD5Sum: e44e6a2224e3a68c9276575514e79496
+SHA1: d213d5c7d0f82a8a4d425bc25389ae83876e1c1b
+SHA256: c725e22f4dd4a54b04d4b708ec79731c3b7bed202073cbcb832314749f7e92e9
+SHA512: 2f2bf69a7e862175ee65d9956adc7d3fd9ef206b8a1d3370059024c227f21ac35d3ebb02558ce3d2eb6fdce080a25aec304b1fd5c106d9e9a6200bbc65c058dc
+
 Package: parrot
 Version: 6.3
 Architecture: all
