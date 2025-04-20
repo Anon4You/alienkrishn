@@ -5,6 +5,18 @@ This repository provides specialized security and penetration testing tools for 
 
 ## 🛠️ Tools Catalog
 
+## 🛠️ Core Categories
+
+### 🔍 Reconnaissance & Scanning
+| Tool          | Short Description               |
+|---------------|---------------------------------|
+| nuclei        | Fast vulnerability scanner (5000+ templates) |
+| httpx         | Advanced HTTP toolkit for web scanning |
+| subfinder     | Subdomain discovery tool |
+| naabu         | Fast port scanner with SYN/CONNECT probes |
+| pandora       | Automated web vulnerability scanner |
+| katana        | Next-gen crawling and spidering framework |
+
 ### 📱 Mobile Development 
 | Tool          | Description |
 |--------------|------------|

@@ -387,6 +387,25 @@ SHA1: b1d8fd67b46a125a19b0ee56d163e9dd73cd5499
 SHA256: 8f39d5ce6be43c86c85cbc4b6c25810ba23786268fe7ef1fc47eadd56b9b06a4
 SHA512: 77b3f2b74d94dc8031f60616eb4c46b149710b7a4cb2bc2329bc22d145bd6c87ef90ee2704949636255bee27760ab404801cef169ce4b70c2c59cb08f5c0fdd9
 
+Package: httpx
+Version: 1.6.10
+Architecture: all
+Maintainer: Alienkrishn [Anon4You] 
+Depends: golang, git
+Section: security
+Priority: optional
+Homepage: https://github.com/projectdiscovery/httpx
+Description: Fast and versatile HTTP toolkit
+ httpx is a fast, multi-purpose HTTP toolkit that allows running multiple
+ probes using the retryablehttp library. Features include URL extraction,
+ web screenshotting, and template-based scanning.
+Filename: dists/anon/main/binary-all/httpx.deb
+Size: 1576
+MD5Sum: 15027c03523cf78d97aeee1385e6e0f7
+SHA1: 2a9a9458fefd2487bbba93a8e95457db21fc74ac
+SHA256: ba853367ae4042046b9698c47ed1b93e3cee66462e6f537333adc5e9662b96d8
+SHA512: ae5628da7b5d9f53dfc39933ace7e2cf6d25564abc4efc8d015ed411c54537d43e6fffbecb491245610989fdc21a4bc13ae69e433bbf1f25d3e76e2cc8ad9d8d
+
 Package: instajack
 Version: 1.0
 Architecture: all
@@ -458,6 +477,25 @@ SHA1: f3a818e180fac7eba97a3be7f1025f11ebdc9fe6
 SHA256: 2016a3f249236f0ed2b57e5b61ccd1f9260b257c5f0bb909f82b229305535c16
 SHA512: 41e43278255e84ee1ff3fcb350a9c0029e5b6ccf78c8e71b4d2b654c6dde28bf84bd3ec5fcfe852d59274416e8fb3a52e89d3d78968569e6708839c1b3bddbf7
 
+Package: katana
+Version: 1.1.2
+Architecture: all
+Maintainer: Alienkrishn [Anon4You] 
+Depends: golang, git
+Section: utils
+Priority: optional
+Homepage: https://github.com/projectdiscovery/katana
+Description: A next-generation crawling and spidering framework
+ Katana is a fast, customizable web crawling framework written in Go.
+ It's designed for both security researchers and penetration testers
+ for comprehensive web reconnaissance and asset discovery.
+Filename: dists/anon/main/binary-all/katana.deb
+Size: 1560
+MD5Sum: 96ddc6d59d6677dfaa39eba8fbec10d6
+SHA1: 607d60001e49ae5c6fba93157cc0a87fca46128b
+SHA256: e37fef1440ea59af8f62793718a3d8744dfeb341066dc0b74a0f15c077139b23
+SHA512: 33bcddd83872a46d36a5fbb52889558f848445d48c7e8af1524bf520a627119adb227fd17e7393e784a3f59b30ec8c0556c60eb8a566cbf4302f9d4533fc7b98
+
 Package: local2onion
 Version: 1.0
 Architecture: all
@@ -513,6 +551,25 @@ SHA1: 6d13665ad8478b02a66f647e9bc66ee62afa9284
 SHA256: f5ef87e656eb48fcf7fa9766765b9c6b78b1b4ac3f812d737d8304071aaf73d7
 SHA512: 669281800b3a29c43a4e04f1a45627d7ab7d16d7067fe0686242de2afff871b4eabd3660dc4f2dd5d225e663549b4bf6135c61d2d236238cb9795f573d7ff227
 
+Package: naabu
+Version: 2.3.4
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: golang, git, libpcap
+Section: security
+Priority: optional
+Homepage: https://github.com/projectdiscovery/naabu
+Description: Fast port scanning tool with SYN/CONNECT modes
+ Naabu is a port scanning tool written in Go that allows you to enumerate
+ valid ports for hosts in a fast and reliable manner with SYN/CONNECT scans.
+ Supports DNS/HTTP probes and integration with other tools.
+Filename: dists/anon/main/binary-all/naabu.deb
+Size: 1604
+MD5Sum: a5e40be77ca45820475b7e9e015e1a3e
+SHA1: f094bceced25984d42cb59385d240fea04edaad1
+SHA256: 1939636340e8ee5655d4fa5570ca7f9e41eb5de5809fab829d34e4ee5825c7f4
+SHA512: 27916c92a37ec09b3104a6c33af1e96a819905085aef076ccbbf6f26b66b78a7e91e0d9dcbdb6eba4493614b08947c5c81add8164fb8565e2c1352001c1def12
+
 Package: nethunter-cli
 Version: 2025.1
 Architecture: all
@@ -535,11 +592,11 @@ Homepage: https://github.com/projectdiscovery/nuclei
 Depends: git, golang
 Description: Nuclei is a fast, customizable vulnerability scanner powered by the global security community
 Filename: dists/anon/main/binary-all/nuclei.deb
-Size: 1324
-MD5Sum: 4f296441375b4e22f487531dad6e1023
-SHA1: b1e16e2fb83bb35069387757dd071350bfd8daac
-SHA256: 1b16e6501c1c686c548d857587dc1226d07811266e6272dea3c8ce8f8b3ea9a7
-SHA512: 6742f1e0d9dd18968897c18239a9bc0f715a5bf5fb090f0648f391abf7a3fb07f5c168a79dc72e289bcb41621eb74f546fe553534b8d73aa0ba70dc5c780fd66
+Size: 1472
+MD5Sum: 7fc3054b33d1303243c8abd96c47cda6
+SHA1: 8939475452fa5966043fd2b467e7151d3de933ba
+SHA256: ee340ac3e721efde9a219904606e429271b147c3b7bc9d62bc26de82af4d5841
+SHA512: 00bd7005f7b20061518a19ffe11a400682690029c0f0d4c5ac410a1a80e1f98086edc16d9442b9130edaa869ef1d799a10db000e502b481e7ff9b37eaa5889ea
 
 Package: pandora
 Version: 3.2.0
@@ -767,6 +824,25 @@ MD5Sum: 44d1809e60cc1d1fb2aeb37d74fe4d34
 SHA1: 56fa9152b73c716dd9405bdeabe5437fab03057d
 SHA256: fd52172f3aaa800f1fd0343aa6b18fc6b67d5d418271f21900c57d7705affbd0
 SHA512: e4ee7d0801afa22deb51da806df551ca876b33a31687ae1de0787a347ab7ea2e3c901deab834fc3f84184137c8f7dd17a1592321883d111d9cf7b61675322171
+
+Package: subfinder
+Version: 2.7.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: golang, git
+Section: security
+Priority: optional
+Homepage: https://github.com/projectdiscovery/subfinder
+Description: Fast passive subdomain enumeration tool
+ SubFinder is a subdomain discovery tool that discovers valid subdomains
+ for websites by using passive online sources. It has a simple modular
+ architecture and is optimized for speed and comprehensive results.
+Filename: dists/anon/main/binary-all/subfinder.deb
+Size: 1584
+MD5Sum: d8fa51610bdbb12d563ec2cc953c7bcc
+SHA1: 13ab90e261e69e007573082ff7ae442176797f0d
+SHA256: a3c03d05b07a0bed01b900a47331dfa708b0c28e6cbcd14b4a4af44228110d1d
+SHA512: 778cf648660e311990898d42a8d2a009bb6fc19f4014e8c344779533e8de8e784782e1679d058b9d1f8b05d7b32266318b7a8c8d4691249e3f1b10cef78ea8a1
 
 Package: term-helper
 Version: 1.0.0
