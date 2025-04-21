@@ -373,6 +373,25 @@ SHA1: 77a71ac9c8717476df4ec55ff62cbb5da50ec631
 SHA256: d8cef556685125d18d6c5d8d9016bf5be0d7477c1a3a9438b9a32fba77a34471
 SHA512: 482acd45059aa13d09f99493bdd8850cfc4b94790d3387728861809421983057c999f704c01c89a18a0032100b44d292aee16586489017f6b36c009dc3d9d3e8
 
+Package: hatcloud
+Version: 1.0.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You] 
+Depends: ruby, git
+Section: security
+Priority: optional
+Homepage: https://github.com/HatBashBR/HatCloud
+Description: CloudFlare detector and information gatherer
+ HatCloud identifies websites protected by CloudFlare and extracts
+ origin server IPs. Useful for bypassing CloudFlare protections
+ during security assessments.
+Filename: dists/anon/main/binary-all/hatcloud.deb
+Size: 1272
+MD5Sum: 5a5803c5ad5a469729e613ed3967f514
+SHA1: 2f1ce055c5cd5fa35880f71bad24015033b62e44
+SHA256: ca35e50c0f5d0af6f0baa3a24320c8738bbe4c1adafaa3e76d5b52c49dad7e0b
+SHA512: a8847c3b4658064e87eadd95f9e935e71ddc626c605c1b934385d26fefd52ebfdd8f9d67b54ff71cdcb7487eda7cbc7ef6c73d0d5ade0666088842cac943c3ad
+
 Package: hound
 Version: 0.2
 Architecture: all
