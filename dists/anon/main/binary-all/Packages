@@ -603,6 +603,25 @@ SHA1: 4e0fbe9444355d032ee274c5cc14b2363a32176f
 SHA256: ec9239eeb2cd019a5ccb9b20dfdab85623deea0bc20f267a7f1f921af1ac844f
 SHA512: 479a61bf499f2490e010911d998190240303d4b705c1f5b6b0fdcc67d3dcb215519e771ae7f7173502890a6a8ef479892b1c21d77b435622f02d48c237649ab0
 
+Package: nikto
+Version: 2.5.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: perl, git, openssl, openssl-tool, clang, make
+Section: security
+Priority: optional
+Homepage: https://github.com/sullo/nikto
+Description: Comprehensive web server scanner
+ Nikto performs comprehensive tests against web servers
+ for dangerous files, outdated servers, and vulnerabilities.
+ Supports SSL, proxies, and multiple IDS evasion techniques.
+Filename: dists/anon/main/binary-all/nikto.deb
+Size: 1416
+MD5Sum: 9419da12417aac276cd6f2ea77c8ec4e
+SHA1: 4e576d1fa57aafe0ec1f90e6d54d02a1253d1b66
+SHA256: b46993fa326120b751d7d921bb88c0013b9b369c97fb9b2445be36b7d369ea0a
+SHA512: 22d2fd735bbf5e8f7f40bcf77eaaefeda46253c87a5007b74b080028f87d3df2b9f9266c6154caa8dfaa0873efd41ec217f83d317964624997bb44083f771377
+
 Package: nuclei
 Version: 3.4.2
 Architecture: all

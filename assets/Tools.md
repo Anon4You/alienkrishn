@@ -57,6 +57,7 @@ This repository provides specialized security and penetration testing tools for 
 | burpsuite   | Industry-standard web scanner |
 | burpsuite-pro | Professional web scanner |
 | hatcloud    | Bypass CloudFlare security with IP/domain reconnaissance |
+| nikto       | Comprehensive web server scanner (6000+ tests) |
 | evilginx    | Advanced phishing framework |
 | gophish     | Open-source phishing toolkit |
 | sqlmap      | Automated SQL injection tool |
