@@ -85,31 +85,38 @@ SHA512: a1a9cc7075be357b8baeedcb6a0425fa7de0e6329332ba6d0838fcdafac6572b8a392cda
 Package: apkeditor
 Version: 1.4.2
 Architecture: all
-Maintainer: Alienkrishn [Anon4You]
-Installed-Size: 1
-Depends: openjdk-17,wget
-Suggests: alienkrishn
-Description: Powerful android apk editor - aapt/aapt2 independent
+Maintainer: Alienkrishn [Anon4You] 
+Depends: openjdk-17, wget
+Section: utils
+Priority: optional
+Homepage: https://github.com/REandroid/APKEditor
+Description: Lightweight APK modification tool
+ Edit APKs directly via JAR executable.
+ Supports decompiling, resource editing, and APK rebuilding.
 Filename: dists/anon/main/binary-all/apkeditor.deb
-Size: 1564
-MD5Sum: 3f3ecc18275aea7679254133a80e123f
-SHA1: 9b3e073144ad020a1c1c021db550fd390dcdadb8
-SHA256: 6bfcc33871c2d33d493cbdc78353112b3c16f37c2795fa6fe9a125b5b0eae5ad
-SHA512: 26e899d97d941faf7b22fb554c67ffb588ba5bc05a18d33aa6f7aa531245f009bca1bf9bfacfaa7dc86eaa016227cceebfc68a63f2fc2dc0259c0576eb4287c9
+Size: 1364
+MD5Sum: ed65ac0e56d3c672ab40a9fff75e9248
+SHA1: 3c67334882fab8455e0d1e13c35b59d269f3087e
+SHA256: b04b0ec510ff449e9b47ddbf7783024b4dc4fb58074c6a48d054cfa385c05c8a
+SHA512: eeaac4204e07775eb3d6e18d3c5aa289a698ae44e9561021995c6fc2a57898a036000748cc41d7e1c1c44da62e9ec502ac313539987380fe3ea31a7c8ec00dd0
 
 Package: apktool
-Version: 2.11.0
+Version: 2.11.1
 Architecture: all
-Maintainer: Alienkrishn [Anon4You]
-Depends: wget, aapt2, openjdk-17
-Homepage: https://apktool.org/
-Description: A tool for reverse engineering Android apk files
+Maintainer: Alienkrishn [Anon4You] <alienkrishn@example.com>
+Depends: openjdk-17, wget
+Section: utils
+Priority: optional
+Homepage: https://ibotpeaches.github.io/Apktool/
+Description: Reverse engineering Android APKs
+ Decompile and rebuild APK files with resource preservation.
+ Supports Smali debugging and manifest analysis.
 Filename: dists/anon/main/binary-all/apktool.deb
-Size: 1124
-MD5Sum: e720191b31d188caf98a9000e7e0dc58
-SHA1: d5ad91812d225e4cb9f809c3d54e782de5dfb4c2
-SHA256: b0acb0e637a61ca5ce3408d73764344b65fc7efbe8333b6891b4d0487cc8e33a
-SHA512: 4f3bcd0bcb1ddc243c3ba32cf899a6c579cdda9c167e78c999ca20166f257135e79bdb430e0770dbf0a69b065590e9e85c0ce1a6f7f8741ac949c57118760749
+Size: 1400
+MD5Sum: 6974a9028902bf7b3bb0d7d482f1a76a
+SHA1: 1072e25e00d71b1b5c0c4d405b689a116546fcdf
+SHA256: 2c41dfe0ebd016fb30e7ca0de096084b9d1e64349cecbb520fcc9799d8fabeac
+SHA512: a35c5f6ad23d8096b7948726aededd891c75469f8700c9f017ce8c27d74e21e79fe0c589000636270d6051b07b15595e76e93a3e82ee6ef3d1418a5b827d37b3
 
 Package: beef
 Version: 0.5.4.0
