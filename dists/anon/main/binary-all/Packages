@@ -28,17 +28,17 @@ SHA512: a7e7f059ec2d2b837a57fa65703e74e5937368320cccdff632d7b2bde418b0bac249bfd4
 
 Package: alienkrishn
 Architecture: all
-Version: 1.0.9
+Version: 2.0.0
 Homepage: https://anon4you.github.io/alienkrishn/
 Depends: eza,fish,starship,curl,gnupg
 Maintainer: Alienkrishn [Anon4You]
 Description: Alienkrishn theme and repo helper
 Filename: dists/anon/main/binary-all/alienkrishn.deb
-Size: 899660
-MD5Sum: 2410dc3f7fc3212a1fda07b46a0886cc
-SHA1: 78cf352923e647dcecf9317bdecc9f98f1d47cbe
-SHA256: 23b876da721dfd98460c0241ece2865531ac965a0e4e5ab6c6bfb2e67020495f
-SHA512: 7f997662b94f9eea37c85b03ef2ce2dc847ab02e2020cb792607eb8fd9e505f12a2d1cf3f24c634497928124debcece648c17037e64a7cdd510370e08507b08a
+Size: 899620
+MD5Sum: d9719514f5f0bb45e9cb6cf698dc0402
+SHA1: 18534afde61d9d82226ac24996a486103c162fde
+SHA256: 0c043e3fc21aa01f02454b229a3e3ba211768729f2f59cf61e107ad93620a9fe
+SHA512: 7a7323141d381d3ee8aaebfe0541dcb0ad47c4d4a944463d4d092c00f36675166396365b1bdfc057f72d077ccca81c94e614f304c8a59c092ba39775ab32043f
 
 Package: androdos
 Version: 1.0.0
