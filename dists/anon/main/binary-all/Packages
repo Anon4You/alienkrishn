@@ -392,6 +392,24 @@ SHA1: 2f1ce055c5cd5fa35880f71bad24015033b62e44
 SHA256: ca35e50c0f5d0af6f0baa3a24320c8738bbe4c1adafaa3e76d5b52c49dad7e0b
 SHA512: a8847c3b4658064e87eadd95f9e935e71ddc626c605c1b934385d26fefd52ebfdd8f9d67b54ff71cdcb7487eda7cbc7ef6c73d0d5ade0666088842cac943c3ad
 
+Package: holehe
+Version: 1.61
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: python, python-pip
+Section: security
+Priority: optional
+Homepage: https://github.com/megadose/holehe
+Description: Email OSINT tool
+ Check if email accounts exist on 120+ platforms
+ (Twitter, Instagram, Snapchat, etc.) without direct access.
+Filename: dists/anon/main/binary-all/holehe.deb
+Size: 1120
+MD5Sum: 64f3e4fdcc6f442ea34e3a9b2c227845
+SHA1: a9c12b9deb3ea81043f6639ba239009bc979884c
+SHA256: ecc4589a2d273f83ee519da3074e2b0dd61f93ec8e7ce75470caa1fd6a747f36
+SHA512: 075636fd824dbe9ed880c60903de86e21466238d58492c0700c96835d433c5fc46d425067d414399bd46441e3aaea77c4b5755f9a92a3c5f27b49aa8df6d5f72
+
 Package: hound
 Version: 0.2
 Architecture: all

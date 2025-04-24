@@ -32,6 +32,7 @@ This repository provides specialized security and penetration testing tools for 
 | Tool       | Description                          |
 |------------|--------------------------------------|
 | sherlock   | Find social media accounts by username |
+| holehe        | Check email accounts across 120+ sites |
 | byakugan   | Advanced live location tracker |
 | hound      | Lightweight info gathering with GPS |
 | ipinfo     | Comprehensive IP address intelligence |
