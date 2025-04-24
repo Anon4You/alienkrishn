@@ -128,6 +128,11 @@ This repository provides specialized security and penetration testing tools for 
 | term-helper    | Linux command cheatsheet |
 | webserver      | Localhost internet exposure tool |
 
+## 📊 Data Analysis
+| Tool          | Description                          |
+|---------------|--------------------------------------|
+| python-pandas | Powerful data manipulation/analysis library |
+
 ## 🔄 Updates & Support
 - Telegram: [@nullxvoid](https://t.me/nullxvoid)
 - YouTube: [@alienkrishnorg](https://youtube.com/@alienkrishnorg)

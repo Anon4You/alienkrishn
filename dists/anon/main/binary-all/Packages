@@ -710,6 +710,24 @@ SHA1: ff9af20d74e670e3f6d475559a53521af17cf927
 SHA256: 99f73fce98d721ce4103060bc0cf3e830fd2d6fa46249aab30ef8ec2f7d94491
 SHA512: 9a88f29dbdc78b2c830f22fe463821c399ed5b1cf2a75f594858b7cd54dc533083d047c44c520bdf707b53379abea7e427c41e5442cf111aa5b6ec0e612633ea
 
+Package: python-pandas
+Version: 2.2.3
+Architecture: all
+Maintainer: Alienkrishn [Anon4You] 
+Depends: python, python-pip, python-numpy, build-essential, cmake, ninja, libopenblas, libandroid-execinfo, patchelf, binutils-is-llvm
+Section: science
+Priority: optional
+Homepage: https://pandas.pydata.org
+Description: Powerhouse data analysis toolkit
+ Pandas provides high-performance data structures and analysis tools.
+ Optimized for Termux with OpenBLAS acceleration.
+Filename: dists/anon/main/binary-all/python-pandas.deb
+Size: 1496
+MD5Sum: c0ebd0e3425b35b83d608e0a3bc273b5
+SHA1: c931757446b0fe7df665de2bd47d9a9a4cd6126e
+SHA256: c3d9e16a5c71fcd29e72f3be7a060fd16ef49a53e0bf46b37c2ada60723d1fb4
+SHA512: 3dcf2119f73531a7517541fbbbb05cdb64c2a23a9a984898e94eb42833563b7f7bedfc8440264ffe7aa3d539b7ddf8d716d502fefe480c84503ad7df6348c3c8
+
 Package: random-banner
 Architecture: all
 Version: 1
@@ -773,14 +791,14 @@ Version: 0.15.0
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
 Homepage: https://sherlockproject.xyz
-Depends: python, python-pip
+Depends: python, python-pip, python-numpy, python-pandas
 Description: Hunt down social media accounts by username
 Filename: dists/anon/main/binary-all/sherlock.deb
-Size: 844
-MD5Sum: ad963ef3f3a21a9c18d3effdb235295e
-SHA1: 758b52c96e873782f36f5bcce14fa955d1123ac8
-SHA256: e671755e567b9e53e4b2da0ae3cc46b330626657f22288cfacbe4e7012cfd1a2
-SHA512: 4a96d1a6e6bd7e3accd870681382cae91f3995d7570179d91eabb22696abb5c90080a1ad271ebd66e909a598753af04a2a89400305154eb6f20c2e8b89ca7221
+Size: 856
+MD5Sum: cdf3abc3d259ee641eb78e4e2678cf50
+SHA1: 37b5d7646d7de29bc534ccd7a02ca87f26d62d21
+SHA256: 07e1b8f07925efd3d2222e5cde9eb0580c4448c409500f85f01a6bba6e456f09
+SHA512: d43860bfcdf83b9e04caa2e712034be180d9d14710683a58e21b8d390ea2753f36f2e033c2de3e928c6580691bb0d275f7f52de82256cc9330a495a69bc9551e
 
 Package: shorturl
 Version: 1.0.0
