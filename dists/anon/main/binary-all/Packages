@@ -234,21 +234,6 @@ SHA1: f25274c73bbc38a8d582519f66a9aa83865f3188
 SHA256: 786a39ff3c64bab6f648d9472f57a6b3a279862532b0ef592656ff0706ed7523
 SHA512: d4a51d7ba0c7d913d64d06d070ef0d2ca79aa5fba86efcfc5cb62623ff3c8af2cafebaa072aaed669efbea90fb6ebcf57a6eec20e7c303a456f434881fc78784
 
-Package: chromium
-Architecture: all
-Version: 131.0.6778.264
-Maintainer: Alienkrishn [Anon4You],KEYARU [keyaru-code]
-Homepage: https://github.com/termux-user-repository/chromium-builder
-Depends: atk, cups, dbus, fontconfig, gtk3, krb5, libc++, libdrm, libevdev, libxkbcommon, libminizip, libnss, libwayland, libx11, mesa, openssl, pango, pulseaudio, zlib
-Installed-Size: 1
-Description: Chromium web browser
-Filename: dists/anon/main/binary-all/chromium.deb
-Size: 2700
-MD5Sum: 56ebf8c344c10067919214bb54521d75
-SHA1: b3d672659fd7305ffdf53658d0f426f3458790b1
-SHA256: 740b61cafc7d2d5d6728c8bbd831ff5366f18a4c622554305610235fc65eef6e
-SHA512: 4c3db95b4a0dc7efe7c62f527a8b1c74900c31a084d7ea87083366865d79c039ed8918fdcbd3f0151f123cc34ed451a0e1fc2bd459ad346a814fd0c1b977f1f2
-
 Package: credmap
 Version: 0.1
 Architecture: all

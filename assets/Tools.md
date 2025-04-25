@@ -91,7 +91,6 @@ This repository provides specialized security and penetration testing tools for 
 | Tool           | Description                          |
 |----------------|--------------------------------------|
 | alienkrishn    | Main repository package |
-| chromium       | Open-source browser for security tests |
 | enctool        | Script obfuscation utility |
 | ip-changer     | Automated IP rotation tool |
 | termux-desktop | Termux desktop environment |

@@ -72,8 +72,6 @@ data/data/com.termux/files/usr/share/byakugan/assets/server.html                
 data/data/com.termux/files/usr/share/byakugan/assets/serverDummy                 byakugan
 data/data/com.termux/files/usr/bin/cctvip                                        cctvip
 data/data/com.termux/files/usr/share/cctvip.py                                   cctvip
-data/data/com.termux/files/usr/share/applications/chromium.desktop               chromium
-data/data/com.termux/files/usr/share/pixmaps/chromium.png                        chromium
 data/data/com.termux/files/usr/bin/credmap                                       credmap
 data/data/com.termux/files/usr/bin/credmap-installer                             credmap
 data/data/com.termux/files/usr/bin/cupp                                          cupp
