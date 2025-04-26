@@ -234,22 +234,6 @@ SHA1: f25274c73bbc38a8d582519f66a9aa83865f3188
 SHA256: 786a39ff3c64bab6f648d9472f57a6b3a279862532b0ef592656ff0706ed7523
 SHA512: d4a51d7ba0c7d913d64d06d070ef0d2ca79aa5fba86efcfc5cb62623ff3c8af2cafebaa072aaed669efbea90fb6ebcf57a6eec20e7c303a456f434881fc78784
 
-Package: credmap
-Version: 0.1
-Architecture: all
-Maintainer: Alienkrishn [Anon4You]
-Installed-Size: 2
-Depends: git, python2
-Suggests: alienkrishn
-Homepage: https://github.com/lightos/credmap
-Description: The Credential Social Network Mapper.
-Filename: dists/anon/main/binary-all/credmap.deb
-Size: 1672
-MD5Sum: ff5589480560d3a25ec2577a55a501fd
-SHA1: 7ecbb030e8182e7c4943d9493ae7e749de4c714a
-SHA256: 4cb972333f1c8fff604f40fc4610d48885c7d915828b505fcfca2a7286440a59
-SHA512: 54c344cc48f76eee43f49d2f3e4ee127a57528e3f2f7898c2ae67adcb3bf2aa4b911932c4191bb359c0b6ea226df46fabf57087293824dc7e4e7c19e56628443
-
 Package: cupp
 Version: 3.3.0
 Architecture: all
@@ -997,7 +981,7 @@ SHA256: bfa8f3c78186891bb534142ff323b4ffa5f83d7f87bb3102f5b4f6b59b02d2ff
 SHA512: 3afb131583981428c3ad78943e4c72ae6d8e5e44cf584118cbd19732a87bf836f6344ee681fbbb56e14d147d3c981dd658925ad3b3328d898e9471fead363e69
 
 Package: thc-hydra
-Version: 9.5-latest
+Version: 9.6
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
 Homepage: https://github.com/vanhauser-thc/thc-hydra 
@@ -1005,10 +989,10 @@ Depends: git, make, clang, openssl, libssh
 Description: Hydra a fast and flexible brute-force password-cracking tool
 Filename: dists/anon/main/binary-all/thc-hydra.deb
 Size: 1108
-MD5Sum: 5d3241c44f78eb899f839926023cd4af
-SHA1: 8fce6efa511bd8425a8be20269f52713950affef
-SHA256: 2d2f814039095e2f35537bb5e9505e1bfe3b73b54bf1b9e5461cc50217f36349
-SHA512: 544f391bfb457352bd77aaf68d50e0a9bbe941e66dadba6baaa6672dd3db7b9fd5c85cbf0e84444adf7606722307f6aa3307a814c6dc2e646dcad87c25208cd0
+MD5Sum: 5782d2b37365fd6d76f9149a6bbb231f
+SHA1: b1d6d5e6861eb1dafb1078190b1ee2e1c3fecdf9
+SHA256: 0eb2dcc0546c72cec706c1629a4138b8f0da272c4fba2fe9db5bf54460df33ae
+SHA512: 7031eb61d02fd7dcd6e1bad28d15572b28fcb2ada3c7c92be396f0287e284e1a479668ce5f1dc2328571724147b740622af5fe5918ce500f9f04051be2b5fda8
 
 Package: the-theif
 Version: 1.2

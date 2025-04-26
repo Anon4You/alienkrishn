@@ -45,7 +45,6 @@ This repository provides specialized security and penetration testing tools for 
 ### 🔐 Password Tools
 | Tool       | Description                          |
 |------------|--------------------------------------|
-| credmap    | Credential mapping tool |
 | cupp       | Targeted wordlist generator |
 | hashcat    | Advanced password recovery |
 | john       | John the Ripper password cracker |
