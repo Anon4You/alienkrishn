@@ -69,18 +69,22 @@ SHA256: d8211d39edceac19e3653b734a7fa3919a2e1be901fb2952139028dd6837548b
 SHA512: 5d2aa3ecab8ddf4db1d5e08c2f322524d5244ce4b91bceca8e0e0da534bce60d15006ad4ec2a1fc7b2e58930180b9b62c34eae5285b3fef56da6950eb4cd6471
 
 Package: androvirus
-Version: 2.0.2
+Version: 3.0
 Architecture: all
+Section: security
 Maintainer: Alienkrishn [Anon4You]
-Depends: php,openssh
-Installed-Size: 21118
-Description: Collection of 10 viruses which can damage any android device
+Depends: curl, git, php, cloudflared
+Priority: optional
+Homepage: https://github.com/Anon4You/AndroVirus.git
+Description: Android penetration testing framework (USE RESPONSIBLY)
+ AndroVirus is a security assessment tool designed for authorized penetration testing and educational purposes only. The tool can be used to demonstrate phishing vulnerabilities in Android systems.
+ WARNING: This tool is capable of compromising Android devices when malicious links are delivered. Use only on systems you own or have explicit permission to test. The maintainer assumes no responsibility for unauthorized or illegal use.
 Filename: dists/anon/main/binary-all/androvirus.deb
-Size: 20397648
-MD5Sum: da9e1508a1ba38f2ccfa50f99a2977a2
-SHA1: f4f66485e43ad49ed98794f700b556bb23124a0c
-SHA256: 4a0bc88b07081d900c7cb4059e6fec1361f6538f97bb4e48fd2e3ec9ff9e669b
-SHA512: a1a9cc7075be357b8baeedcb6a0425fa7de0e6329332ba6d0838fcdafac6572b8a392cdaaaa047ca500f9f9e88d47608553655513ba98d6f54cf5a81d3f9fcec
+Size: 1400
+MD5Sum: fa47d0d9dd74d8a182d7b79c0f3b49a7
+SHA1: e42123401ccf54986d3239b8679e1201e45feb29
+SHA256: ac3b23a8dc3bd29d74c9a7af6cd17637da6f70023930a3b02bc8e3dd736b9efb
+SHA512: 7f5ed7cbdd55d7a04916d2941d03f49e72f045951f1f6a0678e8c3aee430b764a9a4a4d9edae0e79919ead5e2681b3c99b0e95079b063fbb95cf66e530358a87
 
 Package: apkeditor
 Version: 1.4.2
