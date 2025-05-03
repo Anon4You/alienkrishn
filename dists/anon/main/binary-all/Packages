@@ -211,18 +211,21 @@ SHA256: d836dd07d785ceb1cfef3ad0827ef697a30fc897deee0e7face11da81614b992
 SHA512: 521331917a69d248fc183639533b92268ff89d47a9e0153aa0abb52b5360f762c5d7ec83a405bb416ebc645813a1e82840db3ad5d0f8fb6c766ef3f3b92e0c86
 
 Package: byakugan
-Version: 1.0.3
+Version: 1.0.4
 Architecture: all
-Installed-Size: 5449
+Section: security
 Maintainer: Alienkrishn [Anon4You]
-Depends: termux-tools,termux-exec,php,openssh,jq,figlet
-Description: A footprinting program to get exact location
+Depends: curl, git, php, cloudflared, jq, figlet
+Priority: optional
+Homepage: https://github.com/Anon4You/Byakugan.git
+Description: Advanced footprinting tool for Termux
+ Byakugan is a powerful footprinting tool designed exclusively for Termux that tracks exact locations with military-grade precision. Use only for authorized security testing and educational purposes. Unauthorized tracking may violate privacy laws.
 Filename: dists/anon/main/binary-all/byakugan.deb
-Size: 5300552
-MD5Sum: fc67fbeb9a51b69b07a45703a382ae9c
-SHA1: 5d202cf6bc75f8a0bf9a1b606a2aaf7b2ccf8ea4
-SHA256: 23e2ae0199e28849e15d063a9a5fbd9908cad3c942036c0f433b866c09956a5b
-SHA512: 49f01f6c762d5f2f219d084211ad89e838eb8bfed8cd0e5835753969503ef9639db0a0ecf78cc40985cdfb4707687f11b731985c433be4ad038e050445bf8996
+Size: 1312
+MD5Sum: 1736ac9873b25ad95f6a19f0411c09ba
+SHA1: 5f9e2d63faafe38af12bb70a332e66003cee2745
+SHA256: ca4703cfbf087d75598c1bcfd28597f31dafd5da08b6ce2af85678e0d8274c02
+SHA512: 7fd8068781a622529879712e1c42b7551c5f9ffc09c0c41359c85fef00bb5084b29a4c11d14d521a28e39f10d1fc668690884a52e0f20b1ddc0966a0c16636af
 
 Package: cctvip
 Version: 1.0.0
