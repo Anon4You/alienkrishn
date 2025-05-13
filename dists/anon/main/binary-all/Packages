@@ -87,7 +87,7 @@ SHA256: ac3b23a8dc3bd29d74c9a7af6cd17637da6f70023930a3b02bc8e3dd736b9efb
 SHA512: 7f5ed7cbdd55d7a04916d2941d03f49e72f045951f1f6a0678e8c3aee430b764a9a4a4d9edae0e79919ead5e2681b3c99b0e95079b063fbb95cf66e530358a87
 
 Package: apkeditor
-Version: 1.4.2
+Version: 1.4.3
 Architecture: all
 Maintainer: Alienkrishn [Anon4You] 
 Depends: openjdk-17, wget
@@ -99,10 +99,10 @@ Description: Lightweight APK modification tool
  Supports decompiling, resource editing, and APK rebuilding.
 Filename: dists/anon/main/binary-all/apkeditor.deb
 Size: 1364
-MD5Sum: ed65ac0e56d3c672ab40a9fff75e9248
-SHA1: 3c67334882fab8455e0d1e13c35b59d269f3087e
-SHA256: b04b0ec510ff449e9b47ddbf7783024b4dc4fb58074c6a48d054cfa385c05c8a
-SHA512: eeaac4204e07775eb3d6e18d3c5aa289a698ae44e9561021995c6fc2a57898a036000748cc41d7e1c1c44da62e9ec502ac313539987380fe3ea31a7c8ec00dd0
+MD5Sum: 3ae8e9669b942424e5323a86b0f54b96
+SHA1: d0a630ff1b4c685a13d448eed33f0ad5e0c57690
+SHA256: 3804191a6a153d89e5ee2345ba53aec52265f6f9491f4c1e505f75cabc4e5ab7
+SHA512: 323b03b6bc94d269c2c2a7c53993d864f1959c5be59ed3296682abe9f86e97138353ea26d675944df8a4d7097a9b2dd3afd8759d4b60c56acbe3a0299082e150
 
 Package: apktool
 Version: 2.11.1
