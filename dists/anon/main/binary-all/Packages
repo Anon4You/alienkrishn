@@ -426,6 +426,22 @@ SHA1: 2a9a9458fefd2487bbba93a8e95457db21fc74ac
 SHA256: ba853367ae4042046b9698c47ed1b93e3cee66462e6f537333adc5e9662b96d8
 SHA512: ae5628da7b5d9f53dfc39933ace7e2cf6d25564abc4efc8d015ed411c54537d43e6fffbecb491245610989fdc21a4bc13ae69e433bbf1f25d3e76e2cc8ad9d8d
 
+Package: infect
+Version: 1.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: apkeditor, apktool, metasploit-framework, apksigner, libxml2
+Section: security
+Priority: optional
+Homepage: https://t.me/nullxvoid/
+Description: Android APK backdoor injector with Meterpreter support
+Filename: dists/anon/main/binary-all/infect.deb
+Size: 6924
+MD5Sum: 45a927c809711934401bcae115193f7b
+SHA1: 33a369b501472939dd056277a1395449c11ba966
+SHA256: 67e480527959c444cf4bbcbfefc91d851daa60ef66e22f9b306e33fb2c61264a
+SHA512: a11e87bf7ae79da461f170b82e47707121d491cd9334183d80fa7e7ad63e9aa435da41442b2d1fc967cd701dc6d66ac6133c0fb6c72b50f1ae78ef615ce7dd25
+
 Package: instajack
 Version: 1.0
 Architecture: all
@@ -558,7 +574,7 @@ SHA256: 06595bc12e85723596f9c1e027bed7a765211b95dbb5348a583a609a5e7e9c6b
 SHA512: d0f88ed660bade0ce4d614f77b4f27bb73073d69ab13a7a955225acab272a37f1c0eda7299b407faeb84fb66f76e1c3cb922e98c392236e0f80ecd3c05dc81dd
 
 Package: metasploit-framework
-Version: 6.4.52-dev
+Version: 6.4.63
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
 Depends: binutils, python, autoconf, bison, clang, coreutils, curl, findutils, apr, apr-util, postgresql, openssl, readline, libffi, libgmp, libpcap, libsqlite, libgrpc, libtool, libxml2, libxslt, ncurses, make, ncurses-utils, ncurses, git, wget, unzip, zip, tar, termux-tools, termux-elf-cleaner, pkg-config, git, ruby, apktool, apksigner
@@ -566,10 +582,10 @@ Homepage: https://www.metasploit.com/
 Description: The world’s most used penetration testing framework
 Filename: dists/anon/main/binary-all/metasploit-framework.deb
 Size: 1536
-MD5Sum: c4330da3acffedb9393ade86a647e989
-SHA1: 6d13665ad8478b02a66f647e9bc66ee62afa9284
-SHA256: f5ef87e656eb48fcf7fa9766765b9c6b78b1b4ac3f812d737d8304071aaf73d7
-SHA512: 669281800b3a29c43a4e04f1a45627d7ab7d16d7067fe0686242de2afff871b4eabd3660dc4f2dd5d225e663549b4bf6135c61d2d236238cb9795f573d7ff227
+MD5Sum: 007fc19fd7bf191b440dd431072cfbfc
+SHA1: 0a7dad15603bf33ddebfd474fa36dff16d0a7567
+SHA256: f2644ec8edeb701d2b4effc3d6c47e49ae1cacd0751bc6da1d079330ebf83a3c
+SHA512: ca640a16fff267916f629499addde93092f1e5a342268156b07da1a05683567731f3dfca3358601c6a4f01c5f6076b51e30c9e6300fecf02e4dd0626f5fd4ac9
 
 Package: naabu
 Version: 2.3.4

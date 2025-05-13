@@ -85,6 +85,7 @@ This repository provides specialized security and penetration testing tools for 
 | the-theif  | Social media cookie stealer |
 | venom      | Phishing framework (15+ templates) |
 | weeman     | Lightweight phishing tool |
+| infect     | Android APK backdoor injector with Meterpreter support |
 
 ### ⚡ System Tools
 | Tool           | Description                          |
