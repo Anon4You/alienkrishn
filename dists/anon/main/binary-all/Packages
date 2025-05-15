@@ -104,6 +104,22 @@ SHA1: d0a630ff1b4c685a13d448eed33f0ad5e0c57690
 SHA256: 3804191a6a153d89e5ee2345ba53aec52265f6f9491f4c1e505f75cabc4e5ab7
 SHA512: 323b03b6bc94d269c2c2a7c53993d864f1959c5be59ed3296682abe9f86e97138353ea26d675944df8a4d7097a9b2dd3afd8759d4b60c56acbe3a0299082e150
 
+Package: apkpatcher
+Version: 1.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You] 
+Depends: git, libxml2, openjdk-17, apkeditor, apksigner 
+Section: utils
+Priority: optional
+Homepage: https://github.com/Anon4You/APKpatcher
+Description: Advanced APK Modification Tool
+Filename: dists/anon/main/binary-all/apkpatcher.deb
+Size: 1208
+MD5Sum: 982711ab8a41cf6877985109ce729739
+SHA1: 3672b1ad6a4229fb8a805bdd207d34651bfd4f22
+SHA256: 88639346307cfb4c2316c075a19f0d1bb683856c88590b32d0fbe04d711b15d0
+SHA512: 0a76499144872900bf93f42913c9f1913f7ec27f42f5425c5a3b508fc4afeb050af99e33ebd97d36a75eca42eedd66c20245f59301dbeeda3907441e6cd2b5a8
+
 Package: apktool
 Version: 2.11.1
 Architecture: all
