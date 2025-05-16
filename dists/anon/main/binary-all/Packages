@@ -636,6 +636,22 @@ SHA1: 4e0fbe9444355d032ee274c5cc14b2363a32176f
 SHA256: ec9239eeb2cd019a5ccb9b20dfdab85623deea0bc20f267a7f1f921af1ac844f
 SHA512: 479a61bf499f2490e010911d998190240303d4b705c1f5b6b0fdcc67d3dcb215519e771ae7f7173502890a6a8ef479892b1c21d77b435622f02d48c237649ab0
 
+Package: ngrok
+Version: 3.4.1
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: wget, openssl
+Section: net
+Priority: optional
+Homepage: https://ngrok.com
+Description: Tunneling tool Secure tunnels to localhost
+Filename: dists/anon/main/binary-all/ngrok.deb
+Size: 1424
+MD5Sum: 285fee1330abdcba6918299a7f9e8d6e
+SHA1: 9894e44f435f9417c7f423396d97f999d2baab1c
+SHA256: 3a28a93e20452d507ea0643110b298b12dd31088db0630c40fddb77db65ca3e1
+SHA512: 5d82258ee4a76d4f8eee35bface2d39ebb4ef0f34b2c0a27b5c9bee71447bf8aa1e6f0b8eb8a61eba01e349da718e5d2fafb0d7d97df1f01f226cc372f8222ae
+
 Package: nikto
 Version: 2.5.0
 Architecture: all
@@ -710,6 +726,24 @@ MD5Sum: 204ae6eea1afe9fdd24cfe20c891703a
 SHA1: ecf04cef14d27e65154e52fb8a2610863551662e
 SHA256: 565d6042126a9d8052c0e52fd7a61e83d6d834a67a3ffcc93efd0eb92aceac9d
 SHA512: fd5cfc35cfaf15a41ec2eedc012d32556db1cefe685d675548079323df3ae491ea573ddcf4873eaf70f183e9e433ead7476d457770887bdfdaa7a91d49acc391
+
+Package: phonesploit-pro
+Version: 1.61
+Architecture: all
+Maintainer: Alienkrishn [Anon4You] 
+Depends: git, python, android-tools, nmap, which, scrcpy
+Section: security
+Priority: optional
+Homepage: https://github.com/AzeemIdrisi/PhoneSploit-Pro
+Description: Android hacking tool with ADB
+ Exploit Android devices via ADB with 20+ attack vectors.
+ Supports both USB and wireless ADB connections.
+Filename: dists/anon/main/binary-all/phonesploit-pro.deb
+Size: 1352
+MD5Sum: 8c7475f0171824b19d93d456c0037bdb
+SHA1: ceface51e6cd42302665d74b09f73ec6d22bcab4
+SHA256: b96a2165ae5bbc9c8913d59ca4f2f5fd15e0155d3379e3fb4916387df4ac7a01
+SHA512: 1ce17f5c624026e68521da84efbad2a5d63fe6dc9519619d4985b63c672087dea7b23da16f4477f69c37a57388a923c19e38001980a2af7c07980c44cc88e5fd
 
 Package: powerdos
 Version: 1.0.1

@@ -64,6 +64,7 @@ This repository provides specialized security and penetration testing tools for 
 | sqlscan     | SQL database vulnerability scanner |
 | zaproxy     | OWASP ZAP web security scanner |
 | websploit   | Web exploitation framework |
+| ngrok       | Secure tunneling to expose localhost (HTTPS/TCP) |
 
 ### 📱 Mobile Security
 | Tool       | Description                          |
@@ -75,6 +76,7 @@ This repository provides specialized security and penetration testing tools for 
 | apkpatcher | Advanced APK Modification Tool |
 | blutter    | Flutter app vulnerability analyzer |
 | rkpairip   | APK patching tool |
+| phonesploit-pro | All-in-one Android exploitation tool |
 
 ### 🎭 Social Engineering
 | Tool       | Description                          |
