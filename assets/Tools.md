@@ -77,6 +77,7 @@ This repository provides specialized security and penetration testing tools for 
 | blutter    | Flutter app vulnerability analyzer |
 | rkpairip   | APK patching tool |
 | phonesploit-pro | All-in-one Android exploitation tool |
+| ransomux   | Ransomware making tool |
 
 ### 🎭 Social Engineering
 | Tool       | Description                          |

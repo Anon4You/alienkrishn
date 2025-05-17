@@ -792,6 +792,22 @@ SHA1: 6c556defe4c576cd55a5accf684fddfc0a0e3ce8
 SHA256: 1391e95da6782d32fd781087cb45501e0089567dca1d24d1e6391e0bb42d4fa2
 SHA512: e19138dda73d105dd4c15d3fbbd2c89d705156c315d8e28926ab645e3f8edc882300538effac92cfa54a9cd2d87805d3cbc1302d336f08dddb9b0a455c179b00
 
+Package: ransomux
+Version: 1.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You] 
+Depends: git, libxml2, openjdk-17, apkeditor, apksigner, file, which 
+Section: security
+Priority: optional
+Homepage: https://github.com/Anon4You/RansoMux
+Description: Ramsomware making tool
+Filename: dists/anon/main/binary-all/ransomux.deb
+Size: 1208
+MD5Sum: 980d28e05ad7b13dd7e1e89f07e0f628
+SHA1: 20d5e85e0c2c7eb104674ca17b48b29d0eef8a83
+SHA256: b3607e83ef2cc07fdeed0f84b0eae4034c4ead3db1bad83af6b079cd9c5df5f6
+SHA512: 7334f99dc27b2c2a6cbcc528edbe67673ff9edf70af571d550da0a4a127a0832b41e9dd7869a7a3394316539d1f5dfd5c8e242e5bac6f691b2454e70adcf1f37
+
 Package: redhawk
 Version: 2.0.0
 Architecture: all
