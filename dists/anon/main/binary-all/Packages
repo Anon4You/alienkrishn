@@ -257,6 +257,24 @@ SHA1: f25274c73bbc38a8d582519f66a9aa83865f3188
 SHA256: 786a39ff3c64bab6f648d9472f57a6b3a279862532b0ef592656ff0706ed7523
 SHA512: d4a51d7ba0c7d913d64d06d070ef0d2ca79aa5fba86efcfc5cb62623ff3c8af2cafebaa072aaed669efbea90fb6ebcf57a6eec20e7c303a456f434881fc78784
 
+Package: cloudflare-gui
+Version: 1.0
+Architecture: all
+Priority: optional
+Section: net
+Maintainer: Alienkrishn [Anon4You]
+Depends: cloudflared, python, python-pip, python-tkinter
+Homepage: https://github.com/Keyaru-code/Cloudflare-GUI
+Description: Stylish GUI for Cloudflare Tunnels
+ Graphical interface for creating and managing Cloudflare tunnels.
+ Features one-click tunnel creation with automatic URL copying.
+Filename: dists/anon/main/binary-all/cloudflare-gui.deb
+Size: 11716
+MD5Sum: fe0b0b27bccbc88f879c47293ef3bf98
+SHA1: 0e6057b8c8baf969773d87cd0c8184cf73edb1e3
+SHA256: e6c5edda214810170e863657295da68f5db7e1c71aa421aad82bf93a8f7b83fd
+SHA512: 52dc27cce9a61938e83107d1963825b04b97ae235e2468513ba51d3cd4c0512e99ceafed00f43efdf8ba834ab1db8186c285e3a3eaee970901eb001774034e54
+
 Package: cupp
 Version: 3.3.0
 Architecture: all
@@ -908,18 +926,18 @@ SHA256: 374d7ee3e67621eb7ed5e93bfa57ed22b8fa3911b3b0d2b5ca3e833057f15ab3
 SHA512: c2253ba926b20eb0ab769152d4aaf64a62b6db08f56bb7f071abcfc0d3069064b728103be9e505453d7ed1a32690798f6885f136965c16d14efca7cb0e6614cf
 
 Package: spider
-Version: 1.0
+Version: 2.0
 Architecture: all
 Depends: python,python-pip
 Installed-Size: 1
 Maintainer: Alienkrishn [Anon4You]
 Description: telegram autoreport script
 Filename: dists/anon/main/binary-all/spider.deb
-Size: 3968
-MD5Sum: 0114f4fecfa7b07ed9d9e8adfdee3e47
-SHA1: c59c9d04b21002f10b9934a94e2b00b7fb2cf5cb
-SHA256: 337069cb3c44dfbc77cd63ec603df15b025387421e1dbceda8fa31a515966d14
-SHA512: 43f60749767c3fa4cb7baf69e4d9b87a045a18c8e6c2de272b40edaa7cabe1e4167ea8e2c607a9fc2201b021a01fb97d87918ac6f2b8c365f779e281fecea9b9
+Size: 4192
+MD5Sum: e2fba7ca5c9a471ab86342c698ca7a99
+SHA1: 7d1963f6f8a00a252f9312bb06d530cbf6c20f74
+SHA256: a3a9dd73802654b5384c65d71c6a8ce973b1103dbe03a320b9e36abd2749afc8
+SHA512: 3465477695d74511f974dbe4ab09532ad6eb8da68ed0e67c4fa32b948bc8a43e083ffe4b92c6018680940402c9ff4f0d68bf138c2c8a943d2dad82423e6a47a2
 
 Package: spurt
 Version: 1.9.0

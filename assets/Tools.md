@@ -65,6 +65,7 @@ This repository provides specialized security and penetration testing tools for 
 | zaproxy     | OWASP ZAP web security scanner |
 | websploit   | Web exploitation framework |
 | ngrok       | Secure tunneling to expose localhost (HTTPS/TCP) |
+| cloudflare-gui | Graphical interface for Cloudflare tunnels (cloudflared) |
 
 ### 📱 Mobile Security
 | Tool       | Description                          |

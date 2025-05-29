@@ -18,6 +18,9 @@ data/data/com.termux/files/usr/share/applications/burpsuite/burpsuite.desktop   
 data/data/com.termux/files/usr/share/applications/burpsuite/icon/burpsuite.png   burpsuite
 data/data/com.termux/files/usr/bin/cctvip                                        cctvip
 data/data/com.termux/files/usr/share/cctvip.py                                   cctvip
+data/data/com.termux/files/usr/bin/cloudflare-gui                                cloudflare-gui
+data/data/com.termux/files/usr/share/applications/cloudflared.desktop            cloudflare-gui
+data/data/com.termux/files/usr/share/pixmaps/cloudflared.png                     cloudflare-gui
 data/data/com.termux/files/usr/bin/cupp                                          cupp
 data/data/com.termux/files/usr/bin/cupp.cfg                                      cupp
 data/data/com.termux/files/usr/bin/darksploit                                    darksploit-framework
@@ -97,6 +100,7 @@ data/data/com.termux/files/usr/bin/spider                                       
 data/data/com.termux/files/usr/lib/spider/main.py                                spider
 data/data/com.termux/files/usr/lib/spider/report/report.py                       spider
 data/data/com.termux/files/usr/lib/spider/report/reporter.py                     spider
+data/data/com.termux/files/usr/lib/spider/report/requirements.txt                spider
 data/data/com.termux/files/usr/bin/sqlmap                                        sqlmap
 data/data/com.termux/files/usr/bin/term-helper                                   term-helper
 data/data/com.termux/files/usr/bin/tsfconsole                                    termsploit
