@@ -45,6 +45,9 @@ This repository provides specialized security and penetration testing tools for 
 ### 🔐 Password Tools
 | Tool       | Description                          |
 |------------|--------------------------------------|
+| pdfcracker | PDF password recovery tool |
+| zipcracker | ZIP archive password recovery |
+| fuckyou    | Custom password list generator |
 | cupp       | Targeted wordlist generator |
 | hashcat    | Advanced password recovery |
 | john       | John the Ripper password cracker |
