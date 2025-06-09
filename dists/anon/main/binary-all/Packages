@@ -372,11 +372,11 @@ Priority: optional
 Homepage: https://github.com/Anon4You/FuckYou
 Description: A powerful and customizable password list generator written in Bash.
 Filename: dists/anon/main/binary-all/fuckyou.deb
-Size: 3740
-MD5Sum: 07aa0a9e57817e5186cee102e213f7d2
-SHA1: 96623ef6ab58fe64a5d282c0a7692892ced2b12c
-SHA256: 7bf5a6de8ffba7c874d5123d0637157cbb8df0c98885b5918bc9692b34d27e55
-SHA512: e63a1a66223b51aa44d29d7a82cd1cd062f78c32065547ff6b8c8e6d317a6579c523d388114e4b233d4b050905ff2f1573621c10f5ac007b96c9235deab8b8e6
+Size: 3752
+MD5Sum: 143579b801d75d20028addd71b7d3526
+SHA1: f3e0cc1dcfedd9d87419f8dc45733e30a093dfad
+SHA256: d12f54059031b021bd82eb0c25078cd725c15363caa560b27952fa9ab123a916
+SHA512: 828cec6a54353d2f7b122c44dcea672df543774c19018cb2e63dc12bc400ad65834cdc1e1d2c2945ecf98bdbb3350eb8d105a1413a7f358a4595186f64225f30
 
 Package: gophish
 Version: 0.12.1-latest
