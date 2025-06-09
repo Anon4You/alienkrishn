@@ -363,7 +363,7 @@ SHA256: 2ef98bfd352c0c1ec2694ff6bd5eecc839dd18210053d50b7281d8e1c52f1461
 SHA512: 64e30a42ebafc98f6e476572e0865944ea52862fca56f75b684b3b9170fe05688d7dc96528a3f3c30cd3e02c055a239a0d4c60b82510fc17434c87422336208a
 
 Package: fuckyou
-Version: 1.0
+Version: 1.0.1
 Architecture: all
 Maintainer: Alienkrishn [Anon4You] 
 Depends: termux-exec
@@ -372,11 +372,11 @@ Priority: optional
 Homepage: https://github.com/Anon4You/FuckYou
 Description: A powerful and customizable password list generator written in Bash.
 Filename: dists/anon/main/binary-all/fuckyou.deb
-Size: 3724
-MD5Sum: 865f6752870c6190c903d0ef3e1c1139
-SHA1: b973d2be77b5c0c6c2e9ecb531ca1e5f0d8c9334
-SHA256: ec995de219d951c8c6ee25ed028da36f6b0772837899094eafc48c7ccf203d89
-SHA512: 8dd82c92f0a25c43f30e3340347c2c2ee263f7bc556dd599ddbc03c98da2f116b4816ed0cb537479561821e1b4fdd29ccec7a5ad2aa8ab4d929274cb60e97309
+Size: 3740
+MD5Sum: 07aa0a9e57817e5186cee102e213f7d2
+SHA1: 96623ef6ab58fe64a5d282c0a7692892ced2b12c
+SHA256: 7bf5a6de8ffba7c874d5123d0637157cbb8df0c98885b5918bc9692b34d27e55
+SHA512: e63a1a66223b51aa44d29d7a82cd1cd062f78c32065547ff6b8c8e6d317a6579c523d388114e4b233d4b050905ff2f1573621c10f5ac007b96c9235deab8b8e6
 
 Package: gophish
 Version: 0.12.1-latest
