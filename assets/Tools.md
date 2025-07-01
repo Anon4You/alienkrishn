@@ -19,7 +19,7 @@ This repository provides specialized security and penetration testing tools for 
 ### 📱 Mobile Development 
 | Tool          | Description                          |
 |---------------|--------------------------------------|
-| vediclang | World's first Sanskrit programming language |
+| vedic | World's first Sanskrit programming language |
 | android-sdk   | Complete Android development toolkit (ADB, Fastboot, etc) |
 | frida         | Dynamic instrumentation toolkit for app analysis |
 

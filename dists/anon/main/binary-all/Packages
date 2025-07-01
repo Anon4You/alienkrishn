@@ -1147,7 +1147,7 @@ SHA1: 1f97336f2d243c4fb0fe32ad71258efee7d146bb
 SHA256: 18cabc39eaa34e21d6faa0dc7db5368b1f514fafe8ed426f16a7a7fdd57c0369
 SHA512: 6bc94af33a755f15d690f1712fbf713237a5fd589e4e778aca4af54ea21133b1607f6dd8ef50fa6c6fe008289f4461b159fb523b573442680233304be9d5ef7f
 
-Package: vediclang
+Package: vedic
 Version: 2.0.6
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
@@ -1155,15 +1155,13 @@ Depends: git, rust, clang, make, cmake
 Section: devel
 Priority: optional
 Homepage: https://github.com/vedic-lang/vedic
-Description: Vedic programming language tools
- Compiler and tools for the Vedic programming language.
- Requires Rust toolchain for building.
-Filename: dists/anon/main/binary-all/vediclang.deb
-Size: 1328
-MD5Sum: a6b1e91ab6518423e5d9ef929f17bff9
-SHA1: dcbeef15690039bbf5403de2916e85618a985362
-SHA256: d8f43ca360919504aadcec95a38e36a9beb32bf289746bc1f1f76ee4a1d5b2e0
-SHA512: d64de9cefb2c2498e53a1c6abd4f311441dcbeeebcc8ab1eaa1d4413102ae6476fa60bb8c983ad617524f7bd03bb52726b7cedc601604ca281d0fc54de1da660
+Description: World's first Sanskrit programming language
+Filename: dists/anon/main/binary-all/vedic.deb
+Size: 1296
+MD5Sum: aeb79af65ad4080f3d0fbe843bf75e0c
+SHA1: 63251ed4fdf6217f11303bf49daa0e16c64d1484
+SHA256: ceb97b7c707305c36c26a4f1c5ac21e67555c0d1d6651051bd125b9ed0b34190
+SHA512: 2ab845db8f7d822439e0c8b5076369ea2583d1acfa793b81219affd99b249dcafb39696bd7f0e0096c5a89fa8f65b1659b07536ba525c8fc1858eb629dfbca18
 
 Package: venom
 Version: 1.0.3
