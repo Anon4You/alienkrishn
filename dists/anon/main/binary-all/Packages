@@ -582,6 +582,21 @@ SHA1: 607d60001e49ae5c6fba93157cc0a87fca46128b
 SHA256: e37fef1440ea59af8f62793718a3d8744dfeb341066dc0b74a0f15c077139b23
 SHA512: 33bcddd83872a46d36a5fbb52889558f848445d48c7e8af1524bf520a627119adb227fd17e7393e784a3f59b30ec8c0556c60eb8a566cbf4302f9d4533fc7b98
 
+Package: keysigner
+Version: 4.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: python, python-pip, openjdk-17, apksigner, openssl-tool
+Homepage: https://github.com/muhammadrizwan87/keysigner.git
+Description: APK signing tool for Termux
+ A tool for signing APK files on Termux with various options.
+Filename: dists/anon/main/binary-all/keysigner.deb
+Size: 960
+MD5Sum: c2274575d70cf284b1c550e1de597f70
+SHA1: 3c44086e4b100bdc07ef73ac5004237473d19c81
+SHA256: 6db415d9a15c4d4b641e478745d49dd7e353d49d3154ab5a6a637f0b96b7df64
+SHA512: d26c139a13841104171e4de7c77434425ed79241c20fe1ce3ee9c95bf09137d38a1d579f26745b334a5d35e47c544c6b72e6136a1db1993a2fa14d75773eb20b
+
 Package: local2onion
 Version: 1.0
 Architecture: all
