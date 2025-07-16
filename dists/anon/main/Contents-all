@@ -13,9 +13,8 @@ data/data/com.termux/files/usr/bin/blutter                                      
 data/data/com.termux/files/usr/bin/burpsuite-pro                                 burpsuite-pro
 data/data/com.termux/files/usr/share/applications/burpsuite-pro/burpsuite-pro.desktop burpsuite-pro
 data/data/com.termux/files/usr/share/pixmaps/burpsuite-pro.png                   burpsuite-pro
-data/data/com.termux/files/usr/bin/burpsuite                                     burpsuite
-data/data/com.termux/files/usr/share/applications/burpsuite/burpsuite.desktop    burpsuite
-data/data/com.termux/files/usr/share/applications/burpsuite/icon/burpsuite.png   burpsuite
+data/data/com.termux/files/usr/share/applications/burpsuite.desktop              burpsuite
+data/data/com.termux/files/usr/share/pixmaps/burpsuite.png                       burpsuite
 data/data/com.termux/files/usr/bin/cctvip                                        cctvip
 data/data/com.termux/files/usr/share/cctvip.py                                   cctvip
 data/data/com.termux/files/usr/bin/cloudflare-gui                                cloudflare-gui
