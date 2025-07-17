@@ -28,6 +28,7 @@ This repository provides specialized security and penetration testing tools for 
 |------------------------|--------------------------------------|
 | termux-ai              | AI assistant for Termux terminal |
 | termux-media-downloader| Advanced media downloader with resume support |
+| ollama                 | Get up and running with large language models |
 
 ### 🔍 Information Gathering
 | Tool       | Description                          |

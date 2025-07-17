@@ -734,6 +734,20 @@ SHA1: 8939475452fa5966043fd2b467e7151d3de933ba
 SHA256: ee340ac3e721efde9a219904606e429271b147c3b7bc9d62bc26de82af4d5841
 SHA512: 00bd7005f7b20061518a19ffe11a400682690029c0f0d4c5ac410a1a80e1f98086edc16d9442b9130edaa869ef1d799a10db000e502b481e7ff9b37eaa5889ea
 
+Package: ollama
+Version: 0.9.7-rc1
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Homepage: https://github.com/Anon4You/ollama-in-termux
+Depends: curl, proot-distro
+Description: Ollama, a powerful language model, in a Termux environment using Proot.
+Filename: dists/anon/main/binary-all/ollama.deb
+Size: 928
+MD5Sum: 89851c6d7ebb6378d3ccd0bedf94f5a0
+SHA1: c43451f8383bf03719223a90ad3d408c828f5736
+SHA256: 963eb63313fa799d05370b7e83f154efcc8d1b007193684d5419a72988bebd83
+SHA512: 2979f771084ab91aa66c6da136cfda9cc39597fe9f85e581ef851771eedf9e77c9899ab82ceb4183ba98721e6d917cd55a848d11ae2f86a9d7dd596efddd94c5
+
 Package: pandora
 Version: 3.2.0
 Architecture: all
