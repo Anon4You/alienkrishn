@@ -1105,19 +1105,33 @@ SHA1: b98497f202173f37630fa0788f9f70eb51b2c771
 SHA256: 8c6874f05647db238a188301cdc75da6e659f9412f4585e13d3c8c45ac4012ce
 SHA512: 314e2eb835231d287a5cf36b0958b69a0ffb8a8d253c5deb4102490c03b503e08fc3d79b2da67b45ab8ecd5e667518aba9caa4b2e72091366d8df6131c9459e6
 
-Package: termux-desktop
-Version: 1.0.2
+Package: termux-desktop-wallpapers
+Version: 1.0
 Architecture: all
 Maintainer: Alienkrishn [Anon4You]
-Depends: termux-am,xfce4,xfce4-terminal,xfce4-goodies,xwayland,xfce4-whiskermenu-plugin,firefox,neovim,termux-x11-nightly,dbus
-Installed-Size: 12632
-Description: termux xfce4 desktop gui
+Depends: termux-tools, termux-desktop
+Homepage: https://alienkrishn.infy.uk
+Description: Wallpapers for termux-desktop
+Filename: dists/anon/main/binary-all/termux-desktop-wallpapers.deb
+Size: 14061720
+MD5Sum: ba127815bb43e7d21919a2de3e52395c
+SHA1: afcfad16607ac831da7ce1dd83262e61918d5782
+SHA256: e60cd79cd9c02be965bd2107f5adafd673c60f016a7218ebe002cfbcca75b70b
+SHA512: 2d3950f627f0ac42008fc733d9c43098dc67fbc62f9cd5d09191dc2cf5f7a407d1e0f09b218cf65464758c0a1277ded2a8c5163c98772a3a4dae19d65d3d1947
+
+Package: termux-desktop
+Version: 1.0.4
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: termux-am,xfce4,xfce4-terminal,xfce4-goodies,xwayland,xfce4-whiskermenu-plugin,firefox,neovim,termux-x11-nightly,dbus,termux-desktop-wallpapers
+Installed-Size: 68792
+Description: termux xfce4 desktop gui with Hacker themes and icona
 Filename: dists/anon/main/binary-all/termux-desktop.deb
-Size: 1892832
-MD5Sum: fefd612dd04f46b25bc52a3d9209d975
-SHA1: 703e74092435ad5d49fc2d38daed30c66c14e7ca
-SHA256: 465b825bc4aa5112db03b37f097200bd5df025011c861d75433f93747fdc1a7b
-SHA512: 1c24e8797625a1f07052b284d41d5632fe7a4437ecfe116c683cacdc542837231c48303420d4416230cd1dfddfbff8bf3dd7f561d942fb249d5116cd5fcfc734
+Size: 8109044
+MD5Sum: 989748f44ee56a5cdc7c51db51217bd4
+SHA1: 749015ac5cfa3a3cba429494db2154b21ec676e4
+SHA256: 84874e21b7d6423146e7c9215239afacdff94cd0049065b82323237d22d07600
+SHA512: c7d2f8ab814d09e50e6c0f9bdb435aafe55a95b9df0c8dcd3f76b8549ef20b7879d51d792284491395deb73f3ff2f3affcf18849f7d4354d5bcf3bfafb700e8c
 
 Package: termux-media-downloader
 Version: 2.1
