@@ -121,7 +121,7 @@ SHA256: 88639346307cfb4c2316c075a19f0d1bb683856c88590b32d0fbe04d711b15d0
 SHA512: 0a76499144872900bf93f42913c9f1913f7ec27f42f5425c5a3b508fc4afeb050af99e33ebd97d36a75eca42eedd66c20245f59301dbeeda3907441e6cd2b5a8
 
 Package: apktool
-Version: 2.11.1
+Version: 2.12.0
 Architecture: all
 Maintainer: Alienkrishn [Anon4You] <alienkrishn@example.com>
 Depends: openjdk-17, wget
@@ -132,11 +132,11 @@ Description: Reverse engineering Android APKs
  Decompile and rebuild APK files with resource preservation.
  Supports Smali debugging and manifest analysis.
 Filename: dists/anon/main/binary-all/apktool.deb
-Size: 1400
-MD5Sum: 6974a9028902bf7b3bb0d7d482f1a76a
-SHA1: 1072e25e00d71b1b5c0c4d405b689a116546fcdf
-SHA256: 2c41dfe0ebd016fb30e7ca0de096084b9d1e64349cecbb520fcc9799d8fabeac
-SHA512: a35c5f6ad23d8096b7948726aededd891c75469f8700c9f017ce8c27d74e21e79fe0c589000636270d6051b07b15595e76e93a3e82ee6ef3d1418a5b827d37b3
+Size: 1412
+MD5Sum: 9a1b57bf649938cdce243d4653c4a440
+SHA1: 74825b1e6c49e8922c517c678cfcae433c4e1cb0
+SHA256: 0bdce1330435d802135c80d3684bd76755eae7e501004ed0bdc39b9c66b343b1
+SHA512: 61232526baa36f71c98c9297539c9f1a0cb9e7fbe871719703fafe357107828c858a10964975252a657e0a1a821e212a684a65c420512cdbaa9b60539acc4610
 
 Package: beef
 Version: 0.5.4.0
