@@ -107,6 +107,13 @@ This repository provides specialized security and penetration testing tools for 
 | termux-desktop | Termux desktop environment |
 | termux-penv    | Chroot container for Termux |
 
+### 🎨 Text & Utilities
+
+| Tool           | Short Description                     |
+|----------------|---------------------------------------|
+| asciibanner | Colorful FIGlet-compatible ASCII art generator |
+| random-banner  | Pre-made ASCII banner collection      |
+
 ### 🚨 Attack Tools
 | Tool               | Description                          |
 |--------------------|--------------------------------------|
@@ -133,7 +140,6 @@ This repository provides specialized security and penetration testing tools for 
 |----------------|--------------------------------------|
 | nethunter-cli  | Kali NetHunter command-line interface |
 | parrot         | Lightweight security OS |
-| random-banner  | ASCII art generator |
 | spider         | Mass Telegram account reporting |
 | term-helper    | Linux command cheatsheet |
 | webserver      | Localhost internet exposure tool |

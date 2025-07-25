@@ -138,6 +138,20 @@ SHA1: 74825b1e6c49e8922c517c678cfcae433c4e1cb0
 SHA256: 0bdce1330435d802135c80d3684bd76755eae7e501004ed0bdc39b9c66b343b1
 SHA512: 61232526baa36f71c98c9297539c9f1a0cb9e7fbe871719703fafe357107828c858a10964975252a657e0a1a821e212a684a65c420512cdbaa9b60539acc4610
 
+Package: asciibanner
+Version: 1.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: python, libcaca
+Homepage: https://github.com/Anon4You/asciibanner
+Description: A feature-rich FIGlet-compatible ASCII art generator with color support and font previews
+Filename: dists/anon/main/binary-all/asciibanner.deb
+Size: 1150428
+MD5Sum: 3f29466d6d19a85bc5aeb010b4fde7c5
+SHA1: 134b49c04060a9de3856dd8132aa9d7289cafdb7
+SHA256: 715c7c9406fa0c41e8615e78b02a2c3689df9342ea8d806d1811ec6fd1b18465
+SHA512: 1080628a2ad90be05feea236b617e1ca6005ee204342b76baa0db92e53b1a8d58e5f2663cd9a91229d35977e85e0302114fe4dbf48688ada276a3f862d5f4ac9
+
 Package: beef
 Version: 0.5.4.0
 Architecture: all

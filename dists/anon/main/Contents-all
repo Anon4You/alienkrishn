@@ -4,6 +4,449 @@ data/data/com.termux/files/home/.termux/colors.properties                       
 data/data/com.termux/files/home/.termux/font.ttf                                 alienkrishn
 data/data/com.termux/files/usr/bin/alienkrishn                                   alienkrishn
 data/data/com.termux/files/usr/bin/androdos                                      androdos
+data/data/com.termux/files/usr/bin/asciibanner                                   asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/1Row.flf                  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/3-D.flf                   asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/3D Diagonal.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/3D-ASCII.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/3d.flf                    asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/3d_diagonal.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/3x5.flf                   asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/4Max.flf                  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/5 Line Oblique.flf        asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/5lineoblique.flf          asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/646-ca.flc                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/646-ca2.flc               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/646-cn.flc                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/646-cu.flc                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/646-de.flc                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/646-dk.flc                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/646-es.flc                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/646-es2.flc               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/646-fr.flc                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/646-gb.flc                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/646-hu.flc                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/646-irv.flc               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/646-it.flc                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/646-jp.flc                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/646-kr.flc                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/646-no.flc                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/646-no2.flc               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/646-pt.flc                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/646-pt2.flc               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/646-se.flc                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/646-se2.flc               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/646-yu.flc                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/8859-2.flc                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/8859-3.flc                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/8859-4.flc                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/8859-5.flc                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/8859-7.flc                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/8859-8.flc                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/8859-9.flc                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/AMC 3 Line.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/AMC 3 Liv1.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/AMC AAA01.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/AMC Neko.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/AMC Razor.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/AMC Razor2.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/AMC Slash.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/AMC Slider.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/AMC Thin.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/AMC Tubes.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/AMC Untitled.flf          asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/ANSI Regular.flf          asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/ANSI Shadow.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/ASCII New Roman.flf       asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Acrobatic.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Alligator.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Alligator2.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Alpha.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Alphabet.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Arrows.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Avatar.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/B1FF.flf                  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/B1FF.php                  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Banner.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Banner3-D.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Banner3.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Banner4.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Barbwire.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Basic.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Bear.flf                  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Bell.flf                  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Benjamin.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Big Chief.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Big Money-ne.flf          asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Big Money-nw.flf          asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Big Money-se.flf          asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Big Money-sw.flf          asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Big.flf                   asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Bigfig.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Binary.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Block.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Blocks.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Bloody.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Bolger.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Braced.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Bright.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Broadway KB.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Broadway.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Bubble.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Bulbhead.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Caligraphy.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Caligraphy2.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Calvin S.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Cards.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Catwalk.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Chiseled.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Chunky.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Coinstak.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Cola.flf                  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Colossal.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Computer.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Contessa.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Contrast.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Cosmike.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Crawford.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Crawford2.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Crazy.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Cricket.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Cursive.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Cyberlarge.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Cybermedium.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Cybersmall.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Cygnet.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/DANC4.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/DOS Rebel.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/DWhistled.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Dancing Font.flf          asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Decimal.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Def Leppard.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Delta Corps Priest 1.flf  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Diamond.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Diet Cola.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Digital.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Doh.flf                   asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Doom.flf                  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Dot Matrix.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Double Shorts.flf         asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Double.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Dr Pepper.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Efti Chess.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Efti Font.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Efti Italic.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Efti Piti.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Efti Robot.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Efti Wall.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Efti Water.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Electronic.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Elite.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Epic.flf                  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Examples.md               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Fender.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Filter.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Fire Font-k.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Fire Font-s.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Flipped.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Flower Power.flf          asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Four Tops.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Fraktur.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Fun Face.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Fun Faces.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Fuzzy.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Georgi16.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Georgia11.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Ghost.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Ghoulish.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Glenyn.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Goofy.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Gothic.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Graceful.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Gradient.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Graffiti.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Greek.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Heart Left.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Heart Right.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Henry 3D.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Hex.flf                   asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Hieroglyphs.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Hollywood.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Horizontal Left.flf       asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Horizontal Right.flf      asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/ICL-1900.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Impossible.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Invita.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Isometric1.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Isometric2.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Isometric3.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Isometric4.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Italic.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Ivrit.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/JS Block Letters.flf      asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/JS Bracket Letters.flf    asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/JS Capital Curves.flf     asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/JS Cursive.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/JS Stick Letters.flf      asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Jacky.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Jazmine.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Jerusalem.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Katakana.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Kban.flf                  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Keyboard.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Knob.flf                  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Konto Slant.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Konto.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/LCD.flf                   asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Larry 3D 2.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Larry 3D.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Lean.flf                  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Letters.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Lil Devil.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Line Blocks.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Linux.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Lockergnome.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Madrid.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Marquee.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Maxfour.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Merlin1.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Merlin2.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Mike.flf                  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Mini.flf                  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Mirror.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Mnemonic.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Modular.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Morse.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Morse2.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Moscow.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Mshebrew210.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Muzzle.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/NScript.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/NT Greek.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/NV Script.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Nancyj-Fancy.flf          asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Nancyj-Improved.flf       asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Nancyj-Underlined.flf     asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Nancyj.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Nipples.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/O8.flf                    asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/OS2.flf                   asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Octal.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Ogre.flf                  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Old Banner.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Patorjk's Cheese.flf      asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Patorjk-HeX.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Pawp.flf                  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Peaks Slant.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Peaks.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Pebbles.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Pepper.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Poison.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Puffy.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Puzzle.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Pyramid.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/README.md                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Rammstein.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Rectangles.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Red Phoenix.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Relief.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Relief2.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Reverse.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Roman.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Rot13.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Rot13.php                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Rotated.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Rounded.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Rowan Cap.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Rozzo.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Runic.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Runyc.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/S Blood.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/SL Script.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Santa Clara.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Script.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Serifcap.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Shadow.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Shimrod.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Short.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Slant Relief.flf          asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Slant.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Slide.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Small Caps.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Small Isometric1.flf      asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Small Keyboard.flf        asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Small Poison.flf          asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Small Script.flf          asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Small Shadow.flf          asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Small Slant.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Small Tengwar.flf         asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Small.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Soft.flf                  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Speed.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Spliff.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Stacey.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Stampate.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Stampatello.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Standard.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Star Strips.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Star Wars.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Stellar.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Stforek.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Stick Letters.flf         asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Stop.flf                  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Straight.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Stronger Than All.flf     asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Sub-Zero.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Swamp Land.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Swan.flf                  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Sweet.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/THIS.flf                  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Tanja.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Tengwar.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Term.flf                  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Test1.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/The Edge.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Thick.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Thin.flf                  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Thorned.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Three Point.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Ticks Slant.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Ticks.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Tiles.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Tinker-Toy.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Tombstone.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Train.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Trek.flf                  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Tsalagi.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Tubes-Regular.flf         asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Tubes-Smushed.flf         asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Tubular.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Twisted.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Two Point.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/USA Flag.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Univers.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Varsity.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Wavy.flf                  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Weird.flf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Wet Letter.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Whimsy.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/Wow.flf                   asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/alligator3.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/amc3line.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/amc3liv1.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/amcaaa01.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/amcneko.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/amcrazo2.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/amcrazor.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/amcslash.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/amcslder.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/amcthin.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/amctubes.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/amcun1.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/ascii12.tlf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/ascii9.tlf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/ascii_new_roman.flf       asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/bigascii12.tlf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/bigascii9.tlf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/bigchief.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/bigmono12.tlf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/bigmono9.tlf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/broadway_kb.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/calgphy2.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/circle.tlf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/cosmic.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/dancingfont.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/defleppard.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/dietcola.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/dosrebel.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/dotmatrix.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/doubleshorts.flf          asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/drpepper.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/eftichess.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/eftifont.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/eftipiti.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/eftirobot.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/eftitalic.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/eftiwall.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/eftiwater.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/emboss.tlf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/emboss2.tlf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/fire_font-k.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/fire_font-s.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/flowerpower.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/fourtops.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/frango.flc                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/funface.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/funfaces.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/future.tlf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/halfiwi.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/heart_left.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/heart_right.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/henry3d.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/horizontalleft.flf        asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/horizontalright.flf       asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/hz.flc                    asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/ilhebrew.flc              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/jis0201.flc               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/koholint.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/koi8r.flc                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/kompaktblk.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/kontoslant.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/larry3d.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/letter.tlf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/lildevil.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/lineblocks.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/maxiwi.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/miniwi.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/mono12.tlf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/mono9.tlf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/moscow.flc                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/ntgreek.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/oldbanner.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/pagga.tlf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/peaksslant.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/rebel.tlf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/red_phoenix.flf           asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/rev.flf                   asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/rowancap.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/rusto.tlf                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/rustofat.tlf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/s-relief.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/santaclara.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/sblood.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/six-fo.flf                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/slscript.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/smallcaps.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/smascii12.tlf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/smascii9.tlf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/smblock.tlf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/smbraille.tlf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/smisome1.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/smkeyboard.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/smmono12.tlf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/smmono9.tlf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/smpoison.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/smscript.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/smshadow.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/smslant.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/smtengwar.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/starstrips.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/starwars.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/stencil.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/swampland.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/threepoint.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/ticksslant.flf            asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/twopoint.flf              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/ublk.flf                  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/upper.flc                 asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/usaflag.flf               asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/ushebrew.flc              asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/uskata.flc                asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/utf8.flc                  asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/wetletter.flf             asciibanner
+data/data/com.termux/files/usr/share/asciibanner/fonts/wideterm.tlf              asciibanner
+data/data/com.termux/files/usr/share/doc/LICENSE                                 asciibanner
+data/data/com.termux/files/usr/share/man/man1/asciibanner.1.gz                   asciibanner
 data/data/com.termux/files/usr/bin/beef                                          beef
 data/data/com.termux/files/usr/bin/bitb                                          bitb-framework
 data/data/com.termux/files/usr/bin/bitb-installer                                bitb-framework
