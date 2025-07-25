@@ -446,7 +446,6 @@ data/data/com.termux/files/usr/share/asciibanner/fonts/utf8.flc                 
 data/data/com.termux/files/usr/share/asciibanner/fonts/wetletter.flf             asciibanner
 data/data/com.termux/files/usr/share/asciibanner/fonts/wideterm.tlf              asciibanner
 data/data/com.termux/files/usr/share/doc/LICENSE                                 asciibanner
-data/data/com.termux/files/usr/share/man/man1/asciibanner.1.gz                   asciibanner
 data/data/com.termux/files/usr/bin/beef                                          beef
 data/data/com.termux/files/usr/bin/bitb                                          bitb-framework
 data/data/com.termux/files/usr/bin/bitb-installer                                bitb-framework
