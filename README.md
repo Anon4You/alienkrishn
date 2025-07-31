@@ -1,3 +1,8 @@
+# ⚠️ Repository Archived Notice
+
+**This repository is no longer maintained**  
+All tools have been migrated to the new [**TermuxVoid**](https://termuxvoid.github.io) repository.
+
 <div align="center">
   <a href="https://anon4you.github.io/alienkrishn/">
     <img alt="AlienKrishn" height="200" src="assets/img.png">
