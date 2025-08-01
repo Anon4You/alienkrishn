@@ -1,7 +1,7 @@
 # ⚠️ Repository Archived Notice
 
 **This repository is no longer maintained**  
-All tools have been migrated to the new [**TermuxVoid**](https://termuxvoid.github.io) repository.
+All tools have been moved to the new [**TermuxVoid**](https://github.com/termuxvoid/repo) repository.
 
 <div align="center">
   <a href="https://anon4you.github.io/alienkrishn/">
@@ -29,44 +29,6 @@ All tools have been migrated to the new [**TermuxVoid**](https://termuxvoid.gith
 ## 🔍 Overview
 
 This repository serves as an extended package source for Termux users, providing specialized tools and utilities not found in the official repositories. Currently featuring **50+ hacking and security tools**, it's perfect for penetration testers, security researchers, and tech enthusiasts.
-
-## 📦 Available Tools
-
-Explore our comprehensive collection of tools in the [Tools Documentation](https://github.com/Anon4You/alienkrishn/blob/main/assets/Tools.md).
-
-## 🛠️ Installation
-
-### Add the Repository
-To add this repository to your Termux installation, run:
-```bash
-curl -sL https://is.gd/addrepo | bash
-```
-
-### Install Packages
-After adding the repository, install packages using either:
-```bash
-apt install <package_name> -y
-# or
-pkg install <package_name> -y
-```
-
-## ❓ Frequently Asked Questions
-
-**Q: Is this repository safe to use?**  
-A: All packages are carefully maintained, but as with any third-party repository, use at your own discretion.
-
-**Q: How often are packages updated?**  
-A: We strive to keep packages updated regularly. Check our Telegram channel for update announcements.
-
-## 💖 Support the Project
-
-If you find this repository useful, please consider supporting our work:
-- ⭐ Star this repository
-- 📺 Subscribe to our [YouTube Channel](https://youtube.com/@alienkrishnorg)
-- 📢 Join our [Telegram Channel](https://t.me/nullxvoid)
-- 📸 Follow on [Instagram](https://www.instagram.com/alienkrishn)
-
-Your support helps us maintain and improve this repository!
 
 ## 📜 License
 This project is licensed under the [BSD 3-Clause License](https://github.com/Anon4You/alienkrishn/blob/main/LICENSE).
