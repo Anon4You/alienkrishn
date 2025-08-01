@@ -1,8 +1,3 @@
-# ⚠️ Repository Archived Notice
-
-**This repository is no longer maintained**  
-All tools have been moved to the new [**TermuxVoid**](https://github.com/termuxvoid/repo) repository.
-
 <div align="center">
   <a href="https://anon4you.github.io/alienkrishn/">
     <img alt="AlienKrishn" height="200" src="assets/img.png">
@@ -25,6 +20,11 @@ All tools have been moved to the new [**TermuxVoid**](https://github.com/termuxv
     <img src="https://img.shields.io/badge/Instagram-@alienkrishn-E4405F?logo=instagram" alt="Instagram">
   </a>
 </p>
+
+# ⚠️ Repository Archived Notice
+
+**This repository is no longer maintained**  
+All tools have been moved to the new [**TermuxVoid**](https://github.com/termuxvoid/repo) repository.
 
 ## 🔍 Overview
 
